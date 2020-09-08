@@ -7,6 +7,8 @@ title = "Siddhartha Roy"
 
 theme="hello-friend"  
 
+googleAnalytics = "UA-177557791-1"
+
 [params]
 
 defaultTheme="light"
