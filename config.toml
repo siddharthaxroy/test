@@ -1,4 +1,4 @@
-ebaseURL = "/"
+baseURL = "/"
 languageCode = "en-us"
 
 keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks"]
