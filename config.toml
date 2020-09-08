@@ -1,4 +1,4 @@
-ebaseURL = "/home/"
+ebaseURL = "/"
 languageCode = "en-us"
 
 keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks"]
@@ -8,8 +8,6 @@ title = "Siddhartha Roy"
 theme="hello-friend"  
 
 [params]
-
-description = "environmental engineer . virginia tech"
 
 defaultTheme="light"
 
