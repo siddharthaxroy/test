@@ -4,8 +4,9 @@ title: "First Principles"
 
 ------
 
-- Scientific method, truth seeking, and intellectual humility
+- Scientific method, truth-seeking, and intellectual humility
 - "Truth over justice" - to fight real environmental injustice
+- Bring light (over heat) through evidence, conversation, and compromise
 - First Canon: "To hold paramount the health, safety and welfare of the public"
 - Public University obligations: Science as a public good
 - United Nations SDG #6.1: "ensure safe drinking water for all"
