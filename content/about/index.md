@@ -18,4 +18,4 @@ Siddhartha Roy is an Environmental Engineer, Postdoctoral Researcher, and Writer
 
 **Curriculum Vitae:** [full](CV.pdf) / [two-pager](Resume.pdf)
 
-Email: sidroy@vt.edu / Twitter: [siddharthaxroy](https://twitter.com/siddharthaxroy)
+e: sidroy@vt.edu / tw: [@siddharthaxroy](https://twitter.com/siddharthaxroy) / LnkdIn: [sidr](http://linkedin.com/in/sidr)
