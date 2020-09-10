@@ -1,0 +1,8 @@
+{{ if .Get 1 }}
+  <a href="#mailgo" data-address="{{ .Get 0 }}" data-domain="{{ .Get 1 }}">
+    <img src="/icon/mailgo.png" {{ with .Get 2 }} height="{{ . }}" {{ end }}/>
+  </a>
+
+  <!-- script automatically included wherever shortcode is used -->
+  <script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.17/dist/mailgo.min.js"></script>
+{{ end }}
