@@ -6,7 +6,9 @@ title: "Events"
 ### Upcoming
 
 \2020. October 27. Linda Hall Library of Science, Engineering & Technology. Kansas City, MO. [Attend↗](https://www.lindahall.org/event/water-access-supply-and-sustainability/)
+
 \2020. September 24. Nirma University, Ahmedabad, India (via satellite).
+
 \2020. September 15. Freddie Mac (via satellite).
 
 ------
