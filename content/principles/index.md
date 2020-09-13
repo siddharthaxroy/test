@@ -8,7 +8,7 @@ title: "First Principles"
 - "Truth over justice" - to fight real environmental injustice
 - Bring light (over heat) through evidence, conversation, and compromise
 - Stats 001: Without data, you are (usually) just someone with an opinion
-- Stats 001.1: Outrage, offense, and highfalutin words are not data points
+- Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
 - Stats 101: Anecdotes/Anecdata << Large datasets
 - Stats 201: Correlation is (often) not causation
 - First Canon: "To hold paramount the health, safety and welfare of the public"
