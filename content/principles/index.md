@@ -18,6 +18,7 @@ title: "First Principles"
 - Apply tenets of “Effective Altruism” to research
 - Counter perverse incentives: quality over quantity
 - Navigating ethical dilemmas and cognitive biases is hard but crucial
+- Exercise (and urge in others) civic and moral courage
 - Commitment to free speech and open inquiry
 - “Trust” is science's main product
 
