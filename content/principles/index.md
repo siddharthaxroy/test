@@ -17,6 +17,7 @@ title: "First Principles"
 - Exercise (and urge in others) civic and moral courage
 - Commitment to free speech and open inquiry
 - “Trust” is science's main product
+
 In general:
 - Stats 001: Without data, you are just someone with an opinion
 - Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
