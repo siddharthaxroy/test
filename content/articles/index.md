@@ -47,7 +47,7 @@ title: "Scientific Articles"
 
 ------
 
-Doctoral Dissertation: Interplay of Water Chemistry and Entrained Particulates in Erosion Corrosion of Copper and Nonleaded Alloys in Potable Water Systems [Read↗](https://vtechworks.lib.vt.edu/handle/10919/82668)
+**PhD Dissertation**: Interplay of Water Chemistry and Entrained Particulates in Erosion Corrosion of Copper and Nonleaded Alloys in Potable Water Systems [Read↗](https://vtechworks.lib.vt.edu/handle/10919/82668)
 
 ------
 
