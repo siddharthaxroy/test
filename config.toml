@@ -18,7 +18,7 @@ hideReadMore=true
 [languages.en.params.logo]
 # logoText = "siddhartha roy"
 logoHomeLink = "/"
-path = "/img/your-example-logo.svg"
+path = "/img/logo.svg"
 alt = "Siddhartha Roy"
 
 [[menu.main]]
