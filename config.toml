@@ -16,8 +16,10 @@ defaultTheme="light"
 hideReadMore=true
 
 [languages.en.params.logo]
-logoText = "siddhartha roy"
+# logoText = "siddhartha roy"
 logoHomeLink = "/"
+path = "/img/your-example-logo.svg"
+alt = "Siddhartha Roy"
 
 [[menu.main]]
     url = "/articles/"
