@@ -3,8 +3,7 @@
     {{ if $.Site.Copyright }}
       <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
     {{else}}
-      {{ partial "logo.html" . }}
-      <div class="copyright">
+        <div class="copyright">
         <span>© {{ now.Year }} SR </span> 
         <span> <a href="/credits/">Credits</a></span>
       </div>
@@ -16,3 +15,5 @@
 <script src="{{ "assets/prism.js" | absURL }}"></script>
 
 {{- partial "extended_footer.html" . }}
+
+<!--- # {{ partial "logo.html" . }} right after else and before div class copyright--->
