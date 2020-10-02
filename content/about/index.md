@@ -8,7 +8,7 @@ title: "About"
 
 ------
 
-Siddhartha Roy is an environmental engineer, postdoctoral researcher, and author at Virginia Tech, who works at the nexus of drinking water, public health and environmental justice. He and his team’s scientific and humanitarian work, with residents of Flint Michigan, helped uncover the Flint Water Crisis.
+Siddhartha Roy is an environmental engineer, research scientist, and author at Virginia Tech, who works at the nexus of drinking water, public health and environmental justice. He and his team’s scientific and humanitarian work, with residents of Flint Michigan, helped uncover the Flint Water Crisis.
 
  Siddhartha’s work has been discussed in *The New York Times*, *BBC World Service*, and the PBS® NOVA documentary *“Poisoned Water,”* and his TED talk *“Science in service to the public good”* has been viewed over a million times worldwide. His current undertakings include supervising water quality investigations in underserved communities and post-industrial cities across the U.S., conducting research on plumbing corrosion, blood lead modeling, citizen science, wastewater (or, biosolids) based epidemiology, and engineering ethics, and executive producing documentaries and podcasts to enhance public understanding of science.
 
