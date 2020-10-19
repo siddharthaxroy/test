@@ -20,7 +20,7 @@ Service and public good:
 How to act:
 - Learning to navigate ethical dilemmas and cognitive biases is crucial
 - Exercise (and urge in others) civic and moral courage
-- Emphasize "truth over justice"[^1] to fight real environmental injustice
+- Emphasize "truth over justice" [^1] to fight real environmental injustice
 - Unwaveringly defend free speech and open inquiry
 - Counter perverse incentives: quality over quantity
 
