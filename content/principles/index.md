@@ -20,7 +20,7 @@ Service and public good:
 How to act:
 - Learning to navigate ethical dilemmas and cognitive biases is crucial
 - Exercise (and urge in others) civic and moral courage
-- Emphasize "truth over justice"[^Telos] to fight real environmental injustice
+- Emphasize "truth over justice"[^1] to fight real environmental injustice
 - Unwaveringly defend free speech and open inquiry
 - Counter perverse incentives: quality over quantity
 
@@ -31,6 +31,6 @@ Statistics:
 - Stats 201: Correlation is not causation
 - Stats 301: Correlation tends to causation when you converge 
 
-[^Telos]: If you care about justice, you have to find out first what is true. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more.
+[^1]: If you care about justice, you have to find out first what is true. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more.
 ------
 
