@@ -6,6 +6,7 @@ title: "First Principles"
 
 - Scientific method, truth-seeking, and intellectual humility
 - "Truth over justice" - to fight real environmental injustice
+- Science is about seeking the truth, not group consensus
 - Bring light (over heat) through evidence, conversation, and compromise
 - First Canon: "To hold paramount the health, safety and welfare of the public"
 - Reduce suffering, advance well-being, and promote flourishing
