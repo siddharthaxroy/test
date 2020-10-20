@@ -29,9 +29,6 @@ Statistics:
 - Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
 - Stats 101: Anecdotes/Anecdata << Large datasets
 - Stats 201: Correlation is not causation
-- Stats 301: Correlation tends to causation when you converge 
 
 [^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more.
-
-------
 
