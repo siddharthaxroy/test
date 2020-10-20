@@ -8,6 +8,7 @@ Science:
 - Science is about seeking the truth, not group consensus
 - Several possibilities do not mean all of them are equally likely
 - “Trust” is science's main product
+- Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?
 
 Service and public good:
 - Bring light (over heat) through evidence, conversation, and compromise
