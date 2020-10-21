@@ -5,15 +5,19 @@ title: "Events"
 
 ### Upcoming
 
-\2020. September 24. Nirma University, Ahmedabad, India (via satellite).
-
-\2020. September 15. Freddie Mac (via satellite).
+\2020. October 27. [Water: Access, Supply, and Sustainability](https://www.lindahall.org/event/water-access-supply-and-sustainability/), Linda Hall Library of Science, Engineering & Technology, Kansas City, MO (via satellite).
 
 ------
 
 ### Past events
 
-2020, Jul 28: (Organizer and Moderator) HxEES Webinar: Fighting the Coronavirus Pandemic: Evidence-based Approaches from Environmental Engineers, Zoom.
+2020, Oct 19: Open Access Week 2020, Virginia Tech, Blacksburg, VA (via satellite).
+
+2020, Sep 24: Nirma University, Ahmedabad, India (via satellite).
+
+2020, Sep 15: Freddie Mac (via satellite).
+
+2020, Jul 28: (Organizer and Moderator) [HxEES Webinar](https://www.youtube.com/watch?v=ORFvtGF6YTY): Fighting the Coronavirus Pandemic: Evidence-based Approaches from Environmental Engineers (via satellite).
 
 2020, Mar 9: George Walton Academy, Macon, GA
 
@@ -97,7 +101,7 @@ title: "Events"
 
 2016, Nov 23: E.U. Safewater Conference, Zurich, Switzerland
 
-2016, Nov 10: TED Talk: https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good, Blacksburg, VA
+2016, Nov 10: [TED Talk](https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good), Blacksburg, VA
 
 2016, Nov 18-19: University of Notre Dame, South Bend, IN
 
@@ -151,4 +155,4 @@ title: "Events"
 
 ------
 
-Last updated: Sep 6, 2020
+Last updated: Oct 21, 2020
