@@ -12,6 +12,8 @@ All conference abstracts passed peer-review unless mentioned otherwise.
 
 ------
 
+1. Edwards, M.A., Purchase J., Lopez, K.G., and S. Roy. Engineering Ethics and Citizen Science in Underserved Communities: Experiences of The US Water Study Team. AEESP Converging COVID-19, environment, health, and equity conference, Oct 16-Nov 20, 2020.
+
 1. Roy, S., Pieper, K.J., Battle, C., Lopez, K.G., and M.A. Edwards. Citizen science monitoring for India’s water sector: Tools and protocols from the US experience. AWWA India Annual Conference, Dec 13-14, 2019, Mumbai, India.
 
 2. Roy, S., M. Tang, and M.A. Edwards. Lead (Pb) in water, childhood lead exposure, and adverse pregnancy outcomes during the Flint Water Crisis: Quantifying the “unknown”. American College of Toxicology Annual Meeting, Nov 17-19, 2019, Phoenix, AZ.
