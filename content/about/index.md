@@ -18,5 +18,4 @@ Siddhartha received a Ph.D. in Civil/Environmental Engineering with advisor Dr. 
 
 **Curriculum Vitae:** [full](CV.pdf) / [two-pager](Resume.pdf)
 
-[{{< figure src="/img/email.png" >}}](mailto:sidroy@vt.edu) [{{< figure src="/img/twitter.png" >}}](https://twitter.com/siddharthaxroy) [{{< figure src="/img/linkedin.png" >}}](http://linkedin.com/in/sidr)
-
+Email: [sidroy@vt.edu](mailto:sidroy@vt.edu)
