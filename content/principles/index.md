@@ -4,7 +4,7 @@ title: "First Principles"
 
 ------
 Science:
-- Rigorously follow the scientific method with intellectual humility
+- Apply the scientific method with rigor and intellectual humility
 - Science is about seeking the truth, not group consensus
 - Several possibilities do not mean all of them are equally likely
 - “Trust” is science's main product
