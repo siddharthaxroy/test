@@ -7,6 +7,8 @@ title: "Events"
 
 \2020. December 9. [AWWA Virtual Summit on Water Quality and Infrastructure 2020](https://www.awwa.org/Events-Education/AWWA-Virtual-Summits/Water-Quality-Infrastructure-Summit#11223589-program) (via satellite).
 
+\2020. November 12. Heterodox Environmental Engineering and Science (HxEES) Meet-and-Greet and Perverse Incentives Talk (via satellite; [HxEES](https://heterodoxacademy.org/hxcommunities/) members only).
+
 ------
 
 ### Past events
