@@ -5,11 +5,14 @@ title: "Events"
 
 ### Upcoming
 
-\2020. October 27. [Water: Access, Supply, and Sustainability](https://www.lindahall.org/event/water-access-supply-and-sustainability/), Linda Hall Library of Science, Engineering & Technology, Kansas City, MO (via satellite).
+\2020. December 9. [AWWA Virtual Summit on Water Quality and Infrastructure 2020](https://www.awwa.org/Events-Education/AWWA-Virtual-Summits/Water-Quality-Infrastructure-Summit#11223589-program) (via satellite).
 
 ------
 
 ### Past events
+
+
+2020, Oct 27: [Water: Access, Supply, and Sustainability](https://www.lindahall.org/event/water-access-supply-and-sustainability/), Linda Hall Library of Science, Engineering & Technology, Kansas City, MO (via satellite).
 
 2020, Oct 19: Open Access Week 2020, Virginia Tech, Blacksburg, VA (via satellite).
 
