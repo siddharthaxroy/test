@@ -34,4 +34,5 @@ Statistics:
 - Stats 201.1: Correlation tends to causation using multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
 [^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more.
+
 [^2]: See the [HxA Way](https://heterodoxacademy.org/library/the-hxa-way/) for a guiding set of norms and values on pluralism, rigorous debate, constructive disagreement, and intellectual charity.
