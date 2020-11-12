@@ -3,10 +3,12 @@ title: "First Principles"
 ---
 
 ------
+This is a personal living document.
+
 Science:
 - Apply the scientific method with rigor and intellectual humility
 - Science is about seeking the truth, not group consensus
-- Several possibilities do not mean all of them are equally likely
+- Several possible answers do not mean all of them are equally likely
 - “Trust” is science's main product
 - Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?
 
