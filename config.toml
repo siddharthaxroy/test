@@ -33,7 +33,7 @@ alt = "Siddhartha Roy"
 
 [[menu.main]]
     url = "/public/"
-    name = "For the public"
+    name = "For the curious"
     weight = 2
 
 [[menu.main]]
