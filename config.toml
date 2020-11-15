@@ -23,25 +23,25 @@ alt = "Siddhartha Roy"
 
 [[menu.main]]
     url = "/articles/"
-    name = "Scientific articles"
+    name = "SCIENTIFIC ARTICLES"
     weight = 1
 
 [[menu.main]]
     url = "/posts/"
-    name = "Blog"
+    name = "BLOG"
     weight = 4
 
 [[menu.main]]
     url = "/public/"
-    name = "Public scholarship"
+    name = "PUBLIC SCHOLARSHIP"
     weight = 2
 
 [[menu.main]]
     url = "/events/"
-    name = "Lectures"
+    name = "LECTURES"
     weight = 3
 
 [[menu.main]]
     url = "/about/"
-    name = "About"
+    name = "ABOUT"
     weight = 5
