@@ -3,7 +3,9 @@ description: "All published papers and pre-prints"
 title: "Scientific Articles"
 ---
 
-The [Public Scholarship](/public/) page contains articles, podcasts interviews, news appearances, science documentaries, and a TED talk for the general public.
+For non-scientists and the generally curious: Please go to the [Public Scholarship](/public/) page for popular science articles, podcasts interviews, panel discussions, science documentaries, and a TED talk.
+
+------
 
 Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl) | [ORCiD](https://orcid.org/0000-0001-6443-1393) | [Conference Talks](/conference/)
 
