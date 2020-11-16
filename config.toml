@@ -23,7 +23,7 @@ alt = "Siddhartha Roy"
 
 [[menu.main]]
     url = "/articles/"
-    name = "Scientific articles"
+    name = "The actual science"
     weight = 1
 
 [[menu.main]]
