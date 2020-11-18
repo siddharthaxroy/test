@@ -21,6 +21,8 @@ logoHomeLink = "/"
 path = "/img/logo.png"
 alt = "Siddhartha Roy"
 
+enableEmoji = "true"
+
 [[menu.main]]
     url = "/articles/"
     name = "Science"
