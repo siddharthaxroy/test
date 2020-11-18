@@ -72,3 +72,7 @@ BBC World Service
 35. [Virginia Tech Magazine](https://eng.vt.edu/magazine/stories/fall-2018/tapping-the-ripple-effect.html): Tapping the Ripple Effect (Fall 2018 issue)
 36. [WIRED](http://www.wired.com/2016/06/flint-water-marc-edwards/): Ripple Effect: The crisis in Flint isn’t over. It’s everywhere. (Jun 2016 issue)
 37. [WIRED](https://www.wired.com/story/elon-musk-flint-water-plan/): The Flint Water Crisis Is Bigger Than Elon Musk (Jul 12, 2018)
+
+------
+
+Last updated: Sep 6, 2020
