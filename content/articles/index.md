@@ -3,7 +3,7 @@ description: "All published papers and pre-prints"
 title: "Scientific Articles"
 ---
 
-For non-scientists and the generally curious: Please go to the [Public Scholarship](/public/) page for popular science articles, podcasts interviews, panel discussions, science documentaries, and a TED talk.
+For non-scientists and the generally curious: Please go to the [Public Scholarship](/public/) page for popular science articles, science documentaries, and a TED talk. Podcast, radio, television, and newspaper appearances can be found on the [Press](/press/) page.
 
 ------
 
