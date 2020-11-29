@@ -29,11 +29,13 @@ The Conversation. 2016. [*We helped uncover a public health crisis in Flint, but
 
 ------
 
-### **Science Documentaries**
+### **Science Documentaries and Hollywood Movies**
 
 [PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award) now streaming on [Netflix↗](https://www.netflix.com/title/81121185) 
 
 [Virginia Tech documentary ‘Cicero’↗](https://www.youtube.com/watch?v=x1mrZ1zHb9o)
+
+[FLINT↗](https://www.imdb.com/title/tt6397426/) (TV movie streaming on Hulu; factual inaccurate but somewhat entertaining)
 
 ------
 
