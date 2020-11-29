@@ -1,5 +1,8 @@
-
 ---
+title: "Resources for Self"
+---
+
+Statistics Textbooks
 
 [Handbook of Biostatistics](http://www.biostathandbook.com)
 [Penn State Textbook](https://online.stat.psu.edu/stat462/node/77/)
