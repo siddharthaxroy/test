@@ -23,7 +23,8 @@ How to act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
 - Exercise (and urge in others) civic and moral courage
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
-- Unwaveringly defend free speech and open inquiry
+- Defend free speech and open inquiry
+- Be charitable in interpreting others' words/actions, unless there are reasons not to
 - Support claims with evidence, not blind faith
 - Bring light to a debate (over heat) through evidence, conversation, and compromise
 - Counter perverse incentives by choosing quality over quantity
