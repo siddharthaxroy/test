@@ -40,18 +40,13 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/events/"
-    name = "Appearances"
-    weight = 6
+    name = "Events"
+    weight = 5
 
 [[menu.main]]
     url = "/about/"
     name = "About"
-    weight = 7
-
-[[menu.main]]
-    url = "/principles/"
-    name = "Principles"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     url = "/press/"
