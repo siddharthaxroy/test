@@ -11,7 +11,7 @@ TED. 2017. [*Science in service to the public good on TED.com*↗](https://www.t
 
 ### **Columns and Op-Eds**
 
-*A compiled version of these writings is posted on [{{< figure src="/img/substack.png" >}} Because, my newsletter](siddhartharoy.substack.com/).*
+*A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
 International Water Association. 2020. [*What can we learn from misinformation on scientific matters in the water space?*↗](https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/) 
 
