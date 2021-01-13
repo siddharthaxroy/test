@@ -10,6 +10,7 @@ theme="hello-friend"
 googleAnalytics = "UA-177557791-1"
 
 [params]
+contentTypeName = "/"
 
 defaultTheme="light"
 
