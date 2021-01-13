@@ -5,14 +5,17 @@ title: "Events"
 
 ### Upcoming
 
-\2020. December 9. [AWWA Virtual Summit on Water Quality and Infrastructure 2020](https://www.awwa.org/Events-Education/AWWA-Virtual-Summits/Water-Quality-Infrastructure-Summit#11223589-program) (via satellite).
-
-\2020. November 12. Heterodox Environmental Engineering and Science (HxEES) Meet-and-Greet and Perverse Incentives Talk (via satellite; [HxEES](https://heterodoxacademy.org/hxcommunities/) members only).
+None.
 
 ------
 
 ### Past events
 
+2021, Jan 13: T.C. William High School, Alexandria City Public Schools (via satellite).
+
+2020, Dec 9: [AWWA Virtual Summit on Water Quality and Infrastructure 2020](https://www.awwa.org/Events-Education/AWWA-Virtual-Summits/Water-Quality-Infrastructure-Summit#11223589-program) (via satellite).
+
+2020, Nov 12: Heterodox Environmental Engineering and Science (HxEES) Meet-and-Greet and Perverse Incentives Talk (via satellite; [HxEES](https://heterodoxacademy.org/hxcommunities/) members only).
 
 2020, Oct 27: [Water: Access, Supply, and Sustainability](https://www.lindahall.org/event/water-access-supply-and-sustainability/), Linda Hall Library of Science, Engineering & Technology, Kansas City, MO (via satellite).
 
@@ -26,11 +29,11 @@ title: "Events"
 
 2020, Mar 9: George Walton Academy, Macon, GA
 
-2020, Mar 5: Seminar, University at Buffalo, Buffalo, NY
+2020, Mar 5: University at Buffalo, Buffalo, NY
 
-2020, Feb 25: Seminar, University of Massachusetts, Amherst, MA
+2020, Feb 25: University of Massachusetts, Amherst, MA
 
-2020, Feb 17: Seminar, Louisiana State University, Baton Rouge, LA
+2020, Feb 17: Louisiana State University, Baton Rouge, LA
 
 2020, Feb 11-13: Virginia Tech/Virginia Department of Health "Math for Groundwater Systems", Richmond VA
 
@@ -160,4 +163,4 @@ title: "Events"
 
 ------
 
-Last updated: Oct 21, 2020
+Last updated: Jan 2021
