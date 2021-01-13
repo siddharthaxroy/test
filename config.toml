@@ -29,7 +29,7 @@ enableEmoji = "true"
     weight = 2
 
 [[menu.main]]
-    url = "/posts/"
+    url = "/blog/"
     name = "Blog"
     weight = 4
 
