@@ -26,7 +26,7 @@ How to act[^2]:
 - Defend free speech and open inquiry
 - Be charitable in interpreting others' words/actions, unless there are reasons not to
 - Support claims with evidence, not blind faith
-- Bring light to a debate (over heat) through evidence, conversation, and compromise
+- Bring light to a debate (over heat) through evidence, conversation, and seeking middle ground
 - Counter perverse incentives by choosing quality over quantity
 
 Statistics:
