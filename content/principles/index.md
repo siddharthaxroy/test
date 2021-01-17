@@ -1,5 +1,5 @@
 ---
-title: "First Principles"
+title: "General (sometimes First) Principles"
 ---
 
 ------
