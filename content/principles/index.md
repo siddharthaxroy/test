@@ -22,7 +22,7 @@ Service and public good:
 How to act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
 - Exercise (and urge in others) civic and moral courage
-- Emphasize "truth over justice"[^1] to fight real (environmental) injustice
+- Emphasize "truth over justice"[^1] to fight real (environmental) injustice (‘For the discovery of truth, it is necessary to argue against all things and for all things.’ - Cicero)
 - Defend free speech and open inquiry
 - Be charitable in interpreting others' words/actions, unless there are reasons not to
 - Support claims with evidence, not blind faith
