@@ -14,6 +14,6 @@ Subscribe to the newsletter:
 
 {{< substack >}}
 
-{{< figure src="https://img.icons8.com/clouds/100/000000/phone-ringing.png" position="center" caption="Attend Office Hours" captionPosition="center" captionStyle="color: red;" >}}
+[{{< figure src="https://img.icons8.com/clouds/100/000000/phone-ringing.png" position="center" caption="Attend Office Hours" captionPosition="center" captionStyle="color: red;" >}}](/officehours/)
 
 ------
