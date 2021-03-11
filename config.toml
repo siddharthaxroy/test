@@ -26,7 +26,7 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/articles/"
-    name = "Science"
+    name = "Research"
     weight = 2
 
 [[menu.main]]
@@ -36,7 +36,7 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/public/"
-    name = "Curious?"
+    name = "Public Scholarship"
     weight = 1
 
 [[menu.main]]
