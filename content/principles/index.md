@@ -7,7 +7,7 @@ This is a personal living document.
 
 Science:
 - Apply the scientific method with rigor and intellectual humility
-- Science is about seeking the truth, not group consensus
+- Science is about seeking the truth[^4], not group consensus
 - Several possible answers do not mean all of them are equally likely
 - “Trust” is science's main product
 - Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?
@@ -42,3 +42,5 @@ Statistics:
 [^2]: See the [HxA Way](https://heterodoxacademy.org/library/the-hxa-way/) for a guiding set of norms and values on pluralism, rigorous debate, constructive disagreement, and intellectual charity.
 
 [^3]: Read ["Anecdotes Are Not Reliable"](https://www.mcgill.ca/oss/article/tips-better-thinking-anecdotes-are-not-reliable) from McGill's Jonathan Jarry.
+
+[^4] Brandeis' Eve Marder in her [eLife article](https://elifesciences.org/articles/66850) describes the pursuit of "truth even unto its innermost parts" and the professional need for "challenging anyone who spreads falsehoods," the corollary of which is others will (and should) challenge our own claims.
