@@ -10,7 +10,7 @@ Science:
 - Science is about seeking the truth[^4], not group consensus
 - Several possible answers do not mean all of them are equally likely
 - “Trust” is science's main product
-- Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?
+- Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?[^5]
 
 Service and public good:
 - First Canon: "To hold paramount the health, safety and welfare of the public"
@@ -44,3 +44,5 @@ Statistics:
 [^3]: Read ["Anecdotes Are Not Reliable"](https://www.mcgill.ca/oss/article/tips-better-thinking-anecdotes-are-not-reliable) from McGill's Jonathan Jarry.
 
 [^4]: Brandeis' Eve Marder in her [eLife article](https://elifesciences.org/articles/66850) describes the pursuit of "truth even unto its innermost parts" and the professional need for "challenging anyone who spreads falsehoods," the corollary of which is others will (and should) challenge our own claims.
+
+[^5]: From Thomas Gilovich: For desired conclusions, we ask ourselves, “Can I believe this?”, but for unpalatable conclusions, we ask, “Must I believe this?”
