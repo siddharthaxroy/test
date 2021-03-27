@@ -22,7 +22,7 @@ Service and public good:
 How to act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
 - Exercise (and urge in others) civic and moral courage
-- Emphasize "truth over justice"[^1] to fight real (environmental) injustice (‘For the discovery of truth, it is necessary to argue against all things and for all things.’ - Cicero)
+- Emphasize "truth over justice"[^1] to fight real (environmental) injustice
 - Defend free speech and open inquiry
 - Be charitable in interpreting others' words/actions, unless there are reasons not to
 - Support claims with evidence, not blind faith
@@ -37,12 +37,12 @@ Statistics:
 - Stats 201: Correlation is not causation
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-[^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more.
+[^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more. As Cicero said, "For the discovery of truth, it is necessary to argue against all things and for all things."
 
 [^2]: See the [HxA Way](https://heterodoxacademy.org/library/the-hxa-way/) for a guiding set of norms and values on pluralism, rigorous debate, constructive disagreement, and intellectual charity.
 
 [^3]: Read ["Anecdotes Are Not Reliable"](https://www.mcgill.ca/oss/article/tips-better-thinking-anecdotes-are-not-reliable) from McGill's Jonathan Jarry.
 
-[^4]: Brandeis' Eve Marder in her [eLife article](https://elifesciences.org/articles/66850) describes the pursuit of "truth even unto its innermost parts" and the professional need for "challenging anyone who spreads falsehoods," the corollary of which is others will (and should) challenge our own claims.
+[^4]: Brandeis' Eve Marder in her [eLife article](https://elifesciences.org/articles/66850) describes the pursuit of "truth even unto its innermost parts" and the professional need for "challenging anyone who spreads falsehoods," the corollary of which is others will (and should) challenge our own claims. Separately, criticizing ideas is not the same as criticizing those advocating for them. Read Simine Vazire's Slate article ["Criticizing a Scientist’s Work Isn’t Bullying. It’s Science"](https://slate.com/technology/2017/10/criticizing-a-scientists-work-isnt-bullying.html) for an extremely well-reasoned argument.
 
 [^5]: From Thomas Gilovich: For desired conclusions, we ask ourselves, “Can I believe this?”, but for unpalatable conclusions, we ask, “Must I believe this?”
