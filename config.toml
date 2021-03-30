@@ -32,7 +32,7 @@ enableEmoji = "true"
 [[menu.main]]
     url = "/posts/"
     name = "Blog"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     url = "/public/"
@@ -42,14 +42,19 @@ enableEmoji = "true"
 [[menu.main]]
     url = "/events/"
     name = "Events"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     url = "/about/"
     name = "About"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     url = "/press/"
     name = "Press"
+    weight = 4
+
+[[menu.main]]
+    url = "/principles/"
+    name = "Principles"
     weight = 3
