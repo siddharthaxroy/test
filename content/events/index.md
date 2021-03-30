@@ -1,6 +1,6 @@
 ---
 description: "Past talks and upcoming lectures"
-title: "Events"
+title: "Conversations and Lectures"
 ---
 
 ### Upcoming
@@ -11,7 +11,11 @@ None.
 
 ### Past events
 
-2021, Jan 13: T.C. William High School, Alexandria City Public Schools (via satellite).
+2021, Mar 5: University of Houston, Houston TX (via satellite).
+
+2021, Feb 26: Chapman University, Orange CA (via satellite).
+
+2021, Jan 13: T.C. William High School, Alexandria City Public Schools, Alexandria VA (via satellite).
 
 2020, Dec 9: [AWWA Virtual Summit on Water Quality and Infrastructure 2020](https://www.awwa.org/Events-Education/AWWA-Virtual-Summits/Water-Quality-Infrastructure-Summit#11223589-program) (via satellite).
 
