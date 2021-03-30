@@ -5,14 +5,14 @@ title: "Principles"
 ------
 This is a personal living document, subject to frequent revision.
 
-Science:
+### Science:
 - Apply the scientific method with rigor and intellectual humility
 - Science is about seeking the truth[^4], not group consensus
 - Several possible answers do not mean all of them are equally likely
 - “Trust” is science's main product
 - Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?[^5]
 
-Service and public good:
+### Service and public good:
 - First Canon: "To hold paramount the health, safety and welfare of the public"
 - Reduce human suffering, advance well-being, and promote collective flourishing
 - Public university obligations: Practice science as a public good
@@ -22,7 +22,7 @@ Service and public good:
 - Apply tenets of “Effective Altruism”[^6] to research
 - Prioritize issues in environmental justice communities[^8]
 
-How to act[^2]:
+### How to act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
 - Exercise (and urge in others) civic and moral courage
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
@@ -32,13 +32,15 @@ How to act[^2]:
 - Bring light to a debate (over heat) through evidence, conversation, and seeking middle ground
 - Counter perverse incentives by choosing quality over quantity
 
-Statistics:
+### Statistics:
 - Stats 001: Without data, you are just someone with an opinion
 - Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
 - Stats 101: Anecdotes are not reliable[^3] 
 - Stats 101.1: Large datasets almost always trump anecdotes/anecdata
 - Stats 201: Correlation is not causation
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
+
+#### Footnotes:
 
 [^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more. As Cicero said, "For the discovery of truth, it is necessary to argue against all things and for all things."
 
