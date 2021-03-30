@@ -1,9 +1,9 @@
 ---
-title: "General (sometimes First) Principles"
+title: "Principles"
 ---
 
 ------
-This is a personal living document.
+This is a personal living document, subject to frequent revision.
 
 Science:
 - Apply the scientific method with rigor and intellectual humility
@@ -16,8 +16,11 @@ Service and public good:
 - First Canon: "To hold paramount the health, safety and welfare of the public"
 - Reduce human suffering, advance well-being, and promote collective flourishing
 - Public university obligations: Practice science as a public good
-- United Nations SDG #6.1: "ensure safe drinking water for all"
-- Apply tenets of “Effective Altruism” to research
+- United Nations SDG #6.1: "ensure safe drinking water for all" 
+- United Nations' Resolution on the Human Right to Water
+- Engineering a “healthier and more resilient world” - National Academies[^7]
+- Apply tenets of “Effective Altruism”[^6] to research
+- Prioritize issues in environmental justice communities[^8]
 
 How to act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
@@ -46,3 +49,9 @@ Statistics:
 [^4]: Brandeis' Eve Marder in her [eLife article](https://elifesciences.org/articles/66850) describes the pursuit of "truth even unto its innermost parts" and the professional need for "challenging anyone who spreads falsehoods," the corollary of which is others will (and should) challenge our own claims. Separately, criticizing ideas is not the same as criticizing those advocating for them. Read Simine Vazire's Slate article ["Criticizing a Scientist’s Work Isn’t Bullying. It’s Science"](https://slate.com/technology/2017/10/criticizing-a-scientists-work-isnt-bullying.html) for an extremely well-reasoned argument.
 
 [^5]: From Thomas Gilovich: For desired conclusions, we ask ourselves, “Can I believe this?”, but for unpalatable conclusions, we ask, “Must I believe this?”
+
+[^6]: As in, pursue research topics that are societally relevant, traditionally neglected or understudied, and can be addressed with technical expertise, policy/systemic changes, and/or behavioral interventions. Read up on ["Effective Altruism"](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
+
+[^7]: NASEM's [Environmental Engineering for the 21st Century: Addressing Grand Challenges (2019)](https://www.nap.edu/catalog/25121/environmental-engineering-for-the-21st-century-addressing-grand-challenges) report.
+
+[^8]: National Environmental Justice Advisory Council’s [report](https://www.epa.gov/sites/production/files/2019-05/documents/nejac_white_paper_water-final-3-1-19.pdf) to the US Environmental Protection Agency.
