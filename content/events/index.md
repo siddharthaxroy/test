@@ -11,6 +11,8 @@ None.
 
 ### Past events
 
+2021, Apr 8: Western Washington University ([Toxicology and Societies Speaker Series](https://alumni.wwu.edu/event/were-there-excess-fetal-deaths-flint-water-crisis)), Bellingham WA (via satellite).
+
 2021, Mar 5: University of Houston, Houston TX (via satellite).
 
 2021, Feb 26: Chapman University, Orange CA (via satellite).
