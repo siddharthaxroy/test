@@ -30,7 +30,7 @@ This is a personal living document, subject to frequent revision.
 - Be charitable in interpreting others' words/actions, unless there are reasons not to
 - Support claims with evidence, not blind faith
 - Bring light to a debate (over heat) through evidence, conversation, and seeking middle ground
-- Counter perverse incentives by choosing quality over quantity
+- Counter perverse incentives by choosing quality over quantity[^10]
 
 ### Statistics:
 - Stats 001: Without data, you are just someone with an opinion
@@ -59,3 +59,5 @@ This is a personal living document, subject to frequent revision.
 [^8]: National Environmental Justice Advisory Council’s [report](https://www.epa.gov/sites/production/files/2019-05/documents/nejac_white_paper_water-final-3-1-19.pdf) to the US Environmental Protection Agency.
 
 [^9]: Read ["The Fallacy of Gray"](https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray) on LessWrong for perspective on the simplistic argument that everything in science is gray. Also, from Issac Asimov: When people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together.
+
+[^10]: Read our paper: [Edwards, M.A. and S. Roy. (2016). Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition. Env Engg Sci. 34(1), pp. 51-61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/).
