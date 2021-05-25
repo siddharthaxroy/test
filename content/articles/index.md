@@ -23,7 +23,9 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
-1. α Efficacy of Corrosion Control and Pipe Replacement in Reducing Citywide Lead Exposure during the  Flint, Michigan Water System Recovery. *Environmental Science: Water Research & Technology*. [10.1039/D0EW00583E↗](https://doi.org/10.1039/D0EW00583E)
+1. α Citizen science chlorine surveillance during the Flint, Michigan federal water emergency. *Water Research*. Accepted. 
+
+3. α Efficacy of Corrosion Control and Pipe Replacement in Reducing Citywide Lead Exposure during the  Flint, Michigan Water System Recovery. *Environmental Science: Water Research & Technology*. [10.1039/D0EW00583E↗](https://doi.org/10.1039/D0EW00583E)
 
 2. α Lead Release to Potable Water during the Flint, Michigan Water Crisis as revealed by Routine Biosolids Monitoring Data. *Water Research*. [10.1016/j.watres.2019.05.091↗](https://pubmed.ncbi.nlm.nih.gov/31177077/)
 
