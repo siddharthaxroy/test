@@ -18,7 +18,7 @@ This is a personal living document, subject to frequent revision.
 - Public university obligations: Practice science as a public good
 - United Nations SDG #6.1: "ensure safe drinking water for all" 
 - United Nations' Resolution on the Human Right to Water
-- Engineering a “healthier and more resilient world” - National Academies[^7]
+- Engineer a “healthier and more resilient world” - National Academies[^7]
 - Apply tenets of “Effective Altruism”[^6] to research
 - Prioritize issues in environmental justice communities[^8]
 
@@ -27,9 +27,10 @@ This is a personal living document, subject to frequent revision.
 - Exercise (and urge in others) civic and moral courage
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
 - Defend free speech and open inquiry
-- Be charitable in interpreting others' words/actions, unless there are reasons not to
-- Support claims with evidence, not blind faith
-- Bring light to a debate (over heat) through evidence, conversation, and seeking middle ground
+- Be charitable in interpreting others' words and actions, unless there are reasons not to
+- Support claims with evidence, not calls for blind faith
+- Bring light to a debate over heat through evidence, conversation, and seeking middle ground
+- Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Counter perverse incentives by choosing quality over quantity[^10]
 
 ### Statistics:
@@ -40,9 +41,11 @@ This is a personal living document, subject to frequent revision.
 - Stats 201: Correlation is not causation
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
+Last updated: May 29, 2021
+
 #### Footnotes:
 
-[^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more. As Cicero said, "For the discovery of truth, it is necessary to argue against all things and for all things."
+[^1]: If you care about justice, you have to find out what is true first. Read [this *Atlantic* piece](https://www.theatlantic.com/ideas/archive/2018/11/academics-truth-justice/574165/) for more. Also, from Cicero: For the discovery of truth, it is necessary to argue against all things and for all things.
 
 [^2]: See the [HxA Way](https://heterodoxacademy.org/library/the-hxa-way/) for a guiding set of norms and values on pluralism, rigorous debate, constructive disagreement, and intellectual charity.
 
@@ -60,4 +63,6 @@ This is a personal living document, subject to frequent revision.
 
 [^9]: Read ["The Fallacy of Gray"](https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray) on LessWrong for perspective on the simplistic argument that everything in science is gray. Also, from Issac Asimov: When people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together.
 
-[^10]: Read our paper: [Edwards, M.A. and S. Roy. (2016). Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition. Env Engg Sci. 34(1), pp. 51-61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/).
+[^10]: Read our paper: [Marc A. Edwards and Siddhartha Roy. (2016). Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition. Env Engg Sci. 34(1), pp. 51-61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/).
+
+[^11] Or, the ["I'm OK, They're Not Syndrome"](https://www.npr.org/templates/story/story.php?storyId=1009977), the subtitle of David Whitman's book. Also, from Steven Pinker writing in *Enlightenment Now*: To look at data showing that violence has gone down and say "Violence has gone down" is to describe a fact. To look at data showing that violence has gone down and say "Violence has gone up" is to be delusional. To ignore data on violence and say "Violence has gone up" is to be a know-nothing.
