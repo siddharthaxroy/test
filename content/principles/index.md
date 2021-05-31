@@ -22,7 +22,7 @@ This is a personal living document, subject to frequent revision.
 - Apply tenets of “Effective Altruism”[^6] to research
 - Prioritize issues in environmental justice communities[^8]
 
-### How to act[^2]:
+### How to think and act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
 - Exercise (and urge in others) civic and moral courage
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
