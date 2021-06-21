@@ -13,6 +13,8 @@ TED. 2017. [*Science in service to the public good on TED.com*↗](https://www.t
 
 *A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
+American Scientist. 2021. [*Who dares to speak up? An interview with Tuskegee whistleblower Peter Buxtun*↗](https://www.americanscientist.org/article/who-dares-to-speak-up)
+
 International Water Association. 2020. [*What can we learn from misinformation on scientific matters in the water space?*↗](https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/) 
 
 Undark. 2020. [*From Sewage Sludge, a New Perspective on the Flint Water Crisis*↗](https://undark.org/2020/09/17/flint-water-crisis-sewage/) 
@@ -71,4 +73,4 @@ MacArthur Foundation 100&Change grant proposal [video↗](https://youtu.be/j8Y2Q
 
 ------
 
-Last updated: Sep 6, 2020
+Last updated: June 21, 2021
