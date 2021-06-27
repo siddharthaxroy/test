@@ -17,11 +17,13 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 #: peer-reviewed conference paper
 
-^: includes advised undergraduate student co-authors
+^: includes advised undergraduate or graduate student co-authors
 
 *If you encounter a paywall, please [email](mailto:sidroy@vt.edu) me to request the full paper.*
 
 ------
+
+1. α Are there excess fetal deaths attributable to waterborne lead exposure during the Flint Water Crisis? Evidence from Bio-kinetic Model Predictions and Vital Records. *Journal of Exposure Science and Environmental Epidemiology*. Accepted.
 
 1. α Citizen science chlorine surveillance during the Flint, Michigan federal water emergency. *Water Research*. [10.1016/j.watres.2021.117304↗](https://doi.org/10.1016/j.watres.2021.117304)
 
@@ -59,4 +61,4 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
-Last updated: May 25, 2021
+Last updated: June 27, 2021
