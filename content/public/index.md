@@ -13,23 +13,23 @@ TED. 2017. [*Science in service to the public good on TED.com*↗](https://www.t
 
 *A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
-[{{< figure src="/public/amsci2.png" position="center" caption="with Marc Edwards and Carol Yang" captionPosition="right" captionStyle="color: red;" >}}](https://www.americanscientist.org/article/who-dares-to-speak-up)
+[{{< figure src="/public/amsci2.png" position="center" caption="Who dares to speak up? An interview with Tuskegee whistleblower Peter Buxtun (with Marc Edwards and Carol Yang), 2021" captionPosition="left" captionStyle="color: red;" >}}](https://www.americanscientist.org/article/who-dares-to-speak-up)
 
-[{{< figure src="/public/iwa.png" position="center" caption="Invited by IWA" captionPosition="right" captionStyle="color: red;" >}}](https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/)
+[{{< figure src="/public/iwa.png" position="center" caption="What can we learn from misinformation on scientific matters in the water space? (IWA invited column), 2020" captionPosition="left" captionStyle="color: red;" >}}](https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/)
 
-[{{< figure src="/public/undark.png" position="center" caption="with Marc Edwards (syndicated: Mother Jones)" captionPosition="right" captionStyle="color: red;" >}}](https://undark.org/2020/09/17/flint-water-crisis-sewage/)
+[{{< figure src="/public/undark.png" position="center" caption="From Sewage Sludge, a New Perspective on the Flint Water Crisis (with Marc Edwards; syndicated: Mother Jones), 2020" captionPosition="left" captionStyle="color: red;" >}}](https://undark.org/2020/09/17/flint-water-crisis-sewage/)
 
-[{{< figure src="/public/cnn.png" position="center" caption="with Marc Edwards" captionPosition="right" captionStyle="color: red;" >}}](https://edition.cnn.com/2019/03/14/opinions/flint-water-myths-scientific-dark-age-roy-edwards/index.html)
+[{{< figure src="/public/cnn.png" position="center" caption="Flint Water Crisis shows the dangers of a scientific dark age (with Marc Edwards), 2019" captionPosition="left" captionStyle="color: red;" >}}](https://edition.cnn.com/2019/03/14/opinions/flint-water-myths-scientific-dark-age-roy-edwards/index.html)
 
-[{{< figure src="/public/books.png" position="center" caption="with Marc Edwards (in French)" captionPosition="right" captionStyle="color: red;" >}}](https://www.books.fr/integres-coureurs-tour-de-france/)
+[{{< figure src="/public/books.png" position="center" caption="Intègres comme des coureurs du Tour de France (with Marc Edwards; in French), 2018" captionPosition="left" captionStyle="color: red;" >}}](https://www.books.fr/integres-coureurs-tour-de-france/)
 
-[{{< figure src="/public/aeon.png" position="center" caption="with Marc Edwards" captionPosition="right" captionStyle="color: red;" >}}](https://aeon.co/essays/science-is-a-public-good-in-peril-heres-how-to-fix-it)
+[{{< figure src="/public/aeon.png" position="center" caption="Science is a public good in peril - Here's how to fix it (with Marc Edwards), 2017" captionPosition="left" captionStyle="color: red;" >}}](https://aeon.co/essays/science-is-a-public-good-in-peril-heres-how-to-fix-it)
 
-[{{< figure src="/public/opflow.png" position="center" caption="with Katherine Phetxumphou and others" captionPosition="right" captionStyle="color: red;" >}}](https://awwa.onlinelibrary.wiley.com/doi/10.5991/OPF.2017.43.0010)
+[{{< figure src="/public/opflow.png" position="center" caption="Write Consumer Confidence Reports customers can understand (with Katherine Phetxumphou, Brenda Davy, et al.), 2017" captionPosition="left" captionStyle="color: red;" >}}](https://awwa.onlinelibrary.wiley.com/doi/10.5991/OPF.2017.43.0010)
 
-[{{< figure src="/public/amsci.png" position="center" caption="in American Scientist" captionPosition="right" captionStyle="color: red;" >}}](https://www.americanscientist.org/article/the-hand-in-hand-spread-of-mistrust-and-misinformation-in-flint)
+[{{< figure src="/public/amsci.png" position="center" caption="The Hand-in-Hand Spread of Mistrust and Misinformation in Flint (American Scientist invited feature article), 2017" captionPosition="left" captionStyle="color: red;" >}}](https://www.americanscientist.org/article/the-hand-in-hand-spread-of-mistrust-and-misinformation-in-flint)
 
-[{{< figure src="/public/conversation.png" position="center" caption="with William J. Rhoads and Rebekah Martin (syndicated: PBS, Scientific American)" captionPosition="right" captionStyle="color: red;" >}}](https://theconversation.com/we-helped-uncover-a-public-health-crisis-in-flint-but-learned-there-are-costs-to-doing-good-science-54227)
+[{{< figure src="/public/conversation.png" position="center" caption="We helped uncover a public health crisis in Flint, but learned there are costs to doing good science (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Scientific American), 2016" captionPosition="left" captionStyle="color: red;" >}}](https://theconversation.com/we-helped-uncover-a-public-health-crisis-in-flint-but-learned-there-are-costs-to-doing-good-science-54227)
 
 ------
 
