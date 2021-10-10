@@ -10,6 +10,7 @@ This is a personal living document, subject to frequent revision.
 - Science is about seeking the truth[^4], not group consensus
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
+- The public should strive to think in scientific ways to evaluate expert claims[^13]
 - Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?[^5]
 
 ### Service and public good:
@@ -38,10 +39,10 @@ This is a personal living document, subject to frequent revision.
 - Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
 - Stats 101: Anecdotes are not reliable[^3] 
 - Stats 101.1: Large datasets almost always trump anecdotes/anecdata
-- Stats 201: Correlation is not causation
+- Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-Last updated: May 29, 2021
+Last updated: October 10, 2021
 
 #### Footnotes:
 
@@ -66,3 +67,7 @@ Last updated: May 29, 2021
 [^10]: Read our paper: [Marc A. Edwards and Siddhartha Roy. (2016). Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition. Env Engg Sci. 34(1), pp. 51-61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/).
 
 [^11]: Or, the ["I'm OK, They're Not Syndrome"](https://www.npr.org/templates/story/story.php?storyId=1009977), the subtitle of David Whitman's book. Also, from Steven Pinker writing in *Enlightenment Now*: To look at data showing that violence has gone down and say "Violence has gone down" is to describe a fact. To look at data showing that violence has gone down and say "Violence has gone up" is to be delusional. To ignore data on violence and say "Violence has gone up" is to be a know-nothing.
+
+[^12]: Read ["Does X cause Y? An in-depth evidence review"](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/) on *Cold Takes* by Holden Karnofsky.
+
+[^13]: Andrew Oxman and 24 other researchers have penned a brilliant *Nature* Comment on teaching non-scientist members of the public [key concepts for making informed choices](https://www.nature.com/articles/d41586-019-02407-9).
