@@ -11,6 +11,14 @@ None.
 
 ### Past events
 
+2021, Sep 27: [New Jersey Institute of Technology](https://twitter.com/LuciaRodFreire/status/1442595152304820229), Newark NJ.
+
+2021, Sep 2: CE 597 – Disasters and Emergencies, Purdue University, West Lafayette IN (via satellite).
+
+2021, Sep 2: ENSC 3604 – Fundamentals of Environmental Science, Blacksburg VA
+
+2021, Aug 25: ACS National Meeting Fall 2021, Atlanta GA (via satellite).
+
 2021, May 17: Stanford University, Stanford CA (via satellite).
 
 2021, Apr 8: Western Washington University ([Toxicology and Societies Speaker Series](https://alumni.wwu.edu/event/were-there-excess-fetal-deaths-flint-water-crisis)), Bellingham WA (via satellite).
@@ -171,4 +179,4 @@ None.
 
 ------
 
-Last updated: May 2021
+Last updated: October 2021
