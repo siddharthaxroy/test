@@ -11,6 +11,10 @@ None.
 
 ### Past events
 
+2021, Nov 9: AWWA Water Quality and Technology Conference, Tacoma WA.
+
+2021, Nov 9: [IWA Emerging Leaders Water Forum](https://iwa-network.org/events/1st-virtual-ewl-forum-2021/) (via satellite).
+
 2021, Sep 27: [New Jersey Institute of Technology](https://twitter.com/LuciaRodFreire/status/1442595152304820229), Newark NJ.
 
 2021, Sep 2: CE 597 – Disasters and Emergencies, Purdue University, West Lafayette IN (via satellite).
