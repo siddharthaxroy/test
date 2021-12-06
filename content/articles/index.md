@@ -23,9 +23,13 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
+1. α Addressing the Preprint Dilemma. *International Journal of Hygiene and Environmental Health*. [10.1016/j.ijheh.2021.113896↗](https://doi.org/10.1016/j.ijheh.2021.113896)
+
 1. α Are there excess fetal deaths attributable to waterborne lead exposure during the Flint Water Crisis? Evidence from Bio-kinetic Model Predictions and Vital Records. *Journal of Exposure Science and Environmental Epidemiology*. [10.1038/s41370-021-00363-z↗](https://doi.org/10.1038/s41370-021-00363-z)
 
 1. α Citizen science chlorine surveillance during the Flint, Michigan federal water emergency. *Water Research*. [10.1016/j.watres.2021.117304↗](https://doi.org/10.1016/j.watres.2021.117304)
+
+1. **#** β “Racing the Sun”: A Narrative Analysis of Engineering Graduate Students’ Journeys Navigating Public-Inspired Science Work. *ASEE Virtual Annual Conference*, Jul 26-29 2021. [Read↗](https://peer.asee.org/racing-the-sun-a-narrative-analysis-of-engineering-graduate-students-journeys-navigating-public-inspired-science-work)
 
 3. α Efficacy of Corrosion Control and Pipe Replacement in Reducing Citywide Lead Exposure during the  Flint, Michigan Water System Recovery. *Environmental Science: Water Research & Technology*. [10.1039/D0EW00583E↗](https://doi.org/10.1039/D0EW00583E)
 
@@ -61,4 +65,4 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
-Last updated: July 2021
+Last updated: November 2021
