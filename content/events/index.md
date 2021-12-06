@@ -11,6 +11,8 @@ None.
 
 ### Past events
 
+2021, Nov 15: Episcopal High School, Alexandria VA (via satellite).
+
 2021, Nov 9: AWWA Water Quality and Technology Conference, Tacoma WA.
 
 2021, Nov 9: [IWA Emerging Leaders Water Forum](https://iwa-network.org/events/1st-virtual-ewl-forum-2021/) (via satellite).
@@ -19,7 +21,7 @@ None.
 
 2021, Sep 2: CE 597 – Disasters and Emergencies, Purdue University, West Lafayette IN (via satellite).
 
-2021, Sep 2: ENSC 3604 – Fundamentals of Environmental Science, Blacksburg VA
+2021, Sep 2: ENSC 3604 – Fundamentals of Environmental Science, Blacksburg VA.
 
 2021, Aug 25: ACS National Meeting Fall 2021, Atlanta GA (via satellite).
 
@@ -183,4 +185,4 @@ None.
 
 ------
 
-Last updated: October 2021
+Last updated: November 2021
