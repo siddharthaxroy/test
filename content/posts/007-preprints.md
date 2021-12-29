@@ -14,6 +14,8 @@ Peer-reviewed commentary (with Dr. Marc Edwards) featuring two case studies (Fli
 
 {{< tweet 1467565516072132610 >}}
 
+{{< figure src="/posts/ijheh-table.png" position="center" style="border-radius: 12px;" caption="Credit: Roy and Edwards, IJHEH, 2021" captionPosition="right" captionStyle="color: red;" >}}
+
 ------
 
 Read the (unfortunately paywalled) article [here](https://t.co/xlnSxDace4). Or, send me an [email](mailto:sidroy@vt.edu) to request a copy.
