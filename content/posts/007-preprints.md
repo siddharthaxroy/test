@@ -1,5 +1,5 @@
 ---
-title: "07. New commnetary on the promises and perils of preprints out now in International Journal of Hygiene and Environmental Health"
+title: "07. New commentary on the promises and perils of preprints out now in International Journal of Hygiene and Environmental Health"
 description: "When are preprint releases justified during public health emergencies and when are they counterproductive?"
 date: 2021-12-16
 ---
