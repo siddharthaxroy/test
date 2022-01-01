@@ -72,6 +72,6 @@ Last updated: January 1, 2022
 
 [^13]: Andrew Oxman and 24 other researchers have penned a brilliant *Nature* Comment on teaching non-scientist members of the public [key concepts for making informed choices](https://www.nature.com/articles/d41586-019-02407-9).
 
-[^14]: Read Scott Alexander's clear-eyed perspective on honestly and responsibly using "no evidence" in science communication on [*Substack*](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag).
+[^14]: Read Scott Alexander's clear-eyed perspective on honestly and responsibly using the phrase "no evidence" in science communication on [*Substack*](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag).
 
-[^15]: Beyond the obvious, intellectual humility can also include the realization of how privileged one is to be a scientist or engineer, asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in a [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
+[^15]: Beyond the obvious, intellectual humility can include the realization of how privileged one is to be a scientist or engineer, asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in this [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
