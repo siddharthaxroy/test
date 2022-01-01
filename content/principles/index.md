@@ -6,7 +6,7 @@ title: "Principles"
 This is a personal living document, subject to frequent revision.
 
 ### Science:
-- Apply the scientific method with rigor and intellectual humility
+- Apply the scientific method with rigor and intellectual humility[^15]
 - Science is about seeking the truth[^4], not group consensus
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
@@ -29,7 +29,7 @@ This is a personal living document, subject to frequent revision.
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
 - Defend free speech and open inquiry
 - Be charitable in interpreting others' words and actions, unless there are reasons not to
-- Support claims with evidence, not calls for blind faith
+- Support claims with evidence[^14], not calls for blind faith
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Counter perverse incentives by choosing quality over quantity[^10]
@@ -38,11 +38,11 @@ This is a personal living document, subject to frequent revision.
 - Stats 001: Without data, you are just someone with an opinion
 - Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
 - Stats 101: Anecdotes are not reliable[^3] 
-- Stats 101.1: Large datasets almost always trump anecdotes/anecdata
+- Stats 101.1: Large datasets are usually more reliable than anecdotes/anecdata
 - Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-Last updated: October 10, 2021
+Last updated: January 1, 2022
 
 #### Footnotes:
 
@@ -71,3 +71,7 @@ Last updated: October 10, 2021
 [^12]: Read ["Does X cause Y? An in-depth evidence review"](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/) on *Cold Takes* by Holden Karnofsky.
 
 [^13]: Andrew Oxman and 24 other researchers have penned a brilliant *Nature* Comment on teaching non-scientist members of the public [key concepts for making informed choices](https://www.nature.com/articles/d41586-019-02407-9).
+
+[^14]: Read Scott Alexander's clear-eyed perspective on honestly and responsibly using "no evidence" in science communication on [*Substack*](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag).
+
+[^15]: Beyond the obvious, intellectual humility can also include the realization of how privileged one is to be a scientist or engineer, asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in a [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
