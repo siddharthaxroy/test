@@ -15,6 +15,6 @@ Subscribe to the newsletter:
 {{< substack >}}
 
 Learn more about our Public Inspired Science Model:
-[{{< figure src="/img/model.png" position="center" style="border-radius: 8px;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+[{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
