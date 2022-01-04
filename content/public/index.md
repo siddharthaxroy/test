@@ -5,7 +5,7 @@ title: "Public Understanding of Science"
 
 ### **TED Talk**
 
-TED. 2017. [*Science in service to the public good on TED.com*↗](https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good?language=en) 
+#### [*Science in service to the public good on TED.com*↗](https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good?language=en) 
 
 {{< ted >}}
 
@@ -13,37 +13,55 @@ TED. 2017. [*Science in service to the public good on TED.com*↗](https://www.t
 
 *A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
-[{{< figure src="/public/amsci2.png" position="center" caption="Who dares to speak up? An interview with Tuskegee whistleblower Peter Buxtun (with Marc Edwards and Carol Yang), 2021" captionPosition="left" captionStyle="color: red;" >}}](https://www.americanscientist.org/article/who-dares-to-speak-up)
+#### Who dares to speak up? An interview with Tuskegee whistleblower Peter Buxtun
+American Scientist (with Marc Edwards and Carol Yang), 2021
+[{{< figure src="/public/amsci2.png" position="center" >}}](https://www.americanscientist.org/article/who-dares-to-speak-up)
 
-[{{< figure src="/public/iwa.png" position="center" caption="What can we learn from misinformation on scientific matters in the water space? (IWA invited column), 2020" captionPosition="left" captionStyle="color: red;" >}}](https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/)
+#### What can we learn from misinformation on scientific matters in the water space? 
+International Water Association invited column, 2020
+[{{< figure src="/public/iwa.png" position="center" >}}](https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/)
 
-[{{< figure src="/public/undark.png" position="center" caption="From Sewage Sludge, a New Perspective on the Flint Water Crisis (with Marc Edwards; syndicated: Mother Jones), 2020" captionPosition="left" captionStyle="color: red;" >}}](https://undark.org/2020/09/17/flint-water-crisis-sewage/)
+#### From Sewage Sludge, a New Perspective on the Flint Water Crisis
+Undark (with Marc Edwards; syndicated: Mother Jones), 2020
+[{{< figure src="/public/undark.png" position="center" >}}](https://undark.org/2020/09/17/flint-water-crisis-sewage/)
 
-[{{< figure src="/public/cnn.png" position="center" caption="Flint Water Crisis shows the dangers of a scientific dark age (with Marc Edwards), 2019" captionPosition="left" captionStyle="color: red;" >}}](https://edition.cnn.com/2019/03/14/opinions/flint-water-myths-scientific-dark-age-roy-edwards/index.html)
+#### Flint Water Crisis shows the dangers of a scientific dark age
+CNN (with Marc Edwards), 2019
+[{{< figure src="/public/cnn.png" position="center" caption="" captionPosition="left" captionStyle="color: red;" >}}](https://edition.cnn.com/2019/03/14/opinions/flint-water-myths-scientific-dark-age-roy-edwards/index.html)
 
-[{{< figure src="/public/books.png" position="center" caption="Intègres comme des coureurs du Tour de France (with Marc Edwards; in French), 2018" captionPosition="left" captionStyle="color: red;" >}}](https://www.books.fr/integres-coureurs-tour-de-france/)
+#### Intègres comme des coureurs du Tour de France
+Books (with Marc Edwards; in French), 2018
+[{{< figure src="/public/books.png" position="center" >}}](https://www.books.fr/integres-coureurs-tour-de-france/)
 
-[{{< figure src="/public/aeon.png" position="center" caption="Science is a public good in peril - Here's how to fix it (with Marc Edwards), 2017" captionPosition="left" captionStyle="color: red;" >}}](https://aeon.co/essays/science-is-a-public-good-in-peril-heres-how-to-fix-it)
+#### Science is a public good in peril - Here's how to fix it 
+Aeon (with Marc Edwards), 2017
+[{{< figure src="/public/aeon.png" position="center" >}}](https://aeon.co/essays/science-is-a-public-good-in-peril-heres-how-to-fix-it)
 
-[{{< figure src="/public/opflow.png" position="center" caption="Write Consumer Confidence Reports customers can understand (with Katherine Phetxumphou, Brenda Davy, et al.), 2017" captionPosition="left" captionStyle="color: red;" >}}](https://awwa.onlinelibrary.wiley.com/doi/10.5991/OPF.2017.43.0010)
+#### Write Consumer Confidence Reports customers can understand 
+OpFlow (with Katherine Phetxumphou, Brenda Davy, et al.), 2017
+[{{< figure src="/public/opflow.png" position="center" >}}](https://awwa.onlinelibrary.wiley.com/doi/10.5991/OPF.2017.43.0010)
 
-[{{< figure src="/public/amsci.png" position="center" caption="The Hand-in-Hand Spread of Mistrust and Misinformation in Flint (American Scientist invited feature article), 2017" captionPosition="left" captionStyle="color: red;" >}}](https://www.americanscientist.org/article/the-hand-in-hand-spread-of-mistrust-and-misinformation-in-flint)
+#### The Hand-in-Hand Spread of Mistrust and Misinformation in Flint
+American Scientist (feature article), 2017
+[{{< figure src="/public/amsci.png" position="center" >}}](https://www.americanscientist.org/article/the-hand-in-hand-spread-of-mistrust-and-misinformation-in-flint)
 
-[{{< figure src="/public/conversation.png" position="center" caption="We helped uncover a public health crisis in Flint, but learned there are costs to doing good science (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Scientific American), 2016" captionPosition="left" captionStyle="color: red;" >}}](https://theconversation.com/we-helped-uncover-a-public-health-crisis-in-flint-but-learned-there-are-costs-to-doing-good-science-54227)
+#### We helped uncover a public health crisis in Flint, but learned there are costs to doing good science
+The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Scientific American), 2016
+[{{< figure src="/public/conversation.png" position="center" >}}](https://theconversation.com/we-helped-uncover-a-public-health-crisis-in-flint-but-learned-there-are-costs-to-doing-good-science-54227)
 
 ------
 
 ### **Science Documentaries and Hollywood Movies**
 
-[PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award) now streaming on [Netflix↗](https://www.netflix.com/title/81121185) 
+#### [PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award) now streaming on [Netflix↗](https://www.netflix.com/title/81121185) 
 
 {{< pbs >}}
 
-[Virginia Tech documentary ‘Cicero’↗](https://www.youtube.com/watch?v=x1mrZ1zHb9o)
+#### [Virginia Tech documentary ‘Cicero’↗](https://www.youtube.com/watch?v=x1mrZ1zHb9o)
 
 {{<youtube x1mrZ1zHb9o >}}
 
-[FLINT↗](https://www.imdb.com/title/tt6397426/) (TV movie streaming on Hulu; factual inaccurate but somewhat entertaining)
+#### [FLINT↗](https://www.imdb.com/title/tt6397426/) (TV movie streaming on Hulu; factual inaccurate but somewhat entertaining)
 
 ------
 
@@ -51,7 +69,7 @@ TED. 2017. [*Science in service to the public good on TED.com*↗](https://www.t
 
 The Public-inspired Science Podcast [iTunes↗](https://podcasts.apple.com/us/podcast/public-inspired-science/id1473322295) 
 
-The US Water Study documentary series (w/ LA-based documentarian Erica Corder). forthcoming.
+The US Water Study documentary series (w/ LA-based documentarian Erica Corder). forthcoming in 2022.
 
 ### **As Research Website Creator/Curator**
 
@@ -73,4 +91,4 @@ MacArthur Foundation 100&Change grant proposal [video↗](https://youtu.be/j8Y2Q
 
 ------
 
-Last updated: June 21, 2021
+Last updated: January 2022
