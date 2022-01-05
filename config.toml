@@ -30,11 +30,6 @@ enableEmoji = "true"
     weight = 2
 
 [[menu.main]]
-    url = "/posts/"
-    name = "Blog"
-    weight = 5
-
-[[menu.main]]
     url = "/public/"
     name = "Media"
     weight = 1
@@ -42,12 +37,12 @@ enableEmoji = "true"
 [[menu.main]]
     url = "/events/"
     name = "Events"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     url = "/about/"
     name = "About"
-    weight = 7
+    weight = 6
 
 [[menu.main]]
     url = "/press/"
