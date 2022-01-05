@@ -14,9 +14,9 @@ Subscribe to the newsletter:
 
 {{< substack >}}
 
+Read announcements of new scientific articles and opinion essays on [the blog page](/posts/).
+
 Learn about our Public Inspired Science Model:
 [{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
-
-Read announcements of new scientific articles and opinion essays on [the blog page](/posts/).
 
 ------
