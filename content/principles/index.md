@@ -11,7 +11,7 @@ This is a personal living document, subject to frequent revision.
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
 - The public should strive to think in scientific ways to evaluate expert claims[^13]
-- Guiding questions: How am I wrong? Can I be less wrong than I was yesterday?[^5]
+- Guiding questions: How am I wrong?[^5] Can I be less wrong than I was yesterday?[^16]
 
 ### Service and public good:
 - First Canon: "To hold paramount the health, safety and welfare of the public"
@@ -75,3 +75,5 @@ Last updated: January 1, 2022
 [^14]: Read Scott Alexander's clear-eyed perspective on honestly and responsibly using the phrase "no evidence" in science communication on [*Substack*](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag).
 
 [^15]: Beyond the obvious, intellectual humility can include the realization of how privileged one is to be a scientist or engineer, asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in this [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
+
+[^16]: Karl Popper in *Knowledge without Authority*: "All 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'"
