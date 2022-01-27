@@ -78,4 +78,4 @@ Last updated: January 1, 2022
 
 [^16]: Karl Popper in *Knowledge without Authority*: "All 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'"
 
-[^17] Adoption of what Julia Galef calls the Scout Mindset (https://twitter.com/juliagalef/status/1381978961941573632) will also allow you to craft more accurate maps of reality.
+[^17]: Adoption of what Julia Galef calls [the Scout Mindset](https://twitter.com/juliagalef/status/1381978961941573632) will also allow you to craft more accurate maps of reality.
