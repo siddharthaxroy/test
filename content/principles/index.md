@@ -10,7 +10,7 @@ This is a personal living document, subject to frequent revision.
 - Science is about seeking the truth[^4], not group consensus
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
-- The public should strive to think in scientific ways to evaluate expert claims[^13][^17]
+- The public should strive to think in scientific ways[^17] to evaluate expert claims[^13]
 - Guiding questions: How am I wrong?[^5] Can I be less wrong than I was yesterday?[^16]
 
 ### Service and public good:
