@@ -5,11 +5,15 @@ title: "Conversations and Lectures"
 
 ### Upcoming
 
-2022, Mar 22. World Water Day event at Interpublic Group with Goldman awardee and Flint whistleblower LeeAnne Walters.
+None.
 
 ------
 
 ### Past events
+
+2022, Mar 22. Interpublic Group: World Water Day event with Goldman awardee and Flint whistleblower LeeAnne Walters (via satellite).
+
+2022, Mar 01. Georgetown University, Washington, DC.
 
 2022, Feb 14: St. Lawrence University, Canton, NY.
 
@@ -193,4 +197,4 @@ title: "Conversations and Lectures"
 
 ------
 
-Last updated: February 2022
+Last updated: March 2022
