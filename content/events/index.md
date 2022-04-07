@@ -11,17 +11,21 @@ None.
 
 ### Past events
 
+2022, Apr 06. AAEC 3314 – Environmental Law class, Blacksburg, VA.
+
+2022, Apr 05. Queen's University, Kingston Ontario (via satellite).
+
 2022, Mar 22. Interpublic Group: World Water Day event with Goldman awardee and Flint whistleblower LeeAnne Walters (via satellite).
 
-2022, Mar 01. Georgetown University, Washington, DC.
+2022, Mar 01. Georgetown University, Washington DC.
 
-2022, Feb 14: St. Lawrence University, Canton, NY.
+2022, Feb 14: St. Lawrence University, Canton NY.
 
-2022, Feb 10: University of Virginia, Charlottesville, VA (via satellite).
+2022, Feb 10: University of Virginia, Charlottesville VA (via satellite).
 
-2022, Feb 07: Rutgers University, New Brunswick, NJ.
+2022, Feb 07: Rutgers University, New Brunswick NJ.
 
-2022, Jan 31: Cal Poly, San Luis Obispo, CA.
+2022, Jan 31: Cal Poly, San Luis Obispo CA.
 
 2021, Nov 15: Episcopal High School, Alexandria VA (via satellite).
 
@@ -197,4 +201,4 @@ None.
 
 ------
 
-Last updated: March 2022
+Last updated: April 2022
