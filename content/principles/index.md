@@ -28,6 +28,7 @@ This is a personal living document, subject to frequent revision.
 - Exercise (and urge in others) civic and moral courage
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
 - Defend free speech and open inquiry
+- Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/). Do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
 - Be charitable in interpreting others' words and actions, unless there are reasons not to
 - Support claims with evidence[^14], not calls for blind faith
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
