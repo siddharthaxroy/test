@@ -11,6 +11,8 @@ None.
 
 ### Past events
 
+2022, Apr 13. University of California at Los Angeles, Los Angeles CA (via satellite).
+
 2022, Apr 06. AAEC 3314 – Environmental Law class, Blacksburg, VA.
 
 2022, Apr 05. Queen's University, Kingston Ontario (via satellite).
