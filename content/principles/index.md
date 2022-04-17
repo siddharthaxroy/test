@@ -30,6 +30,7 @@ This is a personal living document, subject to frequent revision.
 - Defend free speech and open inquiry
 - Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/). Do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
 - Be charitable in interpreting others' words and actions, unless there are reasons not to
+- Seek out direct feedback, especially the critical variety[^18]
 - Support claims with evidence[^14], not calls for blind faith
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
@@ -80,3 +81,5 @@ Last updated: January 1, 2022
 [^16]: Karl Popper in *Knowledge without Authority*: "All 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'"
 
 [^17]: Adoption of what Julia Galef calls [the Scout Mindset](https://twitter.com/juliagalef/status/1381978961941573632) will also allow you to craft more accurate maps of reality.
+
+[^18]: In a culture of growing double-speak and toxic positivity masking true intentions, having colleagues, collaborators, well-wishers or even adversaries who offer you [the gift of valuable feedback you didn’t have before](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/) is a true blessing. Cultivate relationships, where tight feedback loops to collectively get to what is true, is the norm.
