@@ -28,12 +28,13 @@ This is a personal living document, subject to frequent revision.
 - Exercise (and urge in others) civic and moral courage
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice
 - Defend free speech and open inquiry
-- Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/). Do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
+- Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/), or, at the very least, do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
 - Be charitable in interpreting others' words and actions, unless there are reasons not to
 - Seek out direct feedback, especially the critical variety[^18]
 - Support claims with evidence[^14], not calls for blind faith
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
+- Cultivate rational optimism about scientific and human progress[^19]
 - Counter perverse incentives by choosing quality over quantity[^10]
 
 ### Statistics:
@@ -44,7 +45,7 @@ This is a personal living document, subject to frequent revision.
 - Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-Last updated: January 1, 2022
+Last updated: April 2022
 
 #### Footnotes:
 
@@ -58,17 +59,17 @@ Last updated: January 1, 2022
 
 [^5]: From Thomas Gilovich: For desired conclusions, we ask ourselves, “Can I believe this?”, but for unpalatable conclusions, we ask, “Must I believe this?”
 
-[^6]: As in, pursue research topics that are societally relevant, traditionally neglected or understudied, and can be addressed with technical expertise, policy/systemic changes, and/or behavioral interventions. Read up on ["Effective Altruism"](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
+[^6]: As in, pursue research topics that are societally relevant, traditionally neglected or understudied, and can be addressed with technical expertise, policy/systemic changes, and/or behavioral interventions. Read up on [Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
 
 [^7]: NASEM's [Environmental Engineering for the 21st Century: Addressing Grand Challenges (2019)](https://www.nap.edu/catalog/25121/environmental-engineering-for-the-21st-century-addressing-grand-challenges) report.
 
 [^8]: National Environmental Justice Advisory Council’s [report](https://www.epa.gov/sites/production/files/2019-05/documents/nejac_white_paper_water-final-3-1-19.pdf) to the US Environmental Protection Agency.
 
-[^9]: Read ["The Fallacy of Gray"](https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray) on LessWrong for perspective on the simplistic argument that everything in science is gray. Also, from Issac Asimov: When people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together.
+[^9]: Read ["The Fallacy of Gray"](https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray) on LessWrong for perspective on the simplistic argument that everything in science is gray. Also, from Issac Asimov: "When people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together."
 
 [^10]: Read our paper: [Marc A. Edwards and Siddhartha Roy. (2016). Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition. Env Engg Sci. 34(1), pp. 51-61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/).
 
-[^11]: Or, the ["I'm OK, They're Not Syndrome"](https://www.npr.org/templates/story/story.php?storyId=1009977), the subtitle of David Whitman's book. Also, from Steven Pinker writing in *Enlightenment Now*: To look at data showing that violence has gone down and say "Violence has gone down" is to describe a fact. To look at data showing that violence has gone down and say "Violence has gone up" is to be delusional. To ignore data on violence and say "Violence has gone up" is to be a know-nothing.
+[^11]: Or, the ["I'm OK, They're Not Syndrome"](https://www.npr.org/templates/story/story.php?storyId=1009977), the subtitle of David Whitman's book. Also, from Steven Pinker writing in *Enlightenment Now*: "To look at data showing that violence has gone down and say "Violence has gone down" is to describe a fact. To look at data showing that violence has gone down and say "Violence has gone up" is to be delusional. To ignore data on violence and say "Violence has gone up" is to be a know-nothing."
 
 [^12]: Read ["Does X cause Y? An in-depth evidence review"](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/) on *Cold Takes* by Holden Karnofsky.
 
@@ -76,10 +77,12 @@ Last updated: January 1, 2022
 
 [^14]: Read Scott Alexander's clear-eyed perspective on honestly and responsibly using the phrase "no evidence" in science communication on [*Substack*](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag).
 
-[^15]: Beyond the obvious, intellectual humility can include the realization of how privileged one is to be a scientist or engineer, asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in this [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
+[^15]: Beyond the obvious, intellectual humility can help us realize the true priviledge of being a scientist, and asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in this [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
 
 [^16]: Karl Popper in *Knowledge without Authority*: "All 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'"
 
-[^17]: Adoption of what Julia Galef calls [the Scout Mindset](https://twitter.com/juliagalef/status/1381978961941573632) will also allow you to craft more accurate maps of reality.
+[^17]: Adoption of what Julia Galef calls [the Scout Mindset](https://twitter.com/juliagalef/status/1381978961941573632) can allow you to craft more accurate maps of reality.
 
-[^18]: In a culture of growing double-speak and toxic positivity masking true intentions, having colleagues, collaborators, well-wishers or even adversaries who offer you [the gift of valuable feedback you didn’t have before](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/) is a true blessing. Cultivate relationships, where tight feedback loops to collectively get to what is true, is the norm.
+[^18]: In a culture of growing double-speak and toxic positivity masking true intentions, having colleagues, well-wishers or even adversaries who offer you [the gift of valuable feedback you didn’t have before](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/) is a true blessing. Cultivate relationships, where tight feedback loops to collectively get to what is true, is the norm.
+
+[^19] One of the core theses of quantum physicist David Deutsch in *The Beginning of Infinity* is that problems are inevitable. But, unless constrained by the laws of nature, problems are also solvable. What we need and will always need essentially are new knowledge, creativity, and human ingenuity that can produce good explanations that lead to solutions. This inevitably leads to cultivation of a deep and rational optimism. Or, consider Marquis de Condorcet writing in his *Sketch for a Historical Picture of the Progress of the Human Mind*: "How consoling for the philosopher who laments the errors, the crimes, the injustices which still pollute the earth and of which he is often the victim, is this view of the human race, emancipated from its shackles, released from the empire of fate and from that of the enemies of its progress, advancing with a firm and sure step along the path of truth, virtue and happiness! It is the contemplation of this prospect that rewards him for all his efforts to assist the progress of reason and the defence of liberty." E. O. Wilson's *Consilience* is a must read.
