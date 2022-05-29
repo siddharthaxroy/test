@@ -38,14 +38,14 @@ This is a personal living document, subject to frequent revision.
 - Counter perverse incentives by choosing quality over quantity[^10]
 
 ### Statistics:
-- Stats 001: Without data, you are just someone with an opinion
+- Stats 001: Without data, you are just someone with an opinion[^20]
 - Stats 001.1: Outrage, offense, and empty virtue-signals are not data points
 - Stats 101: Anecdotes are not reliable[^3] 
 - Stats 101.1: Large datasets are usually more reliable than anecdotes/anecdata
 - Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-Last updated: April 2022
+Last updated: May 2022
 
 #### Footnotes:
 
@@ -86,3 +86,5 @@ Last updated: April 2022
 [^18]: In a culture of growing double-speak and toxic positivity masking true intentions, having colleagues, well-wishers or even adversaries who offer you [the gift of valuable feedback you didn’t have before](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/) is a true blessing. Cultivate relationships, where tight feedback loops to collectively get to what is true, is the norm.
 
 [^19]: One of the core theses of quantum physicist David Deutsch in *The Beginning of Infinity* is that problems are inevitable. But, unless constrained by the laws of nature, problems are also solvable. What we need and will always need essentially are new knowledge, creativity, and human ingenuity that can produce good explanations that lead to solutions. This inevitably leads to cultivation of a deep and rational optimism. Or, consider Marquis de Condorcet writing in his [*Sketch for a Historical Picture of the Progress of the Human Mind*](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1181&context=ccr): "How consoling for the philosopher who laments the errors, the crimes, the injustices which still pollute the earth and of which he is often the victim, is this view of the human race, emancipated from its shackles, released from the empire of fate and from that of the enemies of its progress, advancing with a firm and sure step along the path of truth, virtue and happiness! It is the contemplation of this prospect that rewards him for all his efforts to assist the progress of reason and the defence of liberty." E. O. Wilson's *Consilience* is also a must read.
+
+[^20]: Speaking of opinions: "viewpoints and identities are personal, but the interrogation of beliefs without judgement of those who hold them is not only desirable, it is an essential to a functioning democracy" - @jo_bartosch
