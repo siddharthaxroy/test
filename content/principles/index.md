@@ -30,6 +30,7 @@ This is a personal living document, subject to frequent revision.
 - Defend free speech and open inquiry
 - Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/), or, at the very least, do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
 - Be charitable in interpreting others' words and actions, unless there are reasons not to
+- With students and mentees, work hard to dispel ["Excellent Sheep"-level conformity](https://bariweiss.substack.com/p/we-arent-raising-adults-we-are-breeding?s=r)
 - Seek out direct feedback, especially the critical variety[^18]
 - Support claims with evidence[^14], not calls for blind faith
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
