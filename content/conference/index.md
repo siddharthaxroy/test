@@ -42,6 +42,7 @@ All conference abstracts passed peer-review unless mentioned otherwise.
 29.	** Phetxumphou, K.,^ S. Roy^, B.M. Davy, P.A. Estabrooks, W. You, and A.M. Dietrich. Evaluating readability and clarity of USEPA mandated Drinking Water Quality Reports: A National Assessment. AWWA ACE, Jun 7-10, 2015, Anaheim, CA. ^equal contribution
 30.	Roy, S. Revitalizing Ethics Training of STEM Graduates: The Tonawanda NY Experience. DuPont Summit on Science, Technology & Environmental Policy, Dec 5 2014, Washington, DC.
 31.	Roy, S. and M.A. Edwards. Erosion Corrosion of Copper as a function of temperature, flow rates and water hardness. AWWA ACE, Jun 8-12, 2014, Boston, MA. 
+
     ------
 
     Last updated: June 2022
