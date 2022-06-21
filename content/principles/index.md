@@ -11,7 +11,7 @@ This is a personal living document, subject to frequent revision.
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
 - The public should strive to think in scientific ways[^17] to evaluate expert claims[^13]
-- Guiding questions: How am I wrong?[^5] Can I be less wrong than I was yesterday?[^16]
+- Guiding questions: How am I wrong?[^5] Can I be less wrong than I was yesterday?[^16][^21]
 
 ### Service and public good:
 - First Canon: "To hold paramount the health, safety and welfare of the public"
@@ -89,3 +89,5 @@ Last updated: May 2022
 [^19]: One of the core theses of quantum physicist David Deutsch in *The Beginning of Infinity* is that problems are inevitable. But, unless constrained by the laws of nature, problems are also solvable. What we need and will always need essentially are new knowledge, creativity, and human ingenuity that can produce good explanations that lead to solutions. This inevitably leads to cultivation of a deep and rational optimism. Or, consider Marquis de Condorcet writing in his [*Sketch for a Historical Picture of the Progress of the Human Mind*](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1181&context=ccr): "How consoling for the philosopher who laments the errors, the crimes, the injustices which still pollute the earth and of which he is often the victim, is this view of the human race, emancipated from its shackles, released from the empire of fate and from that of the enemies of its progress, advancing with a firm and sure step along the path of truth, virtue and happiness! It is the contemplation of this prospect that rewards him for all his efforts to assist the progress of reason and the defence of liberty." E. O. Wilson's *Consilience* is also a must read.
 
 [^20]: Speaking of opinions: "viewpoints and identities are personal, but the interrogation of beliefs without judgement of those who hold them is not only desirable, it is an essential to a functioning democracy" - @jo_bartosch
+
+[^21]: Good to strive for a balance between [the careless "expertise creep" and the necessary "epistemic trespassing."](https://www.chronicle.com/article/the-hysterical-style-in-the-american-humanities)
