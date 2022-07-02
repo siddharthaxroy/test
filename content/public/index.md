@@ -70,7 +70,13 @@ Flint Water Study [Visit↗](www.flintwaterstudy.org)  (1M+ web traffic; Read a 
 
 ### **As Organizer/Moderator**
 
-Webinar "Fighting the Coronavirus Pandemic: Evidence based Approaches from Environmental Engineers" for Heterodox Academy [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)  
+#### "Fighting the Coronavirus Pandemic: Evidence based Approaches from Environmental Engineers" Webinar (July 2020) on [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)
+
+{{<youtube ORFvtGF6YTY >}}
+
+#### "The Science and Politics of Journal Retractions: A Conversation with Ivan Oransky of Retraction Watch" Webinar (May 2022) on [YouTube↗](https://www.youtube.com/watch?v=r8Vdo_xNtjM)
+
+{{<youtube r8Vdo_xNtjM >}}
 
 ### **As Documentarian/Videographer**
 
@@ -82,4 +88,4 @@ MacArthur Foundation 100&Change grant proposal [video↗](https://youtu.be/j8Y2Q
 
 ------
 
-Last updated: January 2022
+Last updated: July 2022
