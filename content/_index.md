@@ -4,7 +4,7 @@ title: ""
 ---
 
 ------
-Siddhartha Roy is an environmental engineer and research scientist at Virginia Tech.
+Siddhartha Roy is an environmental engineer and research associate at the UNC Water Institute.
 
 He conducts research at the nexus of drinking water, public health and environmental justice. 
 
