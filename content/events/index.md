@@ -11,11 +11,21 @@ None.
 
 ### Past events
 
+2023, Feb 07. University of Cambridge, Cambridge UK (via satellite).
+
+2022, Dec 15. Boston University, Boston MA.
+
+2022, Nov 14. University of Florida, Gainesville FL.
+
+2022, Oct 12. University of Wisconsin, Madison WI (via satellite).
+
 2022, Apr 13. University of California at Los Angeles, Los Angeles CA (via satellite).
 
 2022, Apr 06. AAEC 3314 – Environmental Law class, Blacksburg, VA.
 
 2022, Apr 05. Queen's University, Kingston Ontario (via satellite).
+
+2022, Mar 28. University of Arizona, Tucson AZ.
 
 2022, Mar 22. Interpublic Group: World Water Day event with Goldman awardee and Flint whistleblower LeeAnne Walters (via satellite).
 
