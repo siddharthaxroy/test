@@ -5,13 +5,15 @@ title: "Press"
 
 ### *Podcasts*
 
-Mother Jones’ [Inquiring Minds](http://www.motherjones.com/environment/2017/03/flint-residents-dont-trust-water)
+Stanford Center on Longevity’s [Century Lives: Siddhartha Roy vs. The Hulk](https://open.spotify.com/episode/77lAams7eQA6Kplub8eRhW) (December 2022)
 
-[Science Soapbox](http://www.sciencesoapbox.org/siddhartha-roy-public-focused-scientist-flints-water-crisis/)
+Mother Jones’ [Inquiring Minds](http://www.motherjones.com/environment/2017/03/flint-residents-dont-trust-water) (March 2017)
 
-[The Nature of Cities](http://www.thenatureofcities.com/2016/02/29/the-flint-water-crisis/)
+[Science Soapbox](http://www.sciencesoapbox.org/siddhartha-roy-public-focused-scientist-flints-water-crisis/) (February 2017)
 
-[The Story Collider](https://soundcloud.com/the-story-collider/resistance-sid-roy-ada-cheng)
+[The Nature of Cities](http://www.thenatureofcities.com/2016/02/29/the-flint-water-crisis/) (February 2016)
+
+[The Story Collider](https://soundcloud.com/the-story-collider/resistance-sid-roy-ada-cheng) (recorded live at The Oberon in Cambridge MA in February 2017)
 
 [Vanguard STEM](http://vanguardstem.com/season-2-episode-1/)
 
@@ -77,4 +79,4 @@ BBC World Service
 
 ------
 
-Last updated: May 31, 2021
+Last updated: March 2023
