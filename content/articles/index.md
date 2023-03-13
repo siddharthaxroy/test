@@ -23,6 +23,11 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
+
+1. α Did a nocebo effect contribute to the rise in special education enrollment following the Flint, Michigan water crisis? *Clinical Psychology in Europe*. [10.32872/cpe.9577↗](https://doi.org/10.23668/psycharchives.12568)
+
+1. β Rapid pitting of copper tube from deposits of cathodic manganese in hot water systems: Mechanism and effects of water chemistry. *Corrosion*. [10.5006/4250↗](https://doi.org/10.5006/4250)
+
 1. α Addressing the Preprint Dilemma. *International Journal of Hygiene and Environmental Health*. [10.1016/j.ijheh.2021.113896↗](https://doi.org/10.1016/j.ijheh.2021.113896)
 
 1. α Are there excess fetal deaths attributable to waterborne lead exposure during the Flint Water Crisis? Evidence from Bio-kinetic Model Predictions and Vital Records. *Journal of Exposure Science and Environmental Epidemiology*. [10.1038/s41370-021-00363-z↗](https://doi.org/10.1038/s41370-021-00363-z)
