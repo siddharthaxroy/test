@@ -11,6 +11,10 @@ None.
 
 ### Past events
 
+2023, Mar 07. ENVR 230 - Issues in Environmental Health, University of North Carolina, Chapel Hill NC.
+
+2023, Feb 24. University of South Florida, Tampa FL.
+
 2023, Feb 07. University of Cambridge, Cambridge UK (via satellite).
 
 2022, Dec 15. Boston University, Boston MA.
