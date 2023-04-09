@@ -24,7 +24,9 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 ------
 
 
-1. α Did a nocebo effect contribute to the rise in special education enrollment following the Flint, Michigan water crisis? *Clinical Psychology in Europe*. [10.32872/cpe.9577↗](https://doi.org/10.23668/psycharchives.12568)
+1. α Did a nocebo effect contribute to the rise in special education enrollment following the Flint, Michigan water crisis? *Clinical Psychology in Europe*. [10.32872/cpe.9577↗](https://doi.org/10.32872/cpe.9577)
+
+1. α NSF Fellows’ perceptions about incentives, research misconduct, and scientific integrity in STEM academia *Scientific Reports*. [10.1038/s41598-023-32445-3↗](https://doi.org/10.1038/s41598-023-32445-3)
 
 1. β Rapid pitting of copper tube from deposits of cathodic manganese in hot water systems: Mechanism and effects of water chemistry. *Corrosion*. [10.5006/4250↗](https://doi.org/10.5006/4250)
 
