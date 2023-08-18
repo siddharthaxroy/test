@@ -12,7 +12,7 @@ Siddhartha Roy is an environmental engineer and research associate at the Univer
 
 Siddhartha’s work has been discussed in *The New York Times*, *BBC World Service*, and the PBS® NOVA documentary *“Poisoned Water,”* and his TED talk *“Science in service to the public good”* has been viewed over 1.6 million times worldwide. His recent and current undertakings include supervising water quality investigations in underserved communities, post-industrial cities and public schools in the U.S. and West Africa, conducting research on water infrastructure corrosion, health effects of lead exposure in pregnant women and young children, and policy changes to reduce occurrence of lead and toxic metals in drinking water globally, and executive producing documentaries and podcasts to enhance public understanding of science.
 
-Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor Dr. Marc Edwards from Virginia Tech, where he was the 2017 Graduate Student of the Year. His work has won prizes and recognition from the American Association for the Advancement of Science, the American Civil Liberties Union, the American Society of Civil Engineers, the American Water Works Association, the Boston Globe, and the International Water Association.
+Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor Dr. Marc Edwards from Virginia Tech, where he was the 2017 Graduate Student of the Year. His work has won prizes and recognition from the American Association for the Advancement of Science, the American Civil Liberties Union, the American Society of Civil Engineers, the American Water Works Association, the Boston Globe, the International Water Association and the Obama Foundation.
 
 ------
 
