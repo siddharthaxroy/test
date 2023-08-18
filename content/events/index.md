@@ -11,7 +11,13 @@ None.
 
 ### Past events
 
+2023, Apr 18. ENVR 601 - Environmental Epidemiology, University of North Carolina, Chapel Hill NC.
+
+2023, Mar 27. Rutgers University, New Brunswick NJ.
+
 2023, Mar 07. ENVR 230 - Issues in Environmental Health, University of North Carolina, Chapel Hill NC.
+
+2023, Mar 01. Systematic Review research students, University of North Carolina, Chapel Hill NC.
 
 2023, Feb 24. University of South Florida, Tampa FL.
 
