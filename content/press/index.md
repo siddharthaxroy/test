@@ -72,11 +72,12 @@ BBC World Service
 33. [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/mar/06/america-schools-water-lead-crisis): A hidden scandal: America’s school students exposed to water tainted by toxic lead (Mar 6, 2019)
 34. [The New York Times](http://www.nytimes.com/2016/02/07/us/as-flint-fought-to-be-heard-virginia-tech-team-sounded-alarm.html?_r=0) (centerspread): As Flint Fought to Be Heard, Virginia Tech Team Sounded Alarm (Feb 6, 2016)
 35. [The Roanoke Times](http://www.roanoke.com/news/education/higher_education/virginia_tech/virginia-tech-researchers-fought-for-flint/article_56fb09da-9e6a-5e11-9085-b48893e2380d.html): Virginia Tech researchers fought for Flint in water crisis (Jan 23, 2016)
-36. [Virginia Tech Magazine](http://www.vtmag.vt.edu/spring16/fighting-for-flint.html): Fighting for Flint: A Virginia Tech team exposes lead poisoning (Spring 2016 issue)
-37. [Virginia Tech Magazine](https://eng.vt.edu/magazine/stories/fall-2018/tapping-the-ripple-effect.html): Tapping the Ripple Effect (Fall 2018 issue)
-38. [WIRED](http://www.wired.com/2016/06/flint-water-marc-edwards/): Ripple Effect: The crisis in Flint isn’t over. It’s everywhere. (Jun 2016 issue)
-39. [WIRED](https://www.wired.com/story/elon-musk-flint-water-plan/): The Flint Water Crisis Is Bigger Than Elon Musk (Jul 12, 2018)
+36. [University of North Carolina Endeavors Magazine](https://endeavors.unc.edu/safe-water-for-all/): Safe Water for All (August 2023)
+37. [Virginia Tech Magazine](http://www.vtmag.vt.edu/spring16/fighting-for-flint.html): Fighting for Flint: A Virginia Tech team exposes lead poisoning (Spring 2016 issue)
+38. [Virginia Tech Magazine](https://eng.vt.edu/magazine/stories/fall-2018/tapping-the-ripple-effect.html): Tapping the Ripple Effect (Fall 2018 issue)
+39. [WIRED](http://www.wired.com/2016/06/flint-water-marc-edwards/): Ripple Effect: The crisis in Flint isn’t over. It’s everywhere. (Jun 2016 issue)
+40. [WIRED](https://www.wired.com/story/elon-musk-flint-water-plan/): The Flint Water Crisis Is Bigger Than Elon Musk (Jul 12, 2018)
 
 ------
 
-Last updated: March 2023
+Last updated: August 2023
