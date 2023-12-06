@@ -11,6 +11,14 @@ None.
 
 ### Past events
 
+2023, Nov 29. Water Institute Seminar Series, University of North Carolina, Chapel Hill NC.
+
+2023, Nov 28. Science Communicators of North Carolina/RTI International, RTI International, Research Triangle Park NC.
+
+2023, Oct 25. UNC Research Week Lunch and Learn Series, University of North Carolina, Chapel Hill NC.
+
+2023, Oct 11. Bioenvironmental Engineering Seminar Series, Rutgers University, New Brunswick NJ (virtual).
+
 2023, Apr 18. ENVR 601 - Environmental Epidemiology, University of North Carolina, Chapel Hill NC.
 
 2023, Mar 27. Rutgers University, New Brunswick NJ.
