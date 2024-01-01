@@ -4,7 +4,7 @@ title: ""
 ---
 
 ------
-Siddhartha Roy is an environmental engineer and research associate at [The Water Institute at the University of North Carolina-Chapel Hill](https://waterinstitute.unc.edu/).
+Siddhartha Roy is an environmental engineer and assistant professor at Rutgers University.
 
 He conducts research at the nexus of drinking water, public health, international development and environmental justice. 
 
