@@ -16,6 +16,6 @@ Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor 
 
 ------
 
-**Curriculum Vitae:** [academic](CV.pdf) / [two-pager](Resume.pdf)
+**Curriculum Vitae:** [academic](CV.pdf)
 
 Email: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
