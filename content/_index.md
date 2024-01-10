@@ -10,6 +10,8 @@ He conducts research at the nexus of drinking water, public health, internationa
 
 [{{< figure src="/img/ted.JPG" position="center" style="border-radius: 8px;" caption="Learn more about Sid." captionPosition="right" captionStyle="color: red;" >}}](/about/)
 
+**[Apply to work with me at Rutgers](/hiring/)**
+
 Subscribe to the newsletter:
 
 {{< substack >}}
