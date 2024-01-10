@@ -4,7 +4,7 @@ title: "Open Positions"
 
 ---
 
-{{< figure src="logo1766.png" position="center" >}}
+{{< figure src="logo1766.png" position="center" width=50% >}}
 
 ### Funded PhD Position in Environmental Science
 
@@ -18,7 +18,7 @@ Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Departm
 
 University: Established in 1776, Rutgers University-New Brunswick is one of America's nine original colonial colleges and first land-grant institutions. It is the leading public university in New Jersey, a top 15 public national university, and a top 100 world university. The [Department of Environmental Sciences](https://envsci.rutgers.edu/) is the oldest environmental sciences department in the nation, with a history dating back over 100 years and offers programs in Environmental Science, Environmental Engineering (jointly with the School of Engineering), Meteorology and Atmospheric Science. The department is located on Rutgers' Cook Campus in New Brunswick NJ and equidistant from both Philadelphia and New York City.
 
-Please note you will also have to apply and be admitted into our graduate program before an assistantship offer can be made: [https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
+>> Please note you will also have to apply and be admitted into our graduate program before an assistantship offer can be made: [https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
 
 ------
 
