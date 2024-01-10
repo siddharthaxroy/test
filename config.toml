@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 
-keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks"]
+keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks", "rutgers", "unc water institute", "rural water"]
 
 title = "Siddhartha Roy"
 
@@ -27,29 +27,34 @@ enableEmoji = "true"
 [[menu.main]]
     url = "/articles/"
     name = "Research"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     url = "/public/"
-    name = "Media"
+    name = "Talks/Op-eds"
+    weight = 2
+
+[[menu.main]]
+    url = "/hiring/"
+    name = "Hiring"
     weight = 1
 
 [[menu.main]]
     url = "/events/"
     name = "Events"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     url = "/about/"
     name = "About"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     url = "/press/"
     name = "Press"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     url = "/principles/"
     name = "Principles"
-    weight = 3
+    weight = 4
