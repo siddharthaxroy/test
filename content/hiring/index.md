@@ -4,6 +4,8 @@ title: "Open Positions"
 
 ---
 
+{{< figure src="logo1766.png" position="center" >}}
+
 ### Funded PhD Position in Environmental Science
 
 Deadline: February 5th.
