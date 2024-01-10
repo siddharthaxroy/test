@@ -8,7 +8,7 @@ title: "Open Positions"
 
 ### Funded PhD Position in Environmental Science
 
- [Apply here](https://go.rutgers.edu/cmo4dcy)
+ **[Apply here](https://go.rutgers.edu/cmo4dcy)**
 
 Deadline: February 5th.
 
@@ -24,7 +24,7 @@ Please note you will also have to apply and be admitted into our graduate progr
 
 ### Undergraduate students
 
-Use the general interest form to apply: [https://go.rutgers.edu/q6fmrb71](https://go.rutgers.edu/q6fmrb71)
+**[Use this general interest form to apply](https://go.rutgers.edu/q6fmrb71)**
 
 ------
 
