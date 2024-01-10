@@ -4,7 +4,7 @@ title: "Open Positions"
 
 ---
 
-{{< figure src="logo1766.png" position="center" width=50% >}}
+{{< figure src="logo1766.png" position="center" width=25% >}}
 
 ### Funded PhD Position in Environmental Science
 
