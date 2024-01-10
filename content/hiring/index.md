@@ -8,9 +8,11 @@ title: "Open Positions"
 
 ### Funded PhD Position in Environmental Science
 
+ [Apply here](https://go.rutgers.edu/cmo4dcy)
+
 Deadline: February 5th.
 
-Position: Prof. Siddhartha Roy invites applications for a funded PhD position in Environmental Science at Rutgers University. The position aims to conduct original research in the broad areas of aquatic chemistry, lead (Pb) and inorganic contaminants in engineered water infrastructure, and health perceptions/effects with an expected start date in August 2024. The PhD position is funded for three years and TA/RA support is anticipated in subsequent years. Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Proficiency in coding languages (e.g., R or Python) is advantageous. To apply, visit [https://go.rutgers.edu/cmo4dcy](https://go.rutgers.edu/cmo4dcy). Shortlisted candidates will receive an interview request.
+Position: Prof. Siddhartha Roy invites applications for a funded PhD position in Environmental Science at Rutgers University. The position aims to conduct original research in the broad areas of aquatic chemistry, lead (Pb) and inorganic contaminants in engineered water infrastructure, and health perceptions/effects with an expected start date in August 2024. The PhD position is funded for three years and TA/RA support is anticipated in subsequent years. Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Proficiency in coding languages (e.g., R or Python) is advantageous. Shortlisted candidates will receive an interview request.
 
 Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Department of Environmental Sciences](https://envsci.rutgers.edu/) at Rutgers University. The goal of his research program is to facilitate access to safe and affordable water for all in the 21st century. To learn more, visit [www.siddhartharoy.org](www.siddhartharoy.org).
 
