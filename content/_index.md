@@ -46,13 +46,13 @@ American Institute of Chemical Engineers (2016): [Pursuing Science for the Publi
 
 ------
 
-Subscribe to the newsletter:
+**Subscribe to the newsletter**
 
 {{< substack >}}
 
 ------
 
-Learn about our Public Inspired Science Model developed at Virginia Tech:
+**Learn about our Public Inspired Science Model developed at Virginia Tech**
 [{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
