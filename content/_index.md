@@ -7,7 +7,7 @@ title: "About"
 **[Open Positions](/hiring/)**
 
 ------
-<div style="text-align: left">
+<div align="left">
   
 Siddhartha Roy is an environmental engineer and assistant professor in the Department of Environmental Sciences at Rutgers University-New Brunswick, where he works in the areas of water quality, public health, international development and environmental justice. He and his Virginia Tech team’s scientific and humanitarian relief work, with residents of Flint Michigan, helped uncover the Flint Water Crisis using citizen science, open data sharing, field sampling, investigative journalism and social media. These efforts led to declaration of a “Public Health Emergency” by President Obama, garnered over $1.2 billion in relief, and informed the 2018 MI Lead and Copper Rule and the 2021 $1 Trillion federal Infrastructure Bill (H.R. 3684).
 
