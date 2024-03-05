@@ -14,7 +14,7 @@ Siddhartha’s work has been discussed in *The New York Times*, *BBC World Servi
 
 Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor Dr. Marc Edwards from Virginia Tech, where he was the 2017 Graduate Student of the Year. His work has won prizes and recognition from the American Association for the Advancement of Science, the American Civil Liberties Union, the American Society of Civil Engineers, the American Water Works Association, the Boston Globe, the International Water Association and the Obama Foundation.
 
-{{< figure src="pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
+{{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
 Email: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
