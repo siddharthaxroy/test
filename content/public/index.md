@@ -44,7 +44,7 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 ### **Science Documentaries and Hollywood Movies**
 
-#### [PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award) now streaming on [Netflix↗](https://www.netflix.com/title/81121185) 
+#### [PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award)  [Netflix↗](https://www.netflix.com/title/81121185) 
 
 {{< pbs >}}
 
@@ -52,15 +52,17 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 {{<youtube x1mrZ1zHb9o >}}
 
-#### [FLINT↗](https://www.imdb.com/title/tt6397426/) (TV movie streaming on Hulu; factual inaccurate but somewhat entertaining)
+#### [FLINT↗](https://www.imdb.com/title/tt6397426/) (Hulu; factual inaccurate but entertaining)
 
 ------
 
-### **As Executive Producer**
+### **As Executive Producer (with Marc Edwards)**
 
 The Public-inspired Science Podcast [iTunes↗](https://podcasts.apple.com/us/podcast/public-inspired-science/id1473322295) 
 
-The US Water Study documentary series (w/ LA-based documentarian Erica Corder). forthcoming in 2022.
+The US Water Study documentary series (w/ documentarian Erica Corder). [YouTube↗](https://www.youtube.com/playlist?list=PLoK83kxXhwqEB3cJiiA-NwGTLYkwBx4N3)
+
+{{<YoutubeP PLoK83kxXhwqEB3cJiiA-NwGTLYkwBx4N3 >}}
 
 ### **As Research Website Creator/Curator**
 
