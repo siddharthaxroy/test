@@ -16,7 +16,7 @@ Siddhartha Roy is an environmental engineer and assistant professor in the Depar
 
 <br><br>
 
-Siddhartha’s work has been discussed in The New York Times, BBC World Service, and the PBS® NOVA documentary “Poisoned Water,” and his TED talk “Science in service to the public good” has been viewed over 1.6 million times worldwide. His recent and current undertakings include supervising water quality investigations in underserved communities, post-industrial cities and public schools in the U.S. and West Africa, conducting research on water infrastructure corrosion, health effects of lead exposure in pregnant women and young children, and policy changes to reduce occurrence of lead and toxic metals in drinking water globally, and executive producing documentaries and podcasts to enhance public understanding of science.
+Siddhartha’s work has been discussed in The New York Times, BBC World Service, and the PBS® NOVA documentary “Poisoned Water,” and his TED talk “Science in service to the public good” has been viewed over 1.6 million times worldwide. His recent and current undertakings include supervising water quality investigations in underserved communities, post-industrial cities and public schools in the U.S. and West Africa, conducting research on water infrastructure corrosion, health effects of lead exposure in pregnant women and young children, and policy changes to reduce occurrence of toxic metals in drinking water globally, and executive producing documentaries and podcasts to enhance public understanding of science.
 
 <br><br>
 
@@ -28,25 +28,27 @@ Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor 
 
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-
 Email: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+
+Read announcements of new scientific articles and opinion essays on the [blog](/posts/) and of scheduled public talks on the [events page](/events/).
 
 ------
 
-**Profiles:**
+**Profiles**
 
-University of North Carolina at Chapel Hill (2023). [Safe Water for All](https://endeavors.unc.edu/safe-water-for-all/)
-STAT News (2021). [Lessons from a Flint water crisis researcher about building trust in science during the pandemic](https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/)
-International Water Association (2021). [Influential scientist wins IWA Young Leadership Award](https://iwa-network.org/press/influential-scientist-wins-iwa-young-leadership-award/)
-American Institute of Chemical Engineers (2016). [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
+University of North Carolina at Chapel Hill (2023): [Safe Water for All](https://endeavors.unc.edu/safe-water-for-all/)
+
+STAT News (2021): [Lessons from a Flint water crisis researcher about building trust in science during the pandemic](https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/)
+
+International Water Association (2021): [Influential scientist wins IWA Young Leadership Award](https://iwa-network.org/press/influential-scientist-wins-iwa-young-leadership-award/)
+
+American Institute of Chemical Engineers (2016): [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
 
 ------
 
 Subscribe to the newsletter:
 
 {{< substack >}}
-
-Read announcements of new scientific articles and opinion essays on [the blog page](/posts/).
 
 ------
 
