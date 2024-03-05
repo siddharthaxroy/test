@@ -36,13 +36,8 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/hiring/"
-    name = "Positions"
+    name = "Open Positions"
     weight = 1
-
-[[menu.main]]
-    url = "/events/"
-    name = "Events"
-    weight = 6
 
 [[menu.main]]
     url = "/press/"
