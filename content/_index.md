@@ -1,16 +1,33 @@
 ---
-title: ""
+title: "About"
 
 ---
 
 ------
-**[Work with me at Rutgers](/hiring/)**
+**[Open Positions](/hiring/)**
 
-Siddhartha Roy is an environmental engineer and assistant professor at Rutgers University.
+------
 
-He conducts research at the nexus of drinking water, public health, international development and environmental justice. 
+Siddhartha Roy is an environmental engineer and assistant professor in the Department of Environmental Sciences at Rutgers University-New Brunswick, where he works in the areas of water quality, public health, international development and environmental justice. He and his Virginia Tech team’s scientific and humanitarian relief work, with residents of Flint Michigan, helped uncover the Flint Water Crisis using citizen science, open data sharing, field sampling, investigative journalism and social media. These efforts led to declaration of a “Public Health Emergency” by President Obama, garnered over $1.2 billion in relief, and informed the 2018 MI Lead and Copper Rule and the 2021 $1 Trillion federal Infrastructure Bill (H.R. 3684).
 
-[{{< figure src="/img/ted.JPG" position="center" style="border-radius: 8px;" caption="Learn more about Sid." captionPosition="right" captionStyle="color: red;" >}}](/about/)
+Siddhartha’s work has been discussed in *The New York Times*, *BBC World Service*, and the PBS® NOVA documentary *“Poisoned Water,”* and his TED talk *“Science in service to the public good”* has been viewed over 1.6 million times worldwide. His recent and current undertakings include supervising water quality investigations in underserved communities, post-industrial cities and public schools in the U.S. and West Africa, conducting research on water infrastructure corrosion, health effects of lead exposure in pregnant women and young children, and policy changes to reduce occurrence of lead and toxic metals in drinking water globally, and executive producing documentaries and podcasts to enhance public understanding of science.
+
+Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor Dr. Marc Edwards from Virginia Tech, where he was the 2017 Graduate Student of the Year. His work has won prizes and recognition from the American Association for the Advancement of Science, the American Civil Liberties Union, the American Society of Civil Engineers, the American Water Works Association, the Boston Globe, the International Water Association and the Obama Foundation.
+
+{{< figure src="pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
+
+Email: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+
+------
+
+**Profiles:**
+- University of North Carolina at Chapel Hill: [Safe Water for All](https://endeavors.unc.edu/safe-water-for-all/) (2023).
+- STAT News: [Lessons from a Flint water crisis researcher about building trust in science during the pandemic](https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/) (2021).
+- International Water Association: [Influential scientist wins IWA Young Leadership Award](https://iwa-network.org/press/influential-scientist-wins-iwa-young-leadership-award/) (2021).
+- American Institute of Chemical Engineers: [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good) (2016).
+
+
+------
 
 Subscribe to the newsletter:
 
