@@ -26,7 +26,7 @@ Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor 
 
 Email: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
-Read announcements of new scientific articles and opinion essays on the [blog](/posts/) and of scheduled public talks on the [events page](/events/).
+[Public Talks](/events/) | [Press](/press/) | [News](/posts/)
 
 ------
 
