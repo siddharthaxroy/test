@@ -40,11 +40,6 @@ enableEmoji = "true"
     weight = 1
 
 [[menu.main]]
-    url = "/press/"
-    name = "Press"
-    weight = 5
-
-[[menu.main]]
     url = "/principles/"
     name = "Principles"
     weight = 4
