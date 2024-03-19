@@ -8,7 +8,7 @@ title: "About"
 siddhartha roy
 environmental engineer and assistant professor
 department of environmental sciences
-rutgers, the state university of new jersey 
+rutgers, the state university of new jersey
 new brunswick, nj. 
 [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
