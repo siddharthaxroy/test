@@ -4,23 +4,18 @@ title: "About"
 ---
 
 ------
-
-assistant professor
-
-[department of environmental sciences](https://envsci.rutgers.edu/)
-
-rutgers, the state university of new jersey
-
-new brunswick, nj. 
-[siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
-
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-[Biography](/bio/) | [Public Talks](/events/) | [Press](/press/) | [News](/posts/)
+[siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+
+assistant professor, [environmental sciences](https://envsci.rutgers.edu/)
+
+rutgers, the state university of new jersey, new brunswick.
+
+[biography](/bio/) | [public talks](/events/) | [press](/press/) | [news](/posts/)
 
 ------
-
-**Profiles**
+**profiles**
 
 University of North Carolina at Chapel Hill (2023): [Safe Water for All](https://endeavors.unc.edu/safe-water-for-all/)
 
@@ -31,14 +26,12 @@ International Water Association (2021): [Influential scientist wins IWA Young Le
 American Institute of Chemical Engineers (2016): [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
 
 ------
-
-**Subscribe to the newsletter**
+**subscribe to the newsletter**
 
 {{< substack >}}
 
 ------
-
-**Our Public Inspired Science Model**
+**our public inspired science model**
 [{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
