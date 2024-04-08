@@ -19,7 +19,7 @@ Deadline: Position opening soon.
 Earliest start date: July 2024 (can be delayed to September 2024).
 
 Position: The position involves conducting original research in the broad areas of aquatic chemistry, corrosion mechanisms in engineered water infrastructure, isotope analysis, and health impacts of exposure to plumbing-related metals. The candidate will lead experimental study design, setting up and conducting of experiments, analyzing and reporting of findings, and mentoring undergraduate and graduate students. The position is related to projects focusing on metals release from pipes and premise plumbing, role
-of corrosion inhibitors on metal sequestration from potable water in various plumbing configurations, and exploring novel in-line corrosion control deployments for water systems in domestic and international settings.
+of corrosion inhibitors on metal sequestration from potable water in various plumbing configurations, and exploring novel in-line corrosion control deployments for water systems in domestic and international settings. Competitive stipend with benefits.
 
 ------
 
@@ -27,9 +27,9 @@ of corrosion inhibitors on metal sequestration from potable water in various plu
 
 Deadline: Position opening soon.
 
-Earliest start date: September 2025.
+Earliest start date: September 2024.
 
-Position: Interested in starting a competitive PhD in Fall 2025, but want to get a headstart? Work as a predoc and gain research experience relevant to your career plans. Open to anyone, but you have to geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority.
+Position: Interested in starting a competitive PhD in Fall 2025, but want to gain valuable research experience and get a headstart? Work as a predoc. Open to anyone, but you have to geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority. Wage position.
 
 ------
 
@@ -37,7 +37,7 @@ Position: Interested in starting a competitive PhD in Fall 2025, but want to get
 
 Deadline: Passed. (Next cycle: Fall 2025)
 
-General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note you will also have to apply and be admitted into our graduate program before an assistantship offer can be made: [https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
+General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note you will also have to apply and be admitted into our graduate program before an assistantship offer can be made: [https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html). Competitive assistantship. 
 
 ------
 
