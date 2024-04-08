@@ -4,7 +4,7 @@ title: "Open Positions"
 
 ---
 
-{{< figure src="logo1766.png" position="center" height=25% >}}
+{{< figure src="logo1766.png" position="center" =250x >}}
 
 Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Department of Environmental Sciences](https://envsci.rutgers.edu/) at Rutgers University. The goal of his research program is to facilitate access to safe and affordable water for all in the 21st century.
 
