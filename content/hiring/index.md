@@ -23,21 +23,21 @@ of corrosion inhibitors on metal sequestration from potable water in various plu
 
 ------
 
+### Predoctoral Researcher
+
+Deadline: Position opening soon.
+
+Earliest start date: September 2025.
+
+Position: Interested in starting a competitive PhD in Fall 2025, but want to get a headstart? Work as a predoc and gain research experience relevant to your career plans. Open to anyone, but you have to geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority.
+
+------
+
 ### PhD Position in Environmental Science or Environmental Engineering
 
 Deadline: Passed. (Next cycle: Fall 2025)
 
 General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note you will also have to apply and be admitted into our graduate program before an assistantship offer can be made: [https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
-
-------
-
-### Predoctoral Researcher
-
-Deadline: Position opening soon.
-
-Earliest start date: January 2025.
-
-Position: Interested in starting your MS or PhD journey in Fall 2025, but want to get a headstart? Work as a predoc research assistant. Open to anyone, but you have to geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority.
 
 ------
 
