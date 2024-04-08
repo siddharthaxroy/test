@@ -16,18 +16,18 @@ University: Established in 1776, Rutgers University-New Brunswick is one of Amer
 
 Deadline: Position opening soon.
 
-Earliest start date: July 2024.
+Earliest start date: July 2024 (can be delayed to September 2024).
 
 Position: The position involves conducting original research in the broad areas of aquatic chemistry, corrosion mechanisms in engineered water infrastructure, isotope analysis, and health impacts of exposure to plumbing-related metals. The candidate will lead experimental study design, setting up and conducting of experiments, analyzing and reporting of findings, and mentoring undergraduate and graduate students. The position is related to projects focusing on metals release from pipes and premise plumbing, role
 of corrosion inhibitors on metal sequestration from potable water in various plumbing configurations, and exploring novel in-line corrosion control deployments for water systems in domestic and international settings.
 
 ------
 
-### Funded PhD Position in Environmental Science or Environmental Engineering
+### PhD Position in Environmental Science or Environmental Engineering
 
-Deadline: Passed.
+Deadline: Passed. (Next cycle: Fall 2025)
 
-Next cycle: Fall 2025.
+General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note you will also have to apply and be admitted into our graduate program before an assistantship offer can be made: [https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
 
 ------
 
@@ -37,7 +37,7 @@ Deadline: Position opening soon.
 
 Earliest start date: January 2025.
 
-Position: Interested in starting your MS or PhD journey in Fall 2025, but want to get a headstart? Work as a predoc research assistant. Open to anyone, but you have to geographically located near Rutgers-New Brunswick. Rutgers seniors or MS students get priority.
+Position: Interested in starting your MS or PhD journey in Fall 2025, but want to get a headstart? Work as a predoc research assistant. Open to anyone, but you have to geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority.
 
 ------
 
