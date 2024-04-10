@@ -6,20 +6,21 @@ title: "Open Positions"
 
 {{< figure src="logo1766.png" position="center" >}}
 
-Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Department of Environmental Sciences](https://envsci.rutgers.edu/) at Rutgers University. The goal of his research program is to facilitate access to safe and affordable water for all in the 21st century.
-
 University: Established in 1776, Rutgers University-New Brunswick is one of America's nine original colonial colleges and first land-grant institutions. It is the leading public university in New Jersey, a top 15 public national university, and a top 100 world university. The [Department of Environmental Sciences](https://envsci.rutgers.edu/) is the oldest environmental sciences department in the nation, with a history dating back over 100 years and offers programs in Environmental Science, Environmental Engineering (jointly with the School of Engineering), Meteorology and Atmospheric Science. The department is located on Rutgers' Cook Campus in New Brunswick NJ and equidistant from both Philadelphia and New York City.
+
+Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Department of Environmental Sciences](https://envsci.rutgers.edu/) at Rutgers University. The goal of his research program is to facilitate access to safe and affordable water for all in the 21st century.
 
 ------
 
 ### Postdoctoral Researcher
 
-Deadline: Position opening soon.
+**Apply here: [https://jobs.rutgers.edu/postings/225184](https://jobs.rutgers.edu/postings/225184)**
+
+Deadline: Rolling (Apply by April 30 2024 for priority consideration).
 
 Earliest start date: July 2024 (can be delayed to September 2024).
 
-Position: The position involves conducting original research in the broad areas of aquatic chemistry, corrosion mechanisms in engineered water infrastructure, isotope analysis, and health impacts of exposure to plumbing-related metals. The candidate will lead experimental study design, setting up and conducting of experiments, analyzing and reporting of findings, and mentoring undergraduate and graduate students. The position is related to projects focusing on metals release from pipes and premise plumbing, role
-of corrosion inhibitors on metal sequestration from potable water in various plumbing configurations, and exploring novel in-line corrosion control deployments for water systems in domestic and international settings. Competitive stipend with benefits.
+Position: The position involves conducting original research in the broad areas of aquatic chemistry, corrosion mechanisms in engineered water infrastructure, isotope analysis, and health impacts of exposure to plumbing-related metals. The candidate will lead experimental study design, setting up and conducting of experiments, analyzing and reporting of findings, and mentoring undergraduate and graduate students. The position is related to projects focusing on metals release from pipes and premise plumbing, role of corrosion inhibitors on metal sequestration from potable water in various plumbing configurations, and exploring novel in-line corrosion control deployments for water systems in domestic and international settings. Competitive stipend with benefits.
 
 ------
 
