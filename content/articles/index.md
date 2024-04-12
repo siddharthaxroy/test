@@ -25,19 +25,21 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
-1. α † A possible nocebo effect in children following the Flint Water Crisis: Evidence from schoolteacher perceptions and neuropsychological evaluations *PsyArXiv Preprint under peer-review*. [10.31234/osf.io/c4sab↗](https://doi.org/10.31234/osf.io/c4sab)
+1. α † A possible nocebo effect in children following the Flint Water Crisis: Evidence from schoolteacher perceptions and neuropsychological evaluations. *PsyArXiv Preprint under peer-review*. [10.31234/osf.io/c4sab↗](https://doi.org/10.31234/osf.io/c4sab)
 
-1. α Competition for engineering tenure-track faculty positions in the United States *PNAS Nexus*. Accepted.
+1. α Competition for engineering tenure-track faculty positions in the United States. *PNAS Nexus*. Accepted.
 
-1. β A Citizen Science Approach to Evaluating Consumer Water Safety Concerns (2011–2022) *ES&T Water*. [10.1021/acsestwater.4c00090↗](https://doi.org/10.1021/acsestwater.4c00090)
+1. β A Citizen Science Approach to Evaluating Consumer Water Safety Concerns (2011–2022). *ES&T Water*. [10.1021/acsestwater.4c00090↗](https://doi.org/10.1021/acsestwater.4c00090)
 
-1. α Considering Some Negative Implications of an Ever-Decreasing U.S. Centers for Disease Control and Prevention (CDC) Blood Lead Threshold and “No Safe Level” Health Messaging *Environmental Science and Technology*. [10.1021/acs.est.3c04766↗](https://doi.org/10.1021/acs.est.3c04766)
+1. α Considering Some Negative Implications of an Ever-Decreasing U.S. Centers for Disease Control and Prevention (CDC) Blood Lead Threshold and “No Safe Level” Health Messaging. *Environmental Science and Technology*. [10.1021/acs.est.3c04766↗](https://doi.org/10.1021/acs.est.3c04766)
 
 1. β **#** Engineering ethics and the public: Impacts of a graduate-level course on students' ethical perceptions and conduct in research and professional settings (2010-20). *ASEE Annual Conference and Exposition*, Jun 25-28 2023, Baltimore, MD. [Read↗](https://peer.asee.org/engineering-ethics-and-the-public-impacts-of-a-graduate-level-course-on-students-ethical-perceptions-and-conduct-in-research-and-professional-settings-2010-20)
 
 1. α Did a nocebo effect contribute to the rise in special education enrollment following the Flint, Michigan water crisis? *Clinical Psychology in Europe*. [10.32872/cpe.9577↗](https://doi.org/10.32872/cpe.9577)
 
-1. α NSF Fellows’ perceptions about incentives, research misconduct, and scientific integrity in STEM academia *Scientific Reports*. [10.1038/s41598-023-32445-3↗](https://doi.org/10.1038/s41598-023-32445-3)
+1. α NSF Fellows’ perceptions about incentives, research misconduct, and scientific integrity in STEM academia. *Scientific Reports*. [10.1038/s41598-023-32445-3↗](https://doi.org/10.1038/s41598-023-32445-3)
+
+    → [Top 100 'Sustainability' papers of 2023](https://www.nature.com/collections/cehiacegbh); Featured in [Physics Magazine](https://physics.aps.org/articles/v16/90). 
 
 1. β Rapid pitting of copper tube from deposits of cathodic manganese in hot water systems: Mechanism and effects of water chemistry. *Corrosion*. [10.5006/4250↗](https://doi.org/10.5006/4250)
 
