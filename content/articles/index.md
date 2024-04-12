@@ -17,12 +17,23 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 #: peer-reviewed conference paper
 
+†: pre-print under peer-review
+
 ^: includes advised undergraduate or graduate student co-authors
 
-*If you encounter a paywall, please [email](mailto:sidroy@vt.edu) me to request the full paper.*
+*If you encounter a paywall, please [email](mailto:siddhartha.roy@rutgers.edu) me to request the full paper.*
 
 ------
 
+1. α † A possible nocebo effect in children following the Flint Water Crisis: Evidence from schoolteacher perceptions and neuropsychological evaluations *PsyArXiv Preprint under peer-review*. [10.31234/osf.io/c4sab↗](https://doi.org/10.31234/osf.io/c4sab)
+
+1. α Competition for engineering tenure-track faculty positions in the United States *PNAS Nexus*. Accepted.
+
+1. β A Citizen Science Approach to Evaluating Consumer Water Safety Concerns (2011–2022) *ES&T Water*. [10.1021/acsestwater.4c00090↗](https://doi.org/10.1021/acsestwater.4c00090)
+
+1. α Considering Some Negative Implications of an Ever-Decreasing U.S. Centers for Disease Control and Prevention (CDC) Blood Lead Threshold and “No Safe Level” Health Messaging *Environmental Science and Technology*. [10.1021/acs.est.3c04766↗](https://doi.org/10.1021/acs.est.3c04766)
+
+1. β **#** Engineering ethics and the public: Impacts of a graduate-level course on students' ethical perceptions and conduct in research and professional settings (2010-20). *ASEE Annual Conference and Exposition*, Jun 25-28 2023, Baltimore, MD. [Read↗](https://peer.asee.org/engineering-ethics-and-the-public-impacts-of-a-graduate-level-course-on-students-ethical-perceptions-and-conduct-in-research-and-professional-settings-2010-20)
 
 1. α Did a nocebo effect contribute to the rise in special education enrollment following the Flint, Michigan water crisis? *Clinical Psychology in Europe*. [10.32872/cpe.9577↗](https://doi.org/10.32872/cpe.9577)
 
@@ -72,4 +83,4 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=AW-b9OwA
 
 ------
 
-Last updated: NMarch 2023
+Last updated: April 2024
