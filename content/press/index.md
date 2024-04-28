@@ -3,6 +3,15 @@ description: "News and podcast appearances"
 title: "Press"
 ---
 
+### *Television or Livestream Panels*
+
+STAT News [Tomorrow’s Trailblazers in Science](https://www.statnews.com/event/tomorrows-trailblazers-in-science/) (April 2024)
+{{<youtube Udjd1ySJMgM >}}
+
+[TRT World](https://t.co/C9fEqHWcT5): Has Flint’s water crisis been solved? (Apr 19, 2018)
+
+[WDBJ7](http://www.wdbj7.com/news/local/virginia-tech-researchers-talk-about-the-catastrophic-flint-water-crisis/37867848#.VrgRypaOkKY.twitter) (TV panel on Sunday morning news). (Jan 2016)
+ 
 ### *Podcasts*
 
 Stanford Center on Longevity’s [Century Lives: Siddhartha Roy vs. The Hulk](https://open.spotify.com/episode/77lAams7eQA6Kplub8eRhW) (December 2022)
@@ -28,12 +37,6 @@ BBC World Service
 [Minnesota Public Radio](https://www.mprnews.org/story/2018/11/05/miller-this-american-moment-restoring-the-publics-faith-in-science-and-expertise) (NPR): This American Moment: Restoring the public’s faith in science and expertise (Nov 6, 2018)   
 
 [WMUK](http://wmuk.org/post/wsw-flints-lesson-about-science-and-ethics) (NPR): WSW: Flint’s Lesson About Science And Ethics (Feb 4, 2016)
-
-###  *Television*
-
- [TRT World](https://t.co/C9fEqHWcT5): Has Flint’s water crisis been solved? (Apr 19, 2018)
-
- [WDBJ7](http://www.wdbj7.com/news/local/virginia-tech-researchers-talk-about-the-catastrophic-flint-water-crisis/37867848#.VrgRypaOkKY.twitter) (TV panel on Sunday morning news). (Jan 2016)
 
 ### *Newspapers and Magazines*
 
@@ -80,4 +83,4 @@ BBC World Service
 
 ------
 
-Last updated: August 2023
+Last updated: April 2024
