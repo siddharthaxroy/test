@@ -10,9 +10,22 @@ title: "About"
 
 assistant professor, [environmental sciences](https://envsci.rutgers.edu/)
 
-rutgers, the state university of new jersey, new brunswick.
+rutgers, the state university of new jersey.
 
 [biography](/bio/) | [public talks](/events/) | [press](/press/) | [news](/posts/)
+
+------
+**taskforce, scientific cohort and center memberships**
+
+Member, [Philadelphia Regional Center for Children’s Environmental Health](https://prcceh.upenn.edu/people/siddhartha-roy-phd/) at the University of Pennsylvania and Children's Hospital of Philadelphia.
+
+Leader, [The Obama Foundation](https://www.obama.org/programs/leaders/usa/2023/siddhartha-roy/) Leaders USA inaugural cohort.
+
+Member, [US Environmental Protection Agency](https://www.epa.gov/bosc/social-and-community-science-subcommittee) Board of Scientific Counsellors: Social and Community Science federal advisory subcommittee.
+
+Wunderkind, [STAT News and The Boston Globe](https://www.statnews.com/wunderkinds-2021/siddhartha-roy/).
+
+Founding Member, [US Water Study](https://www.uswaterstudy.org) research team at Virginia Tech.
 
 ------
 **profiles**
