@@ -46,7 +46,7 @@ General details: Subject to adequate performance, PhD students at Rutgers are gu
 
 Please check the [Aresty Research Assistant Program portal](https://aresty.rutgers.edu/programs/research-assistant-program) for open projects and apply (deadline April 15, 2024).  
 
-**Use this general interest form to apply at any time: [https://go.rutgers.edu/q6fmrb71](https://go.rutgers.edu/q6fmrb71)**
+*Use this general interest form to apply at any time: [https://go.rutgers.edu/q6fmrb71](https://go.rutgers.edu/q6fmrb71)*
 
 ------
 
