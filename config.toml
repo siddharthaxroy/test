@@ -3,7 +3,7 @@ languageCode = "en-us"
 
 keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks", "rutgers", "unc water institute", "rural water"]
 
-title = "Siddhartha Roy"
+title = "Siddhartha Roy, Ph.D."
 
 theme="hello-friend"  
 
@@ -26,17 +26,17 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/articles/"
-    name = "Research"
+    name = "Science"
     weight = 3
 
 [[menu.main]]
     url = "/public/"
-    name = "Talks/Op-eds"
+    name = "Talks/Essays"
     weight = 2
 
 [[menu.main]]
     url = "/hiring/"
-    name = "Open Positions"
+    name = "Join us"
     weight = 1
 
 [[menu.main]]
