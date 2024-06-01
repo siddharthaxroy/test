@@ -17,15 +17,17 @@ rutgers, the state university of new jersey.
 ------
 **taskforce, scientific cohort and center memberships**
 
-Member, [Philadelphia Regional Center for Children’s Environmental Health](https://prcceh.upenn.edu/people/siddhartha-roy-phd/) at the University of Pennsylvania and Children's Hospital of Philadelphia.
+[US Environmental Protection Agency](https://www.epa.gov/bosc/social-and-community-science-subcommittee) Board of Scientific Counsellors: Social and Community Science subcommittee.
 
-Leader, [The Obama Foundation](https://www.obama.org/programs/leaders/usa/2023/siddhartha-roy/) Leaders USA inaugural cohort.
+[NJ Department of Environmental Protection](https://dep.nj.gov/sab/appointed-members/) Science Advisory Board: Water Quality and Quantity Committee.
 
-Member, [US Environmental Protection Agency](https://www.epa.gov/bosc/social-and-community-science-subcommittee) Board of Scientific Counsellors: Social and Community Science federal advisory subcommittee.
+[Philadelphia Regional Center for Children’s Environmental Health](https://prcceh.upenn.edu/people/siddhartha-roy-phd/) at the University of Pennsylvania and Children's Hospital of Philadelphia.
 
-Wunderkind, [STAT News and The Boston Globe](https://www.statnews.com/wunderkinds-2021/siddhartha-roy/).
+[The Obama Foundation](https://www.obama.org/programs/leaders/usa/2023/siddhartha-roy/) Leaders USA inaugural cohort.
 
-Founding Member, [US Water Study](https://www.uswaterstudy.org) research team at Virginia Tech.
+[STAT News and The Boston Globe](https://www.statnews.com/wunderkinds-2021/siddhartha-roy/) Wunderkind.
+
+[US Water Study](https://www.uswaterstudy.org) research team at Virginia Tech (Founding Member).
 
 ------
 **profiles**
