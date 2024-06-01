@@ -8,11 +8,11 @@ title: "About"
 
 [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
-assistant professor, [environmental sciences](https://envsci.rutgers.edu/)
+environmental engineer and assistant professor in [environmental sciences](https://envsci.rutgers.edu/)
 
 rutgers, the state university of new jersey.
 
-[biography](/bio/) | [public talks](/events/) | [press](/press/) | [news](/posts/)
+[biography](/bio/) | [public talks](/events/) | [press](/press/)
 
 ------
 **taskforce, scientific cohort and center memberships**
@@ -20,6 +20,8 @@ rutgers, the state university of new jersey.
 [US Environmental Protection Agency](https://www.epa.gov/bosc/social-and-community-science-subcommittee) Board of Scientific Counsellors: Social and Community Science subcommittee.
 
 [NJ Department of Environmental Protection](https://dep.nj.gov/sab/appointed-members/) Science Advisory Board: Water Quality and Quantity Committee.
+
+[New Jersey Institute for Food, Nutrition & Health, Rutgers](https://dep.nj.gov/sab/appointed-members/) Environmental Influences on Food, Nutrition and Health Taskforce.
 
 [Philadelphia Regional Center for Children’s Environmental Health](https://prcceh.upenn.edu/people/siddhartha-roy-phd/) at the University of Pennsylvania and Children's Hospital of Philadelphia.
 
