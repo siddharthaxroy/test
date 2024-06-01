@@ -8,9 +8,9 @@ title: "Press"
 STAT News [Tomorrow’s Trailblazers in Science](https://www.statnews.com/event/tomorrows-trailblazers-in-science/) (April 2024)
 {{<youtube Udjd1ySJMgM >}}
 
-[TRT World](https://t.co/C9fEqHWcT5): Has Flint’s water crisis been solved? (Apr 19, 2018)
+[TRT World](https://t.co/C9fEqHWcT5): Has Flint’s water crisis been solved? (April 19, 2018)
 
-[WDBJ7](http://www.wdbj7.com/news/local/virginia-tech-researchers-talk-about-the-catastrophic-flint-water-crisis/37867848#.VrgRypaOkKY.twitter) (TV panel on Sunday morning news). (Jan 2016)
+[WDBJ7](http://www.wdbj7.com/news/local/virginia-tech-researchers-talk-about-the-catastrophic-flint-water-crisis/37867848#.VrgRypaOkKY.twitter) (TV panel on Sunday morning news). (January 2016)
  
 ### *Podcasts*
 
