@@ -1,5 +1,5 @@
 ---
-title: "Principles"
+title: "Principia"
 ---
 
 ------
@@ -78,7 +78,7 @@ Last updated: May 2022
 
 [^14]: Read Scott Alexander's clear-eyed perspective on honestly and responsibly using the phrase "no evidence" in science communication on [*Substack*](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag).
 
-[^15]: Beyond the obvious, intellectual humility can help us realize the true priviledge of being a scientist, and asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in this [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
+[^15]: Beyond the obvious, intellectual humility can help us realize the true privilege of being a scientist, and asking and pursuing answers to big questions. Elizabeth Loftus articulates this beautifully in this [*Psychology Today*](https://staff.washington.edu/eloftus/Articles/psytoday.htm) profile.
 
 [^16]: Karl Popper in *Knowledge without Authority*: "All 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'"
 
