@@ -6,11 +6,7 @@ title: "About"
 ------
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-[siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
-
-environmental engineer and assistant professor in [environmental sciences](https://envsci.rutgers.edu/)
-
-rutgers, the state university of new jersey.
+assistant professor, rutgers, the state university of new jersey.
 
 [biography](/bio/) | [public talks](/events/) | [press](/press/)
 
@@ -43,12 +39,22 @@ International Water Association (2021): [Influential scientist wins IWA Young Le
 American Institute of Chemical Engineers (2016): [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
 
 ------
-**subscribe to the newsletter**
+**newsletter**
 
 {{< substack >}}
 
 ------
 **our public inspired science model**
 [{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+
+------
+**get in touch**
+
+Rutgers University
+Department of Environmental Sciences
+14 College Farm Rd, #360
+New Brunswick, NJ 08901 
+
+**[siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)**
 
 ------
