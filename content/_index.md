@@ -3,15 +3,14 @@ title: "About"
 
 ---
 
-------
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-assistant professor, rutgers, the state university of new jersey.
+### assistant professor at rutgers, the state university of new jersey.
 
 [biography](/bio/) | [public talks](/events/) | [press](/press/)
 
 ------
-**taskforce, scientific cohort and center memberships**
+## **taskforce, scientific cohort and center memberships**
 
 [US Environmental Protection Agency](https://www.epa.gov/bosc/social-and-community-science-subcommittee) Board of Scientific Counsellors: Social and Community Science subcommittee.
 
@@ -21,14 +20,14 @@ assistant professor, rutgers, the state university of new jersey.
 
 [Philadelphia Regional Center for Children’s Environmental Health](https://prcceh.upenn.edu/people/siddhartha-roy-phd/) at the University of Pennsylvania and Children's Hospital of Philadelphia.
 
-[The Obama Foundation](https://www.obama.org/programs/leaders/usa/2023/siddhartha-roy/) Leaders USA inaugural cohort.
+[The Obama Foundation](https://www.obama.org/programs/leaders/usa/2023/siddhartha-roy/) Leaders USA cohort.
 
 [STAT News and The Boston Globe](https://www.statnews.com/wunderkinds-2021/siddhartha-roy/) Wunderkind.
 
 [US Water Study](https://www.uswaterstudy.org) research team at Virginia Tech (Founding Member).
 
 ------
-**profiles**
+## **profiles**
 
 University of North Carolina at Chapel Hill (2023): [Safe Water for All](https://endeavors.unc.edu/safe-water-for-all/)
 
@@ -39,22 +38,25 @@ International Water Association (2021): [Influential scientist wins IWA Young Le
 American Institute of Chemical Engineers (2016): [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
 
 ------
-**newsletter**
+## **newsletter**
 
 {{< substack >}}
 
 ------
-**our public inspired science model**
+## **our public inspired science model**
 [{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
-**get in touch**
+## **get in touch**
 
 Rutgers University
+
 Department of Environmental Sciences
+
 14 College Farm Rd, #360
+
 New Brunswick, NJ 08901 
 
-**[siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)**
+### **[siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)**
 
 ------
