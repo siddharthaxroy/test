@@ -5,7 +5,7 @@ title: "About"
 
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-#### I am an assistant professor in the department of environmental sciences at rutgers, the state university of new jersey.
+#### assistant professor, rutgers, the state university of new jersey.
 
 [biography](/bio/) | [public talks](/events/) | [press](/press/)
 
