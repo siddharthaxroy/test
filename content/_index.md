@@ -5,9 +5,9 @@ title: "About"
 
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-#### assistant professor, rutgers, the state university of new jersey.
+##### assistant professor, rutgers, the state university of new jersey.
 
-[biography](/bio/) | [public talks](/events/) | [press](/press/)
+[Biography](/bio/) | [Events](/events/) | [Press](/press/)
 
 ------
 ### taskforce, scientific cohort and center memberships
