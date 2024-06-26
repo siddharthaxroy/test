@@ -5,7 +5,7 @@ title: "About"
 
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-##### assistant professor, rutgers, the state university of new jersey.
+assistant professor, rutgers, the state university of new jersey.
 
 [Biography](/bio/) | [Events](/events/) | [Press](/press/)
 
@@ -59,7 +59,7 @@ New Brunswick, NJ 08901
 
 (office) [+1-848-932-5780](tel:8489325780)
 
-General inquiries/interview requests: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+General inquiries: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
 Donors/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutgers.edu?subject=Funding)
 
