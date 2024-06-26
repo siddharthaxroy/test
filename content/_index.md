@@ -57,8 +57,9 @@ Department of Environmental Sciences
 
 New Brunswick, NJ 08901
 
-(office) +1-848-932-5780
+(office) [+1-848-932-5780](tel:8489325780)
 
-#### [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+General inquiries/interview requests: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
+VCs/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutgers.edu?subject=Funding)
 ------
