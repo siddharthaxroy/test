@@ -8,6 +8,7 @@ This is a personal living document, subject to frequent revision.
 ### Science:
 - Apply the scientific method with rigor and intellectual humility[^15]
 - Science is about seeking the truth[^4], not group consensus
+- Science is NOT self-correcting. Scientists help correct science through vigorous and good-faith criticism.[^22]
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
 - The public should strive to think in scientific ways[^17] to evaluate expert claims[^13]
@@ -46,7 +47,7 @@ This is a personal living document, subject to frequent revision.
 - Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-Last updated: May 2022
+Last updated: July 2024
 
 #### Footnotes:
 
@@ -91,3 +92,5 @@ Last updated: May 2022
 [^20]: Speaking of opinions: "viewpoints and identities are personal, but the interrogation of beliefs without judgement of those who hold them is not only desirable, it is an essential to a functioning democracy" - @jo_bartosch
 
 [^21]: Good to strive for a balance between [the careless "expertise creep" and the necessary "epistemic trespassing."](https://www.chronicle.com/article/the-hysterical-style-in-the-american-humanities)
+
+[^22]: Review two ongoing cases where we are attempting to correct the scientific record through post-publication expressions of concern: a) [Flint educational outcomes paper in Science Advances](https://retractionwatch.com/2024/07/15/did-flint-water-crisis-set-kids-back-in-school-paper-saying-so-is-severely-flawed-say-critics/#more-129627) and b) [Water lead filters have an astounding 50% mortality rate conference article in International Journal of Infectious Diseases](https://retractionwatch.com/2022/05/19/after-we-tried-to-correct-claims-about-deadly-water-filters-in-flint-we-were-accused-of-scientific-misconduct-and-that-was-just-the-beginning/).
