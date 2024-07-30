@@ -22,9 +22,9 @@ Position for Fall 2024 filled.
 
 Deadline: December 15, 2024 (for Fall 2025 admissions)
 
-[Apply here](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
+[Apply here](https://rutgers.ca1.qualtrics.com/jfe/form/SV_eJTxwfiSuROFca2) and [here](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html)
 
-General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note you will have to apply and be admitted into our graduate program before an assistantship offer can be made. Competitive assistantship. 
+General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note [you will have to apply](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html) and be admitted into our graduate program before an assistantship offer can be made. Competitive assistantship. 
 
 ------
 
