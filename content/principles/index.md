@@ -38,7 +38,7 @@ This is a personal living document, subject to frequent revision.
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Cultivate rational optimism about scientific and human progress[^19]
 - Counter perverse incentives by choosing quality over quantity[^10]
-- Level up your game by observing exceptional peers around you, instead of burning in envy[^23]
+- Level up your game by learning from the exceptional peers around you, instead of burning in envy[^23]
 
 ### Statistics:
 - Stats 001: Without data, you are just someone with an opinion[^20]
