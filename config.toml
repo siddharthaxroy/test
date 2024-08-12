@@ -41,5 +41,5 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/principles/"
-    name = "Principia"
+    name = "Principles"
     weight = 2
