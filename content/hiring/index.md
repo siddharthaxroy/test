@@ -14,7 +14,9 @@ Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Departm
 
 ### Postdoctoral Researcher
 
-Position for Fall 2024 filled.
+Apply here: [https://jobs.rutgers.edu/postings/225184](https://jobs.rutgers.edu/postings/225184)
+
+We invite applications from candidates with backgrounds in environmental science, civil/environmental engineering, chemical engineering, inorganic chemistry, or related disciplines. The postdoc will lead laboratory and field-based projects on metals release from pipes and premise plumbing, impacts of consuming potable water with elevated metals on various aspects of human health, and novel in-line corrosion control deployments for metal sequestration in water systems in domestic, environmental justice and international settings. This is a 12-month position with a starting salary, per union agreement, of $61,805 with the possibility of extension for another year contingent on satisfactory performance. The start date is flexible, with a preference for January 2025 or earlier.
 
 ------
 
