@@ -12,7 +12,7 @@ assistant professor, rutgers, the state university of new jersey.
 ------
 ### Our research program is built around answering a deceptively simple question:
 
-{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 16px solid; border-color: inherit;" >}}
+{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 20px solid; border-color: #D9D9D9;" >}}
 
 ### newsletter
 
@@ -20,7 +20,7 @@ assistant professor, rutgers, the state university of new jersey.
 
 ------
 ### our public inspired science model
-[{{< figure src="/img/model.png" position="center" style="border: 6px solid; border-color: inherit;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+[{{< figure src="/img/model.png" position="center" style="border: 6px solid; border-color: white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
 ### get in touch
