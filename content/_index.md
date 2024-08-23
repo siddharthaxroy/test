@@ -12,7 +12,7 @@ assistant professor, rutgers, the state university of new jersey.
 ------
 ### Our research program is built around answering a deceptively simple question:
 
-{{< figure src="/img/visual-research-abstract.png" position="center" >}}
+{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 6px solid white;" >}}
 
 ------
 ### taskforce, scientific cohort and center memberships
@@ -49,7 +49,7 @@ American Institute of Chemical Engineers (2016): [Pursuing Science for the Publi
 
 ------
 ### our public inspired science model
-[{{< figure src="/img/model.png" position="center" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+[{{< figure src="/img/model.png" position="center" style="border: 6px solid white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
 ### get in touch
