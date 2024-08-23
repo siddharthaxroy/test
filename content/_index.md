@@ -10,6 +10,11 @@ assistant professor, rutgers, the state university of new jersey.
 [Biography](/bio/) | [Events](/events/) | [Press](/press/)
 
 ------
+### Our research program is built around answering a deceptively simple question:
+
+{{< figure src="/img/visual-research-abstract.png" position="center" >}}
+
+------
 ### taskforce, scientific cohort and center memberships
 
 [US Environmental Protection Agency](https://www.epa.gov/bosc/social-and-community-science-subcommittee) Board of Scientific Counsellors: Social and Community Science subcommittee.
