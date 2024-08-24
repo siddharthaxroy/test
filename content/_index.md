@@ -1,7 +1,15 @@
 ---
-title: "About"
+title: "Welcome"
 
 ---
+
+------
+
+### Our research program is built around answering a deceptively simple question:
+
+{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 20px solid; border-color: #D9D9D9;" >}}
+
+------
 
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
@@ -9,18 +17,13 @@ assistant professor, rutgers, the state university of new jersey.
 
 [Biography](/bio/) | [Events](/events/) | [Press](/press/)
 
-------
-### Our research program is built around answering a deceptively simple question:
-
-{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 20px solid; border-color: #D9D9D9;" >}}
-
 ### newsletter
 
 {{< substack >}}
 
 ------
-### our public inspired science model
-[{{< figure src="/img/model.png" position="center" style="border: 6px solid; border-color: white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+### We train students, conduct research, and offer implementation and policy advice through a public inspired science lens:
+[{{< figure src="/img/model.png" position="center" style="border: 10px solid; border-color: white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
 ### get in touch
