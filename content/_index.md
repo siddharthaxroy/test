@@ -5,7 +5,7 @@ title: "Welcome"
 
 ------
 
-### Our research program seeks to answer a deceptively simple question:
+### Our research program uses a transdisciplinary approach to help answer a deceptively simple question:
 
 {{< figure src="/img/visual-research-abstract.png" position="center" style="border: 25px solid; border-color: #D9D9D9;" >}}
 
