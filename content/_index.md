@@ -9,7 +9,7 @@ title: "Welcome"
 
 {{< figure src="/img/visual-research-abstract.png" position="center" style="border: 20px solid; border-color: #D9D9D9;" >}}
 
-### We train students, conduct research, and offer implementation and policy advice through a public inspired science lens:
+### We mentor students, conduct original research, and offer implementation and policy advice through a public inspired science lens:
 [{{< figure src="/img/model.png" position="center" style="border: 10px solid; border-color: white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ------
@@ -35,7 +35,7 @@ Donors/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutge
 
 ------
 
-### Subscribe to the science newsletter:
+### To read new essays and science op-eds, subscribe to the newsletter:
 
 {{< substack >}}
 
