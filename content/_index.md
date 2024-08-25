@@ -12,7 +12,6 @@ title: "Welcome"
 ### We mentor students, conduct original research, and offer implementation and policy advice through a public inspired science lens:
 [{{< figure src="/img/model.png" position="center" style="border: 10px solid; border-color: white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
-------
 ### contact or visit our laboratory:
 
 Siddhartha Roy [(Biography)](/bio/)
