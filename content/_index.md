@@ -7,10 +7,10 @@ title: "Welcome"
 
 ### Our research program uses a transdisciplinary approach to help answer a deceptively simple question:
 
-{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 25px solid; border-color: #D9D9D9" caption="Credit: All images were captured by PI or have been reused under a fair use doctrine" captionPosition="right;" >}}
+{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 25px solid; border-color: #D9D9D9" caption="Credits: All images were captured by the PI or have been reused under the Fair Use doctrine." captionPosition="right;" >}}
 
 ### We mentor students, conduct original research, and offer implementation and policy advice through a public inspired science lens:
-[{{< figure src="/img/model.png" position="center" style="border: 25px solid; border-color: white;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+[{{< figure src="/img/model.png" position="center" style="border: 25px solid; border-color: white" caption="Credits: Poster developed with Dr. Marc Edwards for a National Academy of Engineering conference." captionPosition="right;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
 ### Contact or visit our laboratory:
 
