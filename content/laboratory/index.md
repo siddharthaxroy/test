@@ -18,9 +18,11 @@ title: "Research Laboratory"
 **National level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
+
 **State level**
 - First Prize – Technical Paper (Philip Smith – ASCE Virginias’ Section), 2018
 - Third Prize – Technical Paper (Kristine Mapili – ASCE Virginias’ Section), 2016
+
 **University level**
 - Third Prize – Technical Poster (Philip Smith – 7th CEE Research Day, Virginia Tech), 2017
 - First Prize – Technical Poster (Kristine Mapili – 6th CEE Research Day, Virginia Tech), 2016
@@ -46,6 +48,7 @@ title: "Research Laboratory"
 - Brenda Velasco, Competition for engineering tenure-track faculty positions in the United States (co-author on peer-reviewed article in PNAS Nexus), 2020-21
 - Zihan Wang, Erosion Corrosion in Copper and Nonleaded Alloys used in potable water systems, 2014-15
 - Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20
+
 **Graduate Students**
 - Chivonne Battle, Environmental Justice, waterborne lead, and trust in drinking water in Chicago Metropolitan Area (manuscript underway), 2018-20
 - Kris Mapili (last known:	Civil Engineer, Wood),	Erosion corrosion of copper in the presence of common disinfectants: free chlorine, chloramine, chlorine dioxide, 2015-16
