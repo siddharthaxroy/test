@@ -30,7 +30,7 @@ title: "Research Laboratory"
 
 -----
 
-## Before Rutgers
+## Advising before Rutgers
 
 #### UNC Chapel Hill
 - Kyle Rezek, MSPH graduate committee member and advisor on lead leaching experiments using NSF-61 test water and blood lead modeling projects (graduated 2024)
