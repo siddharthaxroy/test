@@ -16,7 +16,7 @@ title: "Research Laboratory"
 
 -----
 
-#### Awards to advisees
+### Awards to student advisees
 **National level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
