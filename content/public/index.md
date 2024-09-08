@@ -12,6 +12,7 @@ title: "Public Understanding of Science"
 ### **Columns and Op-Eds**
 
 *A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
+
 [{{< figure src="/public/amsci2.png" position="center" >}}](https://www.americanscientist.org/article/who-dares-to-speak-up)
 #### Who dares to speak up? An interview with Tuskegee whistleblower Peter Buxtun
 American Scientist (with Marc Edwards and Carol Yang), 2021
@@ -39,6 +40,10 @@ American Scientist (feature article), 2017
 [{{< figure src="/public/conversation.png" position="center" >}}](https://theconversation.com/we-helped-uncover-a-public-health-crisis-in-flint-but-learned-there-are-costs-to-doing-good-science-54227)
 #### We helped uncover a public health crisis in Flint, but learned there are costs to doing good science
 The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Scientific American), 2016
+
+### To read new essays and science op-eds, subscribe to the newsletter:
+
+{{< substack >}}
 
 ------
 
