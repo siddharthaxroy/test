@@ -14,6 +14,8 @@ title: "Research Laboratory"
 - Eva Rehman, Biotechnology, Spring 2024
 - Bhuvan Bugude, Biology/Pre-Med, Spring 2024
 
+-----
+
 #### Awards to advisees
 **National level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
