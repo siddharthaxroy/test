@@ -25,6 +25,11 @@ alt = "Siddhartha Roy"
 enableEmoji = "true"
 
 [[menu.main]]
+    url = "/laboratory/"
+    name = "Lab"
+    weight = 2
+    
+[[menu.main]]
     url = "/articles/"
     name = "Research"
     weight = 1
@@ -32,14 +37,14 @@ enableEmoji = "true"
 [[menu.main]]
     url = "/public/"
     name = "Talks/Essays"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     url = "/hiring/"
     name = "Hiring"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     url = "/principles/"
     name = "Principles"
-    weight = 2
+    weight = 5
