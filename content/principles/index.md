@@ -34,7 +34,7 @@ This is a personal living document, subject to frequent revision.
 - With students and mentees, work hard to dispel ["Excellent Sheep"-level conformity](https://bariweiss.substack.com/p/we-arent-raising-adults-we-are-breeding?s=r)
 - Seek out direct feedback, especially the critical variety[^18]
 - Support claims with evidence[^14], not calls for blind faith
-- Act with skin in the game:[^24] are you prepared to pay a price of you are wrong? Otherwise, how can we trust your findings recommendations?
+- Act with skin in the game:[^24] are you prepared to pay a price if you are wrong? Otherwise, how can we trust your findings recommendations?
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Cultivate rational optimism about scientific and human progress[^19]
