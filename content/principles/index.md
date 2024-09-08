@@ -34,6 +34,7 @@ This is a personal living document, subject to frequent revision.
 - With students and mentees, work hard to dispel ["Excellent Sheep"-level conformity](https://bariweiss.substack.com/p/we-arent-raising-adults-we-are-breeding?s=r)
 - Seek out direct feedback, especially the critical variety[^18]
 - Support claims with evidence[^14], not calls for blind faith
+- Act with skin in the game:[^24] are you prepared to pay a price of you are wrong? Otherwise, how can we trust your findings recommendations?
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Cultivate rational optimism about scientific and human progress[^19]
@@ -97,3 +98,5 @@ Last updated: July 2024
 [^22]: Review two ongoing cases where we are attempting to correct the scientific record through post-publication expressions of concern: a) [Flint educational outcomes paper in Science Advances](https://retractionwatch.com/2024/07/15/did-flint-water-crisis-set-kids-back-in-school-paper-saying-so-is-severely-flawed-say-critics/#more-129627) and b) [Water lead filters have an astounding 50% mortality rate conference article in International Journal of Infectious Diseases](https://retractionwatch.com/2022/05/19/after-we-tried-to-correct-claims-about-deadly-water-filters-in-flint-we-were-accused-of-scientific-misconduct-and-that-was-just-the-beginning/).
 
 [^23]: May countless [Tall Poppies](https://harpersbazaar.com.au/tall-poppy-syndrome-wellbeing-mental-health/) bloom and sway in the breeze. Remember, comparison is the thief of joy.
+
+[^24]: Read our short paper ["Addressing the Preprint Dilemma"](https://x.com/siddharthaxroy/status/1466444187369357314) for insights on why this matters.
