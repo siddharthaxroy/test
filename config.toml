@@ -17,7 +17,7 @@ defaultTheme="light"
 hideReadMore=true
 
 [languages.en.params.logo]
-logoText = "The Roy Laboratory at Rutgers"
+logoText = "Roy Laboratory"
 logoHomeLink = "/"
 # path = "/img/logo.png"
 alt = "Siddhartha Roy"
