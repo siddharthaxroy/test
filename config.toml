@@ -26,7 +26,7 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/laboratory/"
-    name = "Laboratory"
+    name = "Lab"
     weight = 2
     
 [[menu.main]]
