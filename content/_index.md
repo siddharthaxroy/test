@@ -20,7 +20,7 @@ title: "Welcome"
 
 Siddhartha Roy [(Biography)](/bio/)
 
-Rutgers University
+Rutgers University, School of Environmental and Biological Sciences
 
 Department of Environmental Sciences
 
