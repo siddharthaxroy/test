@@ -6,7 +6,7 @@ title: "Welcome"
 ------
 
 ### Our research program uses a transdisciplinary approach to help answer a simple yet deceptive question:
-{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 15px solid; border-color: #D9D9D9" caption="Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." captionPosition="center;" >}}
+{{< figure src="/img/visual-research-abstract.png" position="center" style="border: 15px solid; border-color: #D9D9D9" caption="Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." captionPosition="right;" >}}
 
 ------
 
