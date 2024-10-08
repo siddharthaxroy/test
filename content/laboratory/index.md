@@ -6,6 +6,7 @@ title: "Research Laboratory"
 
 ## People
 In alphabetical order by last name.
+
 | Headshot | Biography |
 |:--------:|-----|
 | <img src="olivia-ackerson.jpg" width="150" height="150" style="object-fit: cover; border-radius: 50%;"> | **Olivia Ackerson, Environmental Science, RA**<br>Olivia Ackerson is a junior at Rutgers University, majoring in Environmental Science with a minor in Environmental Policy, Institutions, and Behavior. She is passionate about addressing climate change, advancing environmental policy, and furthering science communication. Olivia is working as a research assistant under Dr. Roy, involved in research on policies to mitigate lead in drinking water in low- and middle-income countries. She is also assisting with research on lead in Chicago’s water supply and consumer trust/public perceptions surrounding this issue. |
