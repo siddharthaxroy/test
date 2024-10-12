@@ -4,11 +4,11 @@ title: "Principles of Science Communication for Research Group Members"
 
 ------
 
+### SCIENCE COMMUNICATION CHECKLIST (Press Releases, Op-Eds, and Blogs)
+
 Suggested citation: Roy, S., Edwards, M.A. 2017. *Communicating on USWaterStudy.org - A checklist.*
 
-This checklist was originally conceived with Dr. Marc Edwards in November 2017 while our team was responding to the Flint Federal Emergency and conducting investigations in other US cities.
-
-### CHECKLIST
+This checklist was originally conceived with Dr. Marc Edwards in November 2017 while our team was responding to the Flint Federal Emergency and conducting water quality investigations in other US cities.
 
 **Reputation check:** By publishing on a public platform, you are representing your university, research group, and PI. 
 
@@ -52,3 +52,19 @@ This checklist was originally conceived with Dr. Marc Edwards in November 2017 w
   - [ ]	I issued a clarification on my page and shared it on social media. (Hint: FAQ clarifications are usually the most effective).
 
 ------
+
+### GUIDANCE AND CHECKLIST FOR PREPRINTS.
+
+Citation: Roy, S., Edwards, M.A. 2021. *When are preprint releases justified during public health emergencies and when are they counterproductive?* International Journal of Hygiene and Environmental Health. doi: [10.1016/j.ijheh.2021.113896](https://doi.org/10.1016/j.ijheh.2021.113896)
+
+Peer-reviewed commentary featuring two case studies (Flint, MI and COVID-19), four principles, and an eight questions checklist:
+
+{{< tweet 1466444187369357314 >}}
+
+{{< tweet 1466568606066483214 >}}
+
+{{< tweet 1467565516072132610 >}}
+
+{{< figure src="/posts/ijheh-table.png" position="center" style="border-radius: 12px;" caption="Credit: Roy and Edwards, IJHEH, 2021" captionPosition="right" captionStyle="color: red;" >}}
+
+Read the (unfortunately paywalled) article [here](https://t.co/xlnSxDace4). Or, send me an [email](mailto:siddhartha.roy@rutgers.edu) to request a copy.
