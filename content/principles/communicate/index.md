@@ -11,7 +11,9 @@ This checklist was originally conceived with Dr. Marc Edwards in November 2017 w
 ### CHECKLIST
 
 **Reputation check:** By publishing on a public platform, you are representing your university, research group, and PI. 
+
 **Your primary goal:** To communicate scientific knowledge in a reasonable, understandable, and compassionate manner to benefit whoever is reading. You should also strive to make some parts of your writing quotable so that your main conclusions are clear, jargon-free, and easy to repeat/quote by others, especially journalists and members of the public.
+
 **Your motto:** I cannot afford to make a mistake!
 
 #### Public Health Messaging:
