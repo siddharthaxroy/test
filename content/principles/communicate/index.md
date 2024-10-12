@@ -15,11 +15,12 @@ This checklist was originally conceived with Dr. Marc Edwards in November 2017 w
 **Your motto:** I cannot afford to make a mistake!
 
 #### Public Health Messaging:
-##### - [ ]	Am I giving out any advice to the public? If so, 
-- [ ]	Have I discussed this with everyone on the core team to ensure it is the right advice (or even a range of advice)? 
-- [ ]	Does the majority of the core team agree on the final advice list?
-- [ ]	Have other agencies released similar messages before (either specific to your project, like flushing filters advice by EPA/manufacturers in Flint, or, more generally, like water quality messaging in past flooding events)? If so, have I quoted them?
-- [ ]	Is there nuance to the advice? If those nuances are significantly important, have I made those clear without diluting my main message?
+##### 
+- [ ]	Am I giving out any advice to the public? If so, 
+  - [ ]	Have I discussed this with everyone on the core team to ensure it is the right advice (or even a range of advice)? 
+  - [ ]	Does the majority of the core team agree on the final advice list?
+  - [ ]	Have other agencies released similar messages before (either specific to your project, like flushing filters advice by EPA/manufacturers in Flint, or, more generally, like water quality messaging in past flooding events)? If so, have I quoted them?
+  - [ ]	Is there nuance to the advice? If those nuances are significantly important, have I made those clear without diluting my main message?
 ##### Scientific context: 
 - [ ]	Have I compared my data against established standards (EPA/WHO/CDC) and other cities/scenarios for context?
 #### Quality of evidence:
@@ -37,10 +38,14 @@ This checklist was originally conceived with Dr. Marc Edwards in November 2017 w
 - [ ]	Does my write-up tell a story? Or is it a random smorgasbord of sentences and statistics?
 - [ ]	Have I sufficiently used tables/graphs/schematics/figures/photos to both decrease the length of my article and illustrate my point better?
 - [ ]	Can journalists directly find and quote my conclusions? 
-#### - [ ]	Credits: Have I credited all relevant parties, esp. citizen/activist partners, university collaborators, and student/undergraduate helpers in sampling/experiment/analysis adequately?
-#### - [ ]	Doubts: Do I still have reservations about this press release? If so, send your PI an email before pressing ‘Publish.’
-#### - [ ]	PI Approval: Have I incorporated my PI's comments on my final draft and received approval from my PI (unless you are exempt)?
-#### - [ ]	Post-publication: Did any media outlet misinterpret, exaggerate, or mischaracterize my words (spoken or written)? If so, 
-- [ ]	I have sent the responsible journalist an email. 
-- [ ]	I issued a clarification on my page and shared it on social media. (Hint: FAQ clarifications are usually the most effective).
+#### Credits: 
+- [ ]	Have I credited all relevant parties, esp. citizen/activist partners, university collaborators, and student/undergraduate helpers in sampling/experiment/analysis adequately?
+#### Doubts:
+- [ ]	Do I still have reservations about this press release? If so, send your PI an email before pressing ‘Publish.’
+#### PI Approval: 
+- [ ]	Have I incorporated my PI's comments on my final draft and received approval from my PI (unless you are exempt)?
+#### Post-publication: 
+- [ ]	Did any media outlet misinterpret, exaggerate, or mischaracterize my words (spoken or written)? If so, 
+  - [ ]	I have sent the responsible journalist an email. 
+  - [ ]	I issued a clarification on my page and shared it on social media. (Hint: FAQ clarifications are usually the most effective).
 ------
