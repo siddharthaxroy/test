@@ -11,7 +11,7 @@ title: "Welcome"
 
 ------
 
-### We mentor [students](laboratory/), conduct [original research](/articles/), communicate [findings](/communicate/), and offer implementation and policy advice through a public-centric lens:
+### We [mentor students](laboratory/), conduct [original research](/articles/), [communicate](/communicate/) our [findings](/public/), and offer implementation and policy advice through a public-centric lens:
 
 [{{< image src="/img/model.png" position="center" style="border: 15px solid; border-color: #FFFFFF" caption="Credits: Poster developed with Dr. Marc Edwards for a National Academy of Engineering conference." captionPosition="right;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
@@ -31,7 +31,7 @@ New Brunswick, NJ 08901
 
 (office) [+1-848-932-5780](tel:8489325780)
 
-General inquiries: [siddhartha.roy@rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+(email) [siddhartha.roy-at-rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
 
 Donors/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutgers.edu?subject=Funding)
 
