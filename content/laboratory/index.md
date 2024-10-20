@@ -5,9 +5,13 @@ title: "Research Laboratory"
 ------
 
 [People](#people)
+
 [Lab Alumni](#alumni)
+
 [Awards to Advisees](#awards)
+
 [Advising before Rutgers](#before)
+
 [Approach to Science Communication](/communicate/)
 
 ## People {#people}
