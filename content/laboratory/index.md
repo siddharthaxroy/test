@@ -4,7 +4,13 @@ title: "Research Laboratory"
 
 ------
 
-## People
+[People](#people)
+[Lab Alumni](#alumni)
+[Awards to Advisees](#awards)
+[Advising before Rutgers](#before)
+[Approach to Science Communication](/communicate/)
+
+## People {#people}
 In alphabetical order by last name.
 
 | Headshot | Biography |
@@ -17,14 +23,14 @@ In alphabetical order by last name.
 | {{< image src="daniella-mangibin.JPG" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} | **Daniella Mangibin, Computer Science, Aresty RA** <br> \| I am Daniella Mangibin, and I am a third-year student at Rutgers University studying Computer Science and Data Science. I am interested in applying my technical skills to make advancements and address key challenges in the life sciences, particularly in areas such as the environment and health. My Aresty project is to build a deep learning model focused on corrosion in potable water pipes and plumbing. I look forward to the project's results and impact! |
 | {{< image src="leyla-munoz.JPG" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} | **Leyla Muñoz, Public Health, Aresty RA** <br> \| My name is Leyla Munoz, and I am a Public Health major at Rutgers University. I am very interested in epidemiologic and policy-related research. For this project, I will focus on wastewater and blood lead surveillance and give an update on the Flint Water Crisis. |
 
-#### Alumni
+#### Alumni {#alumni}
 **Undergraduate Researchers**
 - Eva Rehman, Biotechnology, Spring 2024
 - Bhuvan Bugude, Biology/Pre-Med, Spring 2024
 
 -----
 
-### Awards to student advisees
+### Awards to student advisees {#awards}
 **National level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
@@ -40,12 +46,20 @@ In alphabetical order by last name.
 
 -----
 
-## Advising before Rutgers
+## Advising before Rutgers {#before}
 
 #### UNC Chapel Hill
 - Kyle Rezek, MSPH graduate committee member and advisor on lead leaching experiments using NSF-61 test water and blood lead modeling projects (graduated 2024)
 
 #### Virginia Tech (lead advisor Dr. Marc Edwards)
+**Graduate Students**
+- Chivonne Battle, Environmental Justice, waterborne lead, and trust in drinking water in Chicago Metropolitan Area (manuscript underway), 2018-20
+- Kris Mapili (last known:	Civil Engineer, Wood),	Erosion corrosion of copper in the presence of common disinfectants: free chlorine, chloramine, chlorine dioxide, 2015-16
+- Frank Mazzola (last known: PhD candidate, Virginia Tech), Engineering Ethics and the Public graduate students' perceptions survey (co-first author on peer-reviewed article under review), 2021-23
+- Dr. Kathryn Lopez (last known: ORISE Postdoc, US EPA) Blood lead modeling in three US cities and water sampling in the Chicago metropolitan area (co-author on peer-reviewed article in ACS ES&T Water), 2018-19
+- Dr. Taylor Lightner (last known: Research Associate, Quality Education for Minorities Network), Narrative Analysis of Engineering Graduate Students’ Journeys Navigating Public-Inspired Science Work (co-author on peer-reviewed conference article in ASEE Annual Conference 2021), 2020-21
+- Tolulope Odimayomi (last known: Ph.D. candidate, Virginia Tech),	Biosolids monitoring as an independent method for tracking population-level water lead exposure (AWWA ACE national conference poster awardee; manuscript underway) and citizen science sampling for opportunistic pathogens (co-author on peer-reviewed article in ACS ES&T Water), 2020-22
+
 **Undergraduate Students**
 - Minyoung Choi, Lead in drinking water and public trust in Chicago survey (manuscript underway), 2020-21
 - Fadi Hindi, Lead in drinking water and public trust in Chicago (manuscript underway), 2020-21
@@ -58,13 +72,5 @@ In alphabetical order by last name.
 - Brenda Velasco, Competition for engineering tenure-track faculty positions in the United States (co-author on peer-reviewed article in PNAS Nexus), 2020-21
 - Zihan Wang, Erosion Corrosion in Copper and Nonleaded Alloys used in potable water systems, 2014-15
 - Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20
-
-**Graduate Students**
-- Chivonne Battle, Environmental Justice, waterborne lead, and trust in drinking water in Chicago Metropolitan Area (manuscript underway), 2018-20
-- Kris Mapili (last known:	Civil Engineer, Wood),	Erosion corrosion of copper in the presence of common disinfectants: free chlorine, chloramine, chlorine dioxide, 2015-16
-- Frank Mazzola (last known: PhD candidate, Virginia Tech), (co-first author on peer-reviewed article under review), 2021-23
-- Dr. Kathryn Lopez (last known: ORISE Postdoc, US EPA) Blood lead modeling in three US cities and water sampling in the Chicago metropolitan area (co-author on peer-reviewed article in ACS ES&T Water), 2018-19
-- Dr. Taylor Lightner (last known: Research Associate, Quality Education for Minorities Network), Narrative Analysis of Engineering Graduate Students’ Journeys Navigating Public-Inspired Science Work (co-author on peer-reviewed conference article in ASEE Annual Conference 2021), 2020-21
-- Tolulope Odimayomi (last known: Ph.D. candidate, Virginia Tech),	Biosolids monitoring as an independent method for tracking population-level water lead exposure (AWWA ACE national conference poster awardee; manuscript underway) and citizen science sampling for opportunistic pathogens (co-author on peer-reviewed article in ACS ES&T Water), 2020-22
 
 Last updated: September 2024
