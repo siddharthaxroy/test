@@ -34,12 +34,13 @@ This is a personal living document, subject to frequent revision.
 - With students and mentees, work hard to dispel ["Excellent Sheep"-level conformity](https://bariweiss.substack.com/p/we-arent-raising-adults-we-are-breeding?s=r)
 - Seek out direct feedback, especially the critical variety[^18]
 - Support claims with evidence[^14], not calls for blind faith
-- Act with skin in the game:[^24] are you prepared to pay a price if you are wrong? Otherwise, how can we trust your findings recommendations?
+- Act with skin in the game:[^24] Are you prepared to pay a price if you are wrong? Otherwise, how can we trust your findings and recommendations?
 - Bring light to a debate over heat through evidence, conversation, and seeking middle ground
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Cultivate rational optimism about scientific and human progress[^19]
 - Counter perverse incentives by choosing quality over quantity[^10]
-- Level up your game by learning from the peers around you doing exceptional work and getting rewarded for it, instead of burning with envy[^23]
+- Promote the right incentives and rewards for your collaborators and advisees to act like ambitious high-agency principals and not agents[^25]
+- Level up your game by learning from the peers around you doing exceptional work and getting rewarded for it, instead of burning in envy[^23]
 
 ### Statistics:
 - Stats 001: Without data, you are just someone with an opinion[^20]
@@ -100,3 +101,5 @@ Last updated: July 2024
 [^23]: May countless [Tall Poppies](https://harpersbazaar.com.au/tall-poppy-syndrome-wellbeing-mental-health/) bloom and sway in the breeze. Remember, comparison is the thief of joy.
 
 [^24]: Read our short paper ["Addressing the Preprint Dilemma"](https://x.com/siddharthaxroy/status/1466444187369357314) for insights on why this matters.
+
+[^25]: Review the [principal-agent problem](https://nav.al/principal-agent).
