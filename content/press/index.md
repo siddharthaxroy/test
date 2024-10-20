@@ -52,6 +52,7 @@ BBC World Service
 10. [Chicago Tribune](http://www.chicagotribune.com/news/ct-met-cicero-berwyn-lead-water-testing-20180809-story.htmlhttp:/www.chicagotribune.com/news/ct-met-cicero-berwyn-lead-water-testing-20180809-story.html) (front page): Flint researchers find alarming levels of lead in Cicero, Berwyn tap water, suggesting thousands of older homes at risk (Aug 10, 2018)
 11. [Christian Science Monitor](https://www.csmonitor.com/USA/Society/2016/0123/How-to-fix-Flint-s-lead-pipe-problem): How to fix Flint’s lead pipe problem (Jan 23, 2016)
 12. [Chronicle of Higher Education](http://www.chronicle.com/article/The-Accidental-Ethicist/237954): The Accidental Ethicist (Oct 2, 2016)
+12. [The Detroit News](https://www.detroitnews.com/story/news/local/michigan/2024/10/10/are-teachers-views-hurting-flint-student-learning-more-than-lead-water-crisis-study-fight/74786606007/): Are teachers' views hurting Flint student learning more than lead? Study fuels fight (Oct 10, 2024)
 13. [Engineer’s Forum](https://vtechworks.lib.vt.edu/bitstream/handle/10919/79866/EF_Sept2015.pdf?sequence=1&isAllowed=y): PUZZLING PIPES: Civil engineers plumb corrosion mystery (September 2015 issue)
 14. [Five Thirty-Eight](http://fivethirtyeight.com/features/what-went-wrong-in-flint-water-crisis-michigan/): What Went Wrong In Flint (Jan 26, 2016)
 15. [Grist](https://grist.org/shift-happens/one-pbj-at-a-time/): Shift Happens, one PB&J at a time (Dec 3, 2016)
