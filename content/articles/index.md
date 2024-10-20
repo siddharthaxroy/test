@@ -25,7 +25,7 @@ Please go to the [Talks and Essays](/public/) page for popular science articles,
 
 ------
 
-1. α A possible nocebo effect in children following the Flint Water Crisis: Evidence from schoolteacher perceptions and neuropsychological evaluations. *Disaster Medicine and Public Health Preparedness*. In press. [10.1017/dmp.2024.106↗](https://doi.org/10.1017/dmp.2024.106)
+1. α A possible nocebo effect in children following the Flint Water Crisis: Evidence from schoolteacher perceptions and neuropsychological evaluations. *Disaster Medicine and Public Health Preparedness*.  [10.1017/dmp.2024.106↗](https://doi.org/10.1017/dmp.2024.106)
 
 1. α ^ Competition for engineering tenure-track faculty positions in the United States. *PNAS Nexus*. [10.1093/pnasnexus/pgae169↗](https://doi.org/10.1093/pnasnexus/pgae169).
 
