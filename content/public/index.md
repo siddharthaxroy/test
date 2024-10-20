@@ -3,13 +3,27 @@ description: "TED, documentaries, op-eds, podcasts, and popular media"
 title: "Public Understanding of Science"
 ---
 
-### **TED Talk**
+[TED Talk](#ted)
+
+[Newspaper Columns and Essays](#essays)
+
+[Documentaries and Hollywood Movies](#movies)
+
+[Podcasts and Science Documentaries Executive Produced](#podcast)
+
+[Research Websites Created and Curated](#websites)
+
+[Moderated Panels](#panels)
+
+[Produced Videos](#videos)
+
+### TED Talk {#ted}
 
 #### [*Science in service to the public good on TED.com*↗](https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good?language=en) 
 
 {{< ted >}}
 
-### **Columns and Op-Eds**
+### Newspaper Columns and Essays {#essays}
 
 *A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
@@ -47,7 +61,7 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 ------
 
-### **Science Documentaries and Hollywood Movies**
+### Science Documentaries and Hollywood Movies {#movies}
 
 #### [PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award)  [Netflix↗](https://www.netflix.com/title/81121185) 
 
@@ -61,21 +75,21 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 ------
 
-### **As Executive Producer (with Marc Edwards)**
+### As Executive Producer (with Marc Edwards) {#podcast}
 
 The Public-inspired Science Podcast [iTunes↗](https://podcasts.apple.com/us/podcast/public-inspired-science/id1473322295) 
 
 The US Water Study documentary series (w/ documentarian Erica Corder). [YouTube↗](https://www.youtube.com/playlist?list=PLoK83kxXhwqEB3cJiiA-NwGTLYkwBx4N3)
 
-### **As Research Website Creator/Curator**
+### As Research Website Creator/Curator {#websites}
 
 The US Water Study Team [Visit↗](www.uswaterstudy.org)
 
 Flint Water Study [Visit↗](www.flintwaterstudy.org)  (1M+ web traffic; Read a [paper](https://doi.org/10.1177/1075547017751948) on my public engagement via Twitter)
 
-### **As Organizer/Moderator**
+### As Organizer/Moderator of Scientific Panels {#panels}
 
-#### "Fighting the Coronavirus Pandemic: Evidence based Approaches from Environmental Engineers" Webinar (July 2020) on [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)
+#### "Fighting the Coronavirus Pandemic: Evidence-based Approaches from Environmental Engineers" Webinar (July 2020) on [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)
 
 {{<youtube ORFvtGF6YTY >}}
 
@@ -83,7 +97,7 @@ Flint Water Study [Visit↗](www.flintwaterstudy.org)  (1M+ web traffic; Read a 
 
 {{<youtube r8Vdo_xNtjM >}}
 
-### **As Documentarian/Videographer**
+### As Documentarian/Videographer {#videos}
 
 Flint Water Study - A visual ode to environmental engineers [Watch↗](https://www.youtube.com/watch?v=t0ZNYHB7TvE) (2nd Prize: AEESP National Video Competition 2015-16)
 
