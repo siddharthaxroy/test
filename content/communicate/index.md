@@ -4,7 +4,7 @@ title: "Principles of Science Communication for Research Group Members"
 
 ------
 
-### SCIENCE COMMUNICATION CHECKLIST (Press Releases, Op-Eds, and Blogs)
+### 1\. Science Communication Checklist for Press Releases, Op-Eds, and Blogs
 
 Suggested citation: Roy, S., Edwards, M.A. 2017. *Communicating on USWaterStudy.org - A checklist.*
 
@@ -41,7 +41,7 @@ This checklist was originally conceived with Dr. Marc Edwards in November 2017 w
 - [ ]	Have I sufficiently used tables/graphs/schematics/figures/photos to both decrease the length of my article and illustrate my point better?
 - [ ]	Can journalists directly find and quote my conclusions? 
 #### Credits: 
-- [ ]	Have I credited all relevant parties, esp. citizen/activist partners, university collaborators, and student/undergraduate helpers in sampling/experiment/analysis adequately?
+- [ ]	Have I adequately credited all relevant parties, esp. citizen/activist partners, university collaborators, and student/undergraduate helpers in sampling/experiment/analysis?
 #### Doubts:
 - [ ]	Do I still have reservations about this press release? If so, send your PI an email before pressing ‘Publish.’
 #### PI Approval: 
@@ -53,7 +53,7 @@ This checklist was originally conceived with Dr. Marc Edwards in November 2017 w
 
 ------
 
-### GUIDANCE AND CHECKLIST FOR PREPRINTS.
+### 2\. Guidance and Checklist for Preprints.
 
 Citation: Roy, S., Edwards, M.A. 2021. *When are preprint releases justified during public health emergencies and when are they counterproductive?* International Journal of Hygiene and Environmental Health. doi: [10.1016/j.ijheh.2021.113896](https://doi.org/10.1016/j.ijheh.2021.113896)
 
