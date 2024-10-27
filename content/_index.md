@@ -3,7 +3,7 @@ title: "Welcome"
 
 ---
 
-:exclamation: Upcoming event: :us: / :fr: [Columbia and Panthéon-Sorbonne: Reducing Lead Exposure: Evolution of Priorities and Regulation | Oct 30, 2024](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation)
+❗ Upcoming event: 🇺🇸 / 🇫🇷 [Columbia and Panthéon-Sorbonne: Reducing Lead Exposure: Evolution of Priorities and Regulation](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation) | 10/30/24 9a-1p ET
 
 ------
 
