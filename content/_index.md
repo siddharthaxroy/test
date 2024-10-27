@@ -13,7 +13,7 @@ title: "Welcome"
 
 ------
 
-### We mentor [students](laboratory/), conduct original [research](/articles/), craft data-driven stories to [communicate](/communicate/) our [findings](/public/), and offer implementation and policy advice through an [ethical](/principles/) lens:
+### We mentor [students](laboratory/), conduct original [research](/articles/), craft data-driven stories to [communicate](/communicate/) our [findings](/public/), and provide implementation and policy advice through an [ethical](/principles/) lens:
 
 [{{< image src="/img/model.png" position="center" style="border: 15px solid; border-color: #FFFFFF" caption="Credits: Poster developed with Dr. Marc Edwards for a National Academy of Engineering conference." captionPosition="right;" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
 
