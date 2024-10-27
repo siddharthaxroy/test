@@ -3,9 +3,11 @@ title: "Welcome"
 
 ---
 
+:exclamation: Upcoming event: :us: / :fr: [Columbia and Panthéon-Sorbonne: Reducing Lead Exposure: Evolution of Priorities and Regulation | Oct 30, 2024](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation)
+
 ------
 
-### Our research program uses a transdisciplinary approach to help answer a simple yet deceptive question:
+### Our research program uses a transdisciplinary approach to help answer the question:
 
 {{< image src="/img/visual-research-abstract.png" position="center" caption="Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." captionPosition="center" captionStyle="color: red;" >}}
 
