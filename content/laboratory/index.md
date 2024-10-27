@@ -14,6 +14,8 @@ title: "Research Laboratory"
 
 [Approach to Science Communication](/communicate/)
 
+------
+
 ## People {#people}
 In alphabetical order by last name.
 
@@ -26,6 +28,8 @@ In alphabetical order by last name.
 | {{< image src="charlene-guo.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} | **Charlene Guo, Environmental Science, Aresty RA** <br> \| Charlene Guo is a second-year student at Rutgers University majoring in environmental science. She has been captivated by science from a young age and aspires to use it to serve and improve our society and planet. This year, she will analyze wastewater and biomonitoring data to investigate lead release into tap water, following up on the Flint Water Crisis. |
 | {{< image src="daniella-mangibin.JPG" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} | **Daniella Mangibin, Computer Science, Aresty RA** <br> \| I am Daniella Mangibin, and I am a third-year student at Rutgers University studying Computer Science and Data Science. I am interested in applying my technical skills to make advancements and address key challenges in the life sciences, particularly in areas such as the environment and health. My Aresty project is to build a deep learning model focused on corrosion in potable water pipes and plumbing. I look forward to the project's results and impact! |
 | {{< image src="leyla-munoz.JPG" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} | **Leyla Muñoz, Public Health, Aresty RA** <br> \| My name is Leyla Munoz, and I am a Public Health major at Rutgers University. I am very interested in epidemiologic and policy-related research. For this project, I will focus on wastewater and blood lead surveillance and give an update on the Flint Water Crisis. |
+
+------
 
 #### Alumni {#alumni}
 **Undergraduate Researchers**
