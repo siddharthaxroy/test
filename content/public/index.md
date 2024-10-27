@@ -9,13 +9,15 @@ title: "Public Understanding of Science"
 
 [Documentaries and Hollywood Movies](#movies)
 
-[Podcasts and Science Documentaries Executive Produced](#podcast)
+[Podcasts and Science Documentaries (as Executive Producer)](#podcast)
 
 [Research Websites Created and Curated](#websites)
 
 [Moderated Panels](#panels)
 
 [Produced Videos](#videos)
+
+------
 
 ### TED Talk {#ted}
 
