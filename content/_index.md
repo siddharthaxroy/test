@@ -39,7 +39,7 @@ New Brunswick, NJ 08901
 
 (office) [+1-848-932-5780](tel:8489325780)
 
-(email) [siddhartha.roy-at-rutgers.edu](mailto:siddhartha.roy@rutgers.edu)
+(email) siddhartha \[dot] roy \[at] rutgers \[dot] edu
 
 Donors/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutgers.edu?subject=Funding)
 
