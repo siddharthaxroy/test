@@ -8,10 +8,10 @@ This is a personal living document, subject to frequent revision.
 ### Science:
 - Apply the scientific method with rigor and intellectual humility[^15]
 - Science is about seeking the truth[^4], not group consensus
-- Science is NOT self-correcting. Scientists help correct science through vigorous and good-faith criticism.[^22]
+- Science is NOT self-correcting, but SCIENTISTS can help correct science through vigorous and good-faith criticism[^22]
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
-- The public should strive to think in scientific ways[^17] to evaluate expert claims[^13]
+- The public should strive to think in scientific ways[^17] to evaluate, question and counter expert claims[^13]
 - Guiding questions: How am I wrong?[^5] Can I be less wrong than I was yesterday?[^16][^21]
 
 ### Service and public good:
@@ -40,7 +40,8 @@ This is a personal living document, subject to frequent revision.
 - Cultivate rational optimism about scientific and human progress[^19]
 - Counter perverse incentives by choosing quality over quantity[^10]
 - Promote the right incentives and rewards for your collaborators and advisees to act like ambitious high-agency principals and not agents[^25]
-- Level up your game by learning from the peers around you doing exceptional work and getting rewarded for it, instead of burning in envy[^23]
+- Level up your game by learning from the peers around you doing exceptional work (and rightly getting rewarded for it), instead of burning in envy[^23]
+- Do not pursue research topics you unwittingly absorbed through mimesis[^26], unless you are genuinely curious
 
 ### Statistics:
 - Stats 001: Without data, you are just someone with an opinion[^20]
@@ -103,3 +104,5 @@ Last updated: July 2024
 [^24]: Read our short paper ["Addressing the Preprint Dilemma"](https://x.com/siddharthaxroy/status/1466444187369357314) for insights on why this matters.
 
 [^25]: Review the [principal-agent problem](https://nav.al/principal-agent).
+
+[^26]: Read Luke Burgis' essay in [Psyche](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire).
