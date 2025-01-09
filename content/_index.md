@@ -3,6 +3,11 @@ title: "Welcome"
 
 ---
 
+[{{< image src="/studies/raritan-spill/NJspill.png" position="center" caption="https://go.rutgers.edu/NJspill" captionPosition="right;" >}}](https://go.rutgers.edu/NJspill)
+More details on the study [here](/studies/raritan-spill/).
+
+------
+
 ❗ Interested in joining our research laboratory? Review our [current postdoc/PhD/undergraduate student openings](/hiring/) and apply. 
 
 ❗ New paper: [A Possible Nocebo Effect in Children Following the Flint Water Crisis: Evidence From Schoolteacher Perceptions and Neuropsychological Evaluations](https://doi.org/10.1017/dmp.2024.106). *Disaster Management and Public Health Preparedness.* 2024.
