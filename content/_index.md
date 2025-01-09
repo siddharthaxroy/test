@@ -6,6 +6,8 @@ title: "Welcome"
 [{{< image src="/studies/raritan-spill/NJspill.png" position="center" caption="https://go.rutgers.edu/NJspill" captionPosition="right;" >}}](https://go.rutgers.edu/NJspill)
 More details on the study [here](/studies/raritan-spill/).
 
+[{{< imgproc "/studies/raritan-spill/NJspill.png" Resize "500x" center />}}](https://go.rutgers.edu/NJspill)
+
 ------
 
 ❗ Interested in joining our research laboratory? Review our [current postdoc/PhD/undergraduate student openings](/hiring/) and apply. 
