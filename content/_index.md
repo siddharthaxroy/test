@@ -2,11 +2,10 @@
 title: "Welcome"
 
 ---
-Participate in our ongoing study:
-[{{< image src="/studies/raritan-spill/NJspill.png" position="center" caption="https://go.rutgers.edu/NJspill" captionPosition="right;" >}}](https://go.rutgers.edu/NJspill)
-More details on the study [here](/studies/raritan-spill/).
+Participate in our ongoing study (01/25):
 
-[{{< imgproc "/studies/raritan-spill/NJspill.png" Resize "500x" center />}}](https://go.rutgers.edu/NJspill)
+[{{< image src="/studies/raritan-spill/NJspill.png" position="center" caption="https://go.rutgers.edu/NJspill" captionPosition="right;" >}}](https://go.rutgers.edu/NJspill)
+Details [here](/studies/raritan-spill/).
 
 ------
 
