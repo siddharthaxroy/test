@@ -16,15 +16,13 @@ Principal Investigator: Siddhartha Roy is an Assistant Professor in the [Departm
 
 Apply here: [https://jobs.rutgers.edu/postings/225184](https://jobs.rutgers.edu/postings/225184)
 
-We invite applications from candidates with backgrounds in environmental science, civil/environmental engineering, chemical engineering, inorganic chemistry, or related disciplines. The postdoc will focus on laboratory- field-, and stats/epi-based projects on metals release and isotope fingerprinting in potable water infrastructure, impacts of exposures to environmental contaminants on human health, and citizen science investigations and technological/behavioral interventions in domestic, overburdened, and international settings. This is a 12-month position with a starting salary, per union agreement, of $61,805 with the possibility of extension for another year contingent on satisfactory performance. The start date is flexible, with a preference for January 2025 or earlier.
+We invite applications from candidates with backgrounds in environmental science, civil/environmental engineering, chemical engineering, inorganic chemistry, or related disciplines. The postdoc will focus on laboratory- field-, and stats/epi-based projects on metals release and isotope fingerprinting in potable water infrastructure, impacts of exposures to environmental contaminants on human health, and citizen science investigations and technological/behavioral interventions in domestic, overburdened, and international settings. This is a 12-month position with a starting salary, per union agreement, of $61,805. The start date is flexible.
 
 ------
 
 ### PhD Position in Environmental Science or Environmental Engineering
 
-Deadline: December 15, 2024 (for Fall 2025 admissions)
-
-[Apply here](https://rutgers.ca1.qualtrics.com/jfe/form/SV_eJTxwfiSuROFca2) (interest form) and [here](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html) (Rutgers graduate program)
+Not currently accepting graduate students. 
 
 General details: Subject to adequate performance, PhD students at Rutgers are guaranteed five years of funding. Candidates with degrees, research experience, or professional background in chemistry, environmental science/engineering, civil engineering, or related fields will receive preference. Please note [you will have to apply](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html) and be admitted into our graduate program before an assistantship offer can be made. Competitive assistantship. 
 
@@ -46,4 +44,4 @@ Please check the [Aresty Research Assistant Program portal](https://aresty.rutge
 
 ------
 
-Last updated: July 2024
+Last updated: March 2025.
