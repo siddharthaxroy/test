@@ -5,8 +5,6 @@ title: "Welcome"
 
 ------
 
-❗ Interested in joining our research laboratory? Review our [openings page](/hiring/) and apply. 
-
 ❗ New paper: [A Possible Nocebo Effect in Children Following the Flint Water Crisis: Evidence From Schoolteacher Perceptions and Neuropsychological Evaluations](https://doi.org/10.1017/dmp.2024.106). *Disaster Management and Public Health Preparedness.* 2024.
 
 ❗ In the news: [Denver Water is halfway through replacing lead pipes. Why didn't this happen sooner? ](https://www.kunc.org/news/2024-11-07/denver-water-is-halfway-through-replacing-lead-pipes-why-didnt-this-happen-sooner). *NPR Colorado and National.* 11/07/24
