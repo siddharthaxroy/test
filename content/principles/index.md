@@ -12,6 +12,7 @@ This is a personal living document, subject to frequent revision.
 - Several possible answers do not mean all of them are equally likely[^9]
 - “Trust” is science's main product
 - The public should strive to think in scientific ways[^17] to evaluate, question and counter expert claims[^13]
+- "A good scientist is someone who comes up with new ideas. A good engineer is someone who makes things work with as few new ideas as possible." - Freeman Dyson
 - Guiding questions: How am I wrong?[^5] Can I be less wrong than I was yesterday?[^16][^21]
 
 ### Service and public good:
