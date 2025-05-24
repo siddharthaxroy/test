@@ -86,6 +86,8 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 The Public-inspired Science Podcast [iTunes↗](https://podcasts.apple.com/us/podcast/public-inspired-science/id1473322295) 
 
+{{< itunes >}}
+
 The US Water Study documentary series (w/ documentarian Erica Corder). [YouTube↗](https://www.youtube.com/playlist?list=PLoK83kxXhwqEB3cJiiA-NwGTLYkwBx4N3)
 
 {{< youtube -MypPI56dHE >}}
@@ -124,4 +126,4 @@ MacArthur Foundation 100&Change grant proposal [video↗](https://youtu.be/j8Y2Q
 
 ------
 
-Last updated: July 2022
+Last updated: May 2025
