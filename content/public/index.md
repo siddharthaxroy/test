@@ -27,8 +27,13 @@ title: "Public Understanding of Science"
 
 ### Newspaper Columns and Essays {#essays}
 
-*A compiled version of these writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
+{{< instagram Cv-GcU6uefr >}}
 
+*A compiled version of the below writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
+
+[{{< figure src="/public/undark2.png" position="center" >}}](https://undark.org/2023/03/30/as-flint-reeled-from-a-water-crisis-words-may-have-caused-harm/)
+#### As Flint Reeled From a Water Crisis, Words May Have Caused Harm
+Undark (with Keith Petrie and Marc Edwards), 2023
 [{{< figure src="/public/amsci2.png" position="center" >}}](https://www.americanscientist.org/article/who-dares-to-speak-up)
 #### Who dares to speak up? An interview with Tuskegee whistleblower Peter Buxtun
 American Scientist (with Marc Edwards and Carol Yang), 2021
