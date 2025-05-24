@@ -27,7 +27,7 @@ title: "Public Understanding of Science"
 
 ### Newspaper Columns and Essays {#essays}
 
-{{< instagram Cv-GcU6uefr >}}
+{{< instagramunc >}}
 
 *A compiled version of the below writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
@@ -87,6 +87,16 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 The Public-inspired Science Podcast [iTunes↗](https://podcasts.apple.com/us/podcast/public-inspired-science/id1473322295) 
 
 The US Water Study documentary series (w/ documentarian Erica Corder). [YouTube↗](https://www.youtube.com/playlist?list=PLoK83kxXhwqEB3cJiiA-NwGTLYkwBx4N3)
+
+{{< youtube -MypPI56dHE >}}
+
+{{< youtube Rb_Ho1fm7kY >}}
+
+{{< youtube QkOhA4mlEg4 >}}
+
+{{< youtube s-hVGMFsLO4 >}}
+
+{{< youtube 9BP39Y4AgR0 >}}
 
 ### As Research Website Creator/Curator {#websites}
 
