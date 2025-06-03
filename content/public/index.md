@@ -79,13 +79,13 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 ### Science Documentaries and Hollywood Movies {#movies}
 
-#### [PBS® NOVA® ‘Poisoned Water’↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award)  [Netflix↗](https://www.netflix.com/title/81121185) 
+#### [PBS® NOVA® 'Poisoned Water'↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award)  [Netflix↗](https://www.netflix.com/title/81121185) 
 
 {{< pbs >}}
 
-#### [Virginia Tech documentary ‘Cicero’↗](https://www.youtube.com/watch?v=x1mrZ1zHb9o)
+#### [Virginia Tech documentary 'Cicero'↗](https://www.youtube.com/watch?v=x1mrZ1zHb9o)
 
-{{<youtube x1mrZ1zHb9o >}}
+{{< youtube x1mrZ1zHb9o >}}
 
 #### [FLINT↗](https://www.imdb.com/title/tt6397426/) (Hulu; factual inaccurate but entertaining)
 
@@ -119,19 +119,27 @@ Flint Water Study [Visit↗](www.flintwaterstudy.org)  (1M+ web traffic; Read a 
 
 #### "Fighting the Coronavirus Pandemic: Evidence-based Approaches from Environmental Engineers" Webinar (July 2020) on [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)
 
-{{<youtube ORFvtGF6YTY >}}
+{{< youtube ORFvtGF6YTY >}}
 
 #### "The Science and Politics of Journal Retractions: A Conversation with Ivan Oransky of Retraction Watch" Webinar (May 2022) on [YouTube↗](https://www.youtube.com/watch?v=r8Vdo_xNtjM)
 
-{{<youtube r8Vdo_xNtjM >}}
+{{< youtube r8Vdo_xNtjM >}}
 
 ### As Documentarian/Videographer {#videos}
 
 Flint Water Study - A visual ode to environmental engineers [Watch↗](https://www.youtube.com/watch?v=t0ZNYHB7TvE) (2nd Prize: AEESP National Video Competition 2015-16)
 
+{{< youtube t0ZNYHB7TvE >}}
+
 Water sampling in [Flint, Mich.↗](https://youtu.be/dEQDaPws2xk) and [California public schools↗](https://youtu.be/pxg9X9NMy4g)
 
+{{< youtube dEQDaPws2xk >}}
+
+{{< youtube pxg9X9NMy4g >}}
+
 MacArthur Foundation 100&Change grant proposal [video↗](https://youtu.be/j8Y2Q7WPLOE)
+
+{{< youtube j8Y2Q7WPLOE >}}
 
 ------
 
