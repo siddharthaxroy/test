@@ -1,0 +1,5 @@
+<figure style="text-align: center;">
+  {{ if .Get "link" }}<a href="{{ .Get "link" }}">{{ end }}
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="max-width:500px; width:100%;">
+  {{ if .Get "link" }}</a>{{ end }}
+</figure>
