@@ -5,8 +5,6 @@ title: "Public Understanding of Science"
 
 [TED Talk](#ted)
 
-[Profiles](#profiles)
-
 [Newspaper Columns and Essays](#essays)
 
 [Documentaries and Hollywood Movies](#movies)
@@ -19,6 +17,8 @@ title: "Public Understanding of Science"
 
 [Produced Videos](#videos)
 
+[Profiles](#profiles)
+
 ------
 
 ### TED Talk {#ted}
@@ -26,18 +26,6 @@ title: "Public Understanding of Science"
 #### [*Science in service to the public good on TED.com*↗](https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good?language=en) 
 
 {{< ted >}}
-
-### Profiles {#profiles}
-
-{{< instagramunc >}}
-
-{{< figure src="/public/stat.jpg" link="https://www.statnews.com/wunderkinds/siddhartha-roy/" style="max-width:500px; margin:auto;" >}}
-
-STAT News. 2023. [Lessons from a Flint crisis researcher about building trust in science during the pandemic](https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/)
-
-International Water Association. 2021. [Influential scientist wins IWA Young Leadership Award](https://iwa-network.org/press/influential-scientist-wins-iwa-young-leadership-award/)
-
-American Institute of Chemical Engineers. 2016. [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
 
 ### Newspaper Columns and Essays {#essays}
 
@@ -152,6 +140,19 @@ Water sampling in [Flint, Mich.↗](https://youtu.be/dEQDaPws2xk) and [Californi
 MacArthur Foundation 100&Change grant proposal [video↗](https://youtu.be/j8Y2Q7WPLOE)
 
 {{< youtube j8Y2Q7WPLOE >}}
+
+
+### Profiles {#profiles}
+
+{{< instagramunc >}}
+
+{{< fig src="/public/stat.jpg" alt="Siddhartha Roy, STAT Wunderkind" link="https://www.statnews.com/wunderkinds/siddhartha-roy/" >}}
+
+STAT News. 2023. [Lessons from a Flint crisis researcher about building trust in science during the pandemic](https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/)
+
+International Water Association. 2021. [Influential scientist wins IWA Young Leadership Award](https://iwa-network.org/press/influential-scientist-wins-iwa-young-leadership-award/)
+
+American Institute of Chemical Engineers. 2016. [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
 
 ------
 
