@@ -5,6 +5,8 @@ title: "Public Understanding of Science"
 
 [TED Talk](#ted)
 
+[Profiles](#profiles)
+
 [Newspaper Columns and Essays](#essays)
 
 [Documentaries and Hollywood Movies](#movies)
@@ -25,9 +27,19 @@ title: "Public Understanding of Science"
 
 {{< ted >}}
 
-### Newspaper Columns and Essays {#essays}
+### Profiles {#profiles}
 
 {{< instagramunc >}}
+
+{{< figure src="/public/stat.jpg" link="https://www.statnews.com/wunderkinds/siddhartha-roy/" style="max-width:500px; margin:auto;" >}}
+
+STAT News. 2023. [Lessons from a Flint crisis researcher about building trust in science during the pandemic](https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/)
+
+International Water Association. 2021. [Influential scientist wins IWA Young Leadership Award](https://iwa-network.org/press/influential-scientist-wins-iwa-young-leadership-award/)
+
+American Institute of Chemical Engineers. 2016. [Pursuing Science for the Public Good](https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good)
+
+### Newspaper Columns and Essays {#essays}
 
 *A compiled version of the below writings is posted on [Because, my newsletter](https://siddhartharoy.substack.com/).*
 
@@ -81,7 +93,7 @@ The Conversation (with William J. Rhoads and Rebekah Martin; syndicated: PBS, Sc
 
 #### [PBS® NOVA® 'Poisoned Water'↗](https://www.pbs.org/video/3001355667/) (winner of the AAAS Kavli Science Journalism Award)  [Netflix↗](https://www.netflix.com/title/81121185) 
 
-{{< pbs >}}
+{{< youtube akRz9XLJtmo >}}
 
 #### [Virginia Tech documentary 'Cicero'↗](https://www.youtube.com/watch?v=x1mrZ1zHb9o)
 
