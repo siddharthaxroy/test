@@ -37,6 +37,8 @@ Department of Environmental Sciences
 
 New Brunswick, NJ 08901
 
+Laboratories: ENR 167; Foran 308.
+
 (office) [+1-848-932-5780](tel:8489325780)
 
 (email) siddhartha \[dot] roy \[at] rutgers \[dot] edu
@@ -44,5 +46,7 @@ New Brunswick, NJ 08901
 Donors/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutgers.edu?subject=Funding)
 
 [Upcoming Events](/events/) | [Press Coverage](/press/)
+
+{{< image src="/img/RU.png" >}}
 
 ------
