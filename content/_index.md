@@ -47,6 +47,6 @@ Donors/Foundations: [Submit funding support request](mailto:siddhartha.roy@rutge
 
 [Upcoming Events](/events/) | [Press Coverage](/press/)
 
-{{< image src="/img/RU.png" >}}
+{{< image src="/img/RU.png" position="center" >}}
 
 ------
