@@ -7,6 +7,8 @@ title: "Welcome"
 
 ❗ In the news: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
 
+❗ New paper: [Foresight 2035: a perspective on the next decade of research on the management of *Legionella* spp. in engineered aquatic environments ](https://pubmed.ncbi.nlm.nih.gov/40424003/). *FEMS Microbiology Reviews.* 2025.
+
 ❗ In the news: [Denver Water is halfway through replacing lead pipes. Why didn't this happen sooner? ](https://www.kunc.org/news/2024-11-07/denver-water-is-halfway-through-replacing-lead-pipes-why-didnt-this-happen-sooner). *NPR and NPR Colorado.* 11/07/24
 
 ❗ In the news: [Are teachers' views hurting Flint student learning more than lead? Study fuels fight](https://www.detroitnews.com/story/news/local/michigan/2024/10/10/are-teachers-views-hurting-flint-student-learning-more-than-lead-water-crisis-study-fight/74786606007/). *Detroit News.* 10/10/24
