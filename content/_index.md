@@ -14,7 +14,7 @@ title: "Welcome"
 
 ❗ News: [Are teachers' views hurting Flint student learning more than lead? Study fuels fight](https://www.detroitnews.com/story/news/local/michigan/2024/10/10/are-teachers-views-hurting-flint-student-learning-more-than-lead-water-crisis-study-fight/74786606007/). *Detroit News.* 10/10/24
 
-❗ New paper: [A Possible Nocebo Effect in Children Following the Flint Water Crisis: Evidence From Schoolteacher Perceptions and Neuropsychological Evaluations](https://doi.org/10.1017/dmp.2024.106). *Disaster Management and Public Health Preparedness.* 2024.
+❗ New paper: [A Possible Nocebo Effect in Children Following the Flint Water Crisis: Evidence From Schoolteacher Perceptions and Neuropsychological Evaluations](https://doi.org/10.1017/dmp.2024.106). *Disaster Medicine and Public Health Preparedness.* 2024.
 
 ❗ Event: 🇺🇸 / 🇫🇷 [Reducing Lead Exposure: Evolution of Priorities and Regulation](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation). *Columbia and Panthéon-Sorbonne.* 10/30/24 9a-1p ET
 
