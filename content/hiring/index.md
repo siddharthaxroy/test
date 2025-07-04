@@ -6,9 +6,9 @@ title: "Open Positions"
 
 {{< figure src="logo1766.png" position="center" >}}
 
-University: Established in 1766, Rutgers University-New Brunswick is one of America's nine original colonial colleges and first land-grant institutions. It is the leading public university in New Jersey, a top 15 public national university, and a top 100 world university. The [Department of Environmental Sciences](https://envsci.rutgers.edu/) is the oldest environmental sciences department in the nation, with a history dating back over 100 years, and offers programs in Environmental Science, Environmental Engineering (jointly with the School of Engineering), Meteorology, and Atmospheric Science. The department is located on Rutgers' Cook Campus in New Brunswick, NJ, and equidistant from both Philadelphia and New York City.
+University: Established in 1766, Rutgers University-New Brunswick is one of America's nine original colonial colleges and first land-grant institutions. It is the leading public university in New Jersey, a top 15 public national university, and a top 100 world university. The [Department of Environmental Sciences](https://envsci.rutgers.edu/) is the oldest environmental sciences department in the nation, with a history dating back over 100 years, and offers programs in Environmental Science, Environmental Engineering (jointly with the School of Engineering), Meteorology, and Atmospheric Science. The department is located on Rutgers' Cook Campus in New Brunswick, NJ, and is equidistant from both Philadelphia and New York City.
 
-Group: The goal of Siddhartha Roy's research program at Rutgers is to facilitate access to safe and affordable water for all in the 21st century. His group focuses on laboratory- field-, and stats/epi-based projects on treatment technologies, metals release, and isotope fingerprinting in potable water infrastructure, impacts of exposures to environmental contaminants on human health, and citizen science investigations and scientific/behavioral interventions in domestic, overburdened, and global settings.
+Group: The goal of Siddhartha Roy's research program at Rutgers is to facilitate access to safe and affordable water for all in the 21st century. His group integrates laboratory, field, epidemiological, and computational methods to investigate treatment technology efficacy, metals release, and isotope fingerprinting in potable water infrastructure, impacts of exposures to environmental contaminants on human health, and citizen science investigations and technological/behavioral interventions in domestic, overburdened, and global settings.
 
 ------
 
@@ -30,7 +30,7 @@ General details: Subject to adequate performance, PhD students at Rutgers are gu
 
 There are no current openings, but please email us if you think you are an outstanding fit and would like to work for 3-6 months.
 
-Position: Interested in starting a competitive PhD, but want to gain valuable research experience and get a headstart? Work as a predoc. Open to anyone, but you must be geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority. Wage position.
+Position: Interested in starting a competitive PhD, but want to gain valuable research experience and get a head start? Work as a predoc. Open to anyone, but you must be geographically located near Rutgers-New Brunswick. Rutgers seniors and MS students get priority. Wage position.
 
 ------
 
