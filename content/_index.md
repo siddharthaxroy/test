@@ -8,7 +8,9 @@ title: "Welcome"
 
 ❗ News: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
 
-❗ New paper: [Foresight 2035: a perspective on the next decade of research on the management of *Legionella* spp. in engineered aquatic environments ](https://pubmed.ncbi.nlm.nih.gov/40424003/). *FEMS Microbiology Reviews.* 2025.
+❗ New preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.* 2025.
+
+❗ New paper: [Foresight 2035: a perspective on the next decade of research on the management of *Legionella* spp. in engineered aquatic environments](https://pubmed.ncbi.nlm.nih.gov/40424003/). *FEMS Microbiology Reviews.* 2025.
 
 ❗ News: [Denver Water is halfway through replacing lead pipes. Why didn't this happen sooner? ](https://www.kunc.org/news/2024-11-07/denver-water-is-halfway-through-replacing-lead-pipes-why-didnt-this-happen-sooner). *NPR and NPR Colorado.* 11/07/24
 
