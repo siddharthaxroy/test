@@ -6,6 +6,9 @@ title: "Welcome"
 ------
 ### Updates
 
+
+❗ News: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.* 07/05/25
+
 ❗ News: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
 
 ❗ New preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.* 2025.
@@ -18,7 +21,7 @@ title: "Welcome"
 
 ❗ New paper: [A Possible Nocebo Effect in Children Following the Flint Water Crisis: Evidence From Schoolteacher Perceptions and Neuropsychological Evaluations](https://doi.org/10.1017/dmp.2024.106). *Disaster Medicine and Public Health Preparedness.* 2024.
 
-❗ Event: 🇺🇸 / 🇫🇷 [Reducing Lead Exposure: Evolution of Priorities and Regulation](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation). *Columbia and Panthéon-Sorbonne.* 10/30/24 9a-1p ET
+❗ Event: 🇺🇸 / 🇫🇷 [Reducing Lead Exposure: Evolution of Priorities and Regulation](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation). *Columbia and Sorbonne.* 10/30/24 9a-1p ET
 
 ------
 
