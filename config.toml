@@ -17,7 +17,7 @@ defaultTheme="light"
 hideReadMore=true
 
 [languages.en.params.logo]
-logoText = "Research Group of Prof. Siddhartha Roy at Rutgers"
+logoText = "Applied Alchemists"
 logoHomeLink = "/"
 # path = "/img/logo.png"
 alt = "Siddhartha Roy"
