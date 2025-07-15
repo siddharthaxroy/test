@@ -4,8 +4,10 @@ title: "Welcome"
 ---
 
 ------
-### Updates
 
+Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
+
+### Updates
 
 ❗ News: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.* 07/05/25
 
