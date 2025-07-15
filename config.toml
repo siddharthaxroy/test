@@ -3,7 +3,7 @@ languageCode = "en-us"
 
 keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks", "rutgers", "unc water institute", "rural water", "disasters", "sdg 6.1"]
 
-title = "Siddhartha Roy | Rutgers School of Environmental and Biological Sciences"
+title = "Research Group of Prof. Siddhartha Roy at Rutgers"
 
 theme="hello-friend"  
 
@@ -17,7 +17,7 @@ defaultTheme="light"
 hideReadMore=true
 
 [languages.en.params.logo]
-logoText = "Roy Laboratory | Rutgers"
+logoText = "Research Group of Prof. Siddhartha Roy at Rutgers"
 logoHomeLink = "/"
 # path = "/img/logo.png"
 alt = "Siddhartha Roy"
