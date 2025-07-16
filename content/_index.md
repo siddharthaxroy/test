@@ -43,13 +43,11 @@ Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
 
 Siddhartha Roy [(Biography)](/bio/)
 
-Rutgers School of Environmental and Biological Sciences
+14 College Farm Rd, Office 360
 
-Department of Environmental Sciences
+New Brunswick, NJ 08901
 
-14 College Farm Rd, Office 360, New Brunswick, NJ 08901
-
-Laboratories: Foran Hall 308; ENR 167.
+Laboratories: Foran 308; ENR 167.
 
 (office) [+1-848-932-5780](tel:8489325780)
 
