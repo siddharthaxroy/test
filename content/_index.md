@@ -11,7 +11,7 @@ Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
 
 📺 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.* 07/05/25
 
-📰 Magazine Report: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
+📰 Magazine: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
 
 🔬 Preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.* 2025.
 
@@ -29,7 +29,9 @@ Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
 
 ### Our research program uses a transdisciplinary approach to help answer the question:
 
-{{< image src="/img/visual-research-abstract.png" position="center" caption="Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." captionPosition="center" captionStyle="color: red;" >}}
+{{< image src="/img/visual-research-abstract.png" position="center" >}}
+    
+<small> Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." </small> 
 
 ------
 
