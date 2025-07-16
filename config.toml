@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 
-keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks", "rutgers", "unc water institute", "rural water", "disasters", "sdg 6.1"]
+keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks", "rutgers university", "unc water institute", "rural water", "disasters", "sdg 6.1"]
 
 title = "Research Group of Prof. Siddhartha Roy at Rutgers"
 
@@ -17,7 +17,7 @@ defaultTheme="light"
 hideReadMore=true
 
 [languages.en.params.logo]
-logoText = "Applied Alchemists"
+logoText = "Aquatic Alchemists"
 logoHomeLink = "/"
 # path = "/img/logo.png"
 alt = "Siddhartha Roy"
