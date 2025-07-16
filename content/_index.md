@@ -31,7 +31,7 @@ Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
 
 {{< image src="/img/visual-research-abstract.png" position="center" >}}
     
-<small> Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." </small> 
+<small> Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine. </small> 
 
 ------
 
