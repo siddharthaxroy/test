@@ -16,6 +16,8 @@ defaultTheme="light"
 
 hideReadMore=true
 
+<!--customCSS = ["/style.css"]-->
+
 [languages.en.params.logo]
 logoText = "Aquatic Alchemists"
 logoHomeLink = "/"
