@@ -53,9 +53,9 @@ Laboratories: Foran Hall 308; ENR 167.
 
 (office) [+1-848-932-5780](tel:8489325780)
 
-(email) s \[dot] roy \[at] rutgers \[dot] edu
+(email) roy \[dot] s \[at] rutgers \[dot] edu
 
-Donors/Foundations: [Submit funding support request](mailto:s.roy@rutgers.edu?subject=Funding)
+Support our research: [Make a gift today](mailto:roy.s@rutgers.edu?subject=Funding)
 
 [Upcoming Events](/events/) | [Press Coverage](/press/)
 
