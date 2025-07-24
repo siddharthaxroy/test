@@ -28,7 +28,7 @@ This is a personal living document, subject to frequent revision.
 ### How to think and act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
 - Exercise (and urge in others) civic and moral courage
-- Emphasize "truth over justice"[^1] to fight real (environmental) injustice
+- Emphasize "truth over justice"[^1] to fight real (environmental) injustice[^27]
 - Defend free speech and open inquiry
 - Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/), or, at the very least, do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
 - Be charitable in interpreting others' words and actions, unless there are reasons not to
@@ -40,7 +40,7 @@ This is a personal living document, subject to frequent revision.
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Cultivate rational optimism about scientific and human progress[^19]
 - Counter perverse incentives by choosing quality over quantity[^10]
-- Promote the right incentives and rewards for your collaborators and advisees to act like ambitious high-agency principals and not agents[^25]
+- Promote the right incentives and rewards for your collaborators[^28] and advisees to act like ambitious high-agency principals and not agents[^25]
 - Level up your game by learning from the peers around you doing exceptional work (and rightly getting rewarded for it), instead of burning in envy[^23]
 - Do not pursue research topics you unwittingly absorbed through mimesis[^26], unless you are genuinely curious
 
@@ -52,7 +52,7 @@ This is a personal living document, subject to frequent revision.
 - Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
 
-Last updated: July 2024
+Last updated: July 2025
 
 #### Footnotes:
 
@@ -107,3 +107,7 @@ Last updated: July 2024
 [^25]: Review the [principal-agent problem](https://nav.al/principal-agent).
 
 [^26]: Read Luke Burgis' essay in [Psyche](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire).
+
+[^27]: Read Shiri Spitz Siddiqi's piece on the well-intended perversion of science in Flint on [Free the Inquiry's Substack](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science).
+
+[^28]: Be at least fair with sharing (deserved) grant money and do not go back on your promises. When an institute assured me that a major grant I helped write had been awarded, they explicitly encouraged me to hire a student to carry out key research. That "in good faith" assurance was unequivocal. Now, they have shifted course, claiming they do not need the student as much (and will barely fund them), while primarily requesting my time. Now, I am in a pickle. Check back in a year.
