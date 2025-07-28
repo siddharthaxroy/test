@@ -17,8 +17,6 @@ Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
 
 🗣️ Radio: [Denver Water is halfway through replacing lead pipes. Why didn't this happen sooner? ](https://www.kunc.org/news/2024-11-07/denver-water-is-halfway-through-replacing-lead-pipes-why-didnt-this-happen-sooner). *NPR and NPR Colorado.* 11/07/24
 
-📑 Paper: [A Possible Nocebo Effect in Children Following the Flint Water Crisis: Evidence From Schoolteacher Perceptions and Neuropsychological Evaluations](https://doi.org/10.1017/dmp.2024.106). *Disaster Med Public Health Prep* 2024.
-
 📅 Event: 🇺🇸 / 🇫🇷 [Reducing Lead Exposure: Evolution of Priorities and Regulation](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation). *Columbia and Sorbonne.* 10/30/24 9a-1p ET
 
 See full list of Updates [here](/news/).
