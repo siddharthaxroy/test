@@ -45,9 +45,9 @@ See full list of Updates [here](/news/).
   </tr>
 </table>
 
-| NIEHS/UPenn | Rutgers SEBS | USGS/NJ WRRI | 
+| NIEHS | Rutgers SEBS | USGS | 
 |:--------:|-----|-----|
-| {{< image src="niehs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="rusebs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="usgs.jpg" height="200" style="object-fit: contain; border: none;" >}} |
+| {{< image src="/img/niehs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="/img/rusebs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="/img/usgs.jpg" height="200" style="object-fit: contain; border: none;" >}} |
 
 ------
 
