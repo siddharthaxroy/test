@@ -35,7 +35,7 @@ See full list of Updates [here](/news/).
 
 ------
 
-#### Funding support 
+### Funding support 
 
 <table>
   <tr>
@@ -44,6 +44,10 @@ See full list of Updates [here](/news/).
     <td><img src="usgs.png" alt="USGS" width="150"/></td>
   </tr>
 </table>
+
+| NIEHS/UPenn | Rutgers SEBS | USGS/NJ WRRI | 
+|:--------:|-----|-----|
+| {{< image src="niehs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="rusebs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="usgs.jpg" height="200" style="object-fit: contain; border: none;" >}} |
 
 ------
 
