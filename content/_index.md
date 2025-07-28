@@ -35,19 +35,11 @@ See full list of Updates [here](/news/).
 
 ------
 
-### Funding support 
-
-<table>
-  <tr>
-    <td><img src="niehs.png" alt="NIEHS" width="150"/></td>
-    <td><img src="rusebs.png" alt="Rutgers SEBS" width="150"/></td>
-    <td><img src="usgs.png" alt="USGS" width="150"/></td>
-  </tr>
-</table>
+### Funding Agencies 
 
 | NIEHS | Rutgers SEBS | USGS | 
 |:--------:|-----|-----|
-| {{< image src="/img/niehs.jpg" position="center" height="200" >}} | {{< image src="/img/rusebs.jpg" position="center" height="200" >}} | {{< image src="/img/usgs.jpg" position="center" height="200" >}} |
+| {{< image src="/img/niehs.png" position="center" height="200" >}} | {{< image src="/img/rusebs.png" position="center" height="200" >}} | {{< image src="/img/usgs.png" position="center" height="200" >}} |
 
 ------
 
