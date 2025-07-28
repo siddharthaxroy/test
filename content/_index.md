@@ -35,6 +35,18 @@ See full list of Updates [here](/news/).
 
 ------
 
+#### Funding support 
+
+<table>
+  <tr>
+    <td><img src="niehs.png" alt="NIEHS" width="150"/></td>
+    <td><img src="rusebs.png" alt="Rutgers SEBS" width="150"/></td>
+    <td><img src="usgs.png" alt="USGS" width="150"/></td>
+  </tr>
+</table>
+
+------
+
 ### Contact or visit our laboratory:
 
 Siddhartha Roy [(Biography)](/bio/)
