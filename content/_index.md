@@ -47,7 +47,7 @@ See full list of Updates [here](/news/).
 
 | NIEHS | Rutgers SEBS | USGS | 
 |:--------:|-----|-----|
-| {{< image src="/img/niehs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="/img/rusebs.jpg" height="200" style="object-fit: contain; border: none;" >}} | {{< image src="/img/usgs.jpg" height="200" style="object-fit: contain; border: none;" >}} |
+| {{< image src="/img/niehs.jpg" position="center" height="200" >}} | {{< image src="/img/rusebs.jpg" position="center" height="200" >}} | {{< image src="/img/usgs.jpg" position="center" height="200" >}} |
 
 ------
 
