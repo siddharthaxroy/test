@@ -9,6 +9,8 @@ title: "News and Updates"
 
 #### 2025: 
 
+07/08/25 Eve Butterworth joins the lab. Welcome Eve! (current members: Aanand, Charlene, and Eve)
+
 07/05/25 📺 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.*
 
 06/19/25: 🔬 Preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.*
