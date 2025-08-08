@@ -22,6 +22,9 @@ Siddhartha received a Ph.D. in Civil and Environmental Engineering with advisor 
 
 [GeoCAFÉ](https://climatehealthcafe.org/geocafe) Scholar at the NSF-funded Boston University's Center for Climate & Health Research Coordination Network.
 
+
+[IDEAAL DR2](https://cdrc.uw.edu/education-and-training/applied-learning-fellowships/) Disaster Research Response Fellow at the NIEHS-funded University of Washington's Center for Disaster Resilient Communities
+
 [New Jersey Institute for Food, Nutrition & Health, Rutgers](https://dep.nj.gov/sab/appointed-members/) Environmental Influences on Food, Nutrition and Health Taskforce.
 
 [The Obama Foundation](https://www.obama.org/programs/leaders/usa/2023/siddhartha-roy/) Leaders USA cohort.
