@@ -1,5 +1,5 @@
 ---
-title: "Principia"
+title: "Principia Scripta"
 ---
 
 ------
