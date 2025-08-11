@@ -9,6 +9,8 @@ title: "News and Updates"
 
 #### 2025: 
 
+04-08/08/25 Sid spent the week learning at UW's Disaster Research Response workshop as an IDEAAL DR2 Fellow in Seattle.
+
 07/08/25 Eve Butterworth joins the lab. Welcome Eve! (current members: Aanand, Charlene, and Eve)
 
 07/06/25: Aanand presented his poster at the NIST AI for Material Science workshop in Rockville, MD.
