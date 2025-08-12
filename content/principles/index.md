@@ -40,7 +40,7 @@ This is a personal living document, subject to frequent revision.
 - Avoid blind optimism or pessimism about social issues and bridge the Optimism Gap[^11] with facts
 - Cultivate rational optimism about scientific and human progress[^19]
 - Counter perverse incentives by choosing quality over quantity[^10]
-- Promote the right incentives and rewards for your collaborators[^28] and advisees to act like ambitious high-agency principals and not agents[^25]
+- Promote the right incentives and rewards for your collaborators and advisees to act like ambitious high-agency principals and not agents[^25]
 - Level up your game by learning from the peers around you doing exceptional work (and rightly getting rewarded for it), instead of burning in envy[^23]
 - Do not pursue research topics you unwittingly absorbed through mimesis[^26], unless you are genuinely curious
 
@@ -109,5 +109,3 @@ Last updated: July 2025
 [^26]: Read Luke Burgis' essay in [Psyche](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire).
 
 [^27]: Read Shiri Spitz Siddiqi's piece on the well-intended perversion of science in Flint on [Free the Inquiry's Substack](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science).
-
-[^28]: Be at least fair with sharing (deserved) grant money and do not go back on your promises. When an institute assured me that a major grant I helped write had been awarded, they explicitly encouraged me to hire a student to carry out key research. That "in good faith" assurance was unequivocal. Now, they have shifted course, claiming they do not need the student as much (and will barely fund them), while primarily requesting my time. Now, I am in a pickle. Check back in a year.
