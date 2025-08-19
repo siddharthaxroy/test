@@ -21,7 +21,7 @@ hideReadMore=true
 [languages.en.params.logo]
 logoText = "Aquatic Alchemists"
 logoHomeLink = "/"
-# path = "/img/logo.png"
+path = "/img/logo.png"
 alt = "Siddhartha Roy"
 
 enableEmoji = "true"
