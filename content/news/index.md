@@ -9,6 +9,8 @@ title: "News and Updates"
 
 #### 2025: 
 
+07/22/25 Jennie Fleurant joins the lab. Welcome Jennie! (current members: Aanand, Charlene, Eve and Jennie)
+
 04-08/08/25 Sid spent the week learning at UW's Disaster Research Response workshop as an IDEAAL DR2 Fellow in Seattle.
 
 07/08/25 Eve Butterworth joins the lab. Welcome Eve! (current members: Aanand, Charlene, and Eve)
