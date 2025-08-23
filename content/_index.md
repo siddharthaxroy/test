@@ -5,7 +5,7 @@ title: "Welcome"
 
 ------
 
-Welcome to the homepage of Prof. Siddhartha Roy's research group at Rutgers!
+Siddhartha Roy's Research Group | Rutgers University.
 
 ### Updates
 
