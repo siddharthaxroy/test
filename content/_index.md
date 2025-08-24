@@ -5,7 +5,7 @@ title: "Welcome"
 
 ------
 
-Siddhartha Roy's Research Group | Rutgers University.
+Siddhartha Roy's Research Group | Rutgers University
 
 ### Updates
 
