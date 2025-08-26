@@ -9,15 +9,17 @@ title: "News and Updates"
 
 #### 2025: 
 
-08/22/25 Jennie Fleurant joins the lab. Welcome Jennie! (current members: Aanand, Charlene, Eve and Jennie)
+08/25/25: 📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
 
-08/04-08/25 Sid spent the week learning at UW's Disaster Research Response workshop as an IDEAAL DR2 Fellow in Seattle.
+08/22/25: Jennie Fleurant joins the lab. Welcome Jennie! (current members: Aanand, Charlene, Eve, and Jennie)
 
-07/08/25 Eve Butterworth joins the lab. Welcome Eve! (current members: Aanand, Charlene, and Eve)
+08/04-08/25: Sid spent the week learning at UW's Disaster Research Response workshop as an IDEAAL DR2 Fellow in Seattle.
 
-07/06/25: Aanand presented his poster at the NIST AI for Material Science workshop in Rockville, MD.
+07/08/25: Eve Butterworth joins the lab. Welcome Eve! (current members: Aanand, Charlene, and Eve)
 
-07/05/25 📺 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.*
+07/06/25: Aanand presented his poster at the 6th NIST Artificial Intelligence for Material Science Workshop in Rockville, MD.
+
+07/05/25: 📺 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.*
 
 06/19/25: 🔬 Preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.*
 
