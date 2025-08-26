@@ -9,6 +9,8 @@ Siddhartha Roy's Research Group | Rutgers University
 
 ### Updates
 
+📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
+
 📰 Magazine: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
 
 🔬 Preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.* 2025.
