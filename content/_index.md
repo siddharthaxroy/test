@@ -5,7 +5,7 @@ title: "Welcome"
 
 ------
 
-## Siddhartha Roy's Research Group at Rutgers University
+## Siddhartha Roy's Group at Rutgers University
 
 ### Updates
 
@@ -51,11 +51,11 @@ Siddhartha Roy [(Biography)](/bio/)
 
 Rutgers Department of Environmental Sciences
 
-59 Dudley Rd (Foran Hall), 308
+59 Dudley Rd, 308 Foran Hall
 
 New Brunswick, NJ 08901
 
-Laboratories: Foran Hall 308; ENR 167.
+Laboratories: Foran 308; ENR 167.
 
 (office) [+1-848-932-5780](tel:8489325780)
 
