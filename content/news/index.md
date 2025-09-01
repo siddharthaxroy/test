@@ -9,6 +9,8 @@ title: "News and Updates"
 
 #### 2025: 
 
+08/28/25 📰 Magazine: [Could lessons from Flint help reduce lead in Ontario schools?](https://ijb.utoronto.ca/news/insights-an-expert-shares-lessons-from-the-flint-michigan-water-crisis-that-could-reduce-lead-in-ontarios-schools/). *University of Toronto Investigative Journalism.*
+
 08/25/25: 📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
 
 08/22/25: Jennie Fleurant joins the lab. Welcome Jennie! (current members: Aanand, Charlene, Eve, and Jennie)
@@ -30,6 +32,8 @@ title: "News and Updates"
 04/29/25: Aanand and Ella, Charlene and Leyla, and Bobo presented their research posters at the Aresty Symposium at Rutgers.
 
 📑 Paper: [Foresight 2035: a perspective on the next decade of research on the management of *Legionella* spp. in engineered aquatic environments](https://pubmed.ncbi.nlm.nih.gov/40424003/). *FEMS Microbiology Reviews.*
+
+02/17/25 📰 Magazine: [From headaches to tics, how mass nocebo effects spread real symptoms](https://www.newscientist.com/article/mg26535311-600-from-headaches-to-tics-how-mass-nocebo-effects-spread-real-symptoms/). *New Scientist.*
 
 #### 2024:
 
