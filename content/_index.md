@@ -9,6 +9,8 @@ title: "Welcome"
 
 ### Updates
 
+📰 Magazine: [Could lessons from Flint help reduce lead in Ontario schools?](https://ijb.utoronto.ca/news/insights-an-expert-shares-lessons-from-the-flint-michigan-water-crisis-that-could-reduce-lead-in-ontarios-schools/). *University of Toronto Investigative Journalism.*
+
 📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
 
 📰 Magazine: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
