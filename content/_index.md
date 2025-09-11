@@ -47,6 +47,12 @@ See full list of Updates [here](/news/).
 
 ------
 
+#### Support our research
+
+[Make a gift today](https://rutgersfoundation.org/Roy)
+
+------
+
 ### Contact or visit our laboratory:
 
 Siddhartha Roy [(Biography)](/bio/)
@@ -62,8 +68,6 @@ Laboratories: Foran 308; ENR 167.
 (office) [+1-848-932-5780](tel:8489325780)
 
 (email) roy \[dot] s \[at] rutgers \[dot] edu
-
-Support our research: [Make a gift today](https://rutgersfoundation.org/Roy)
 
 [Upcoming Events](/events/) | [Press Coverage](/press/)
 
