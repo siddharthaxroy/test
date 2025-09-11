@@ -63,7 +63,7 @@ Laboratories: Foran 308; ENR 167.
 
 (email) roy \[dot] s \[at] rutgers \[dot] edu
 
-Support our research: [Make a gift today](mailto:roy.s@rutgers.edu?subject=Funding)
+Support our research: [Make a gift today](https://rutgersfoundation.org/Roy)
 
 [Upcoming Events](/events/) | [Press Coverage](/press/)
 
