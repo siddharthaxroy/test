@@ -47,13 +47,13 @@ See full list of Updates [here](/news/).
 
 ------
 
-#### Support our research
+### Support our research
 
 [Make a gift today](https://rutgersfoundation.org/Roy)
 
 ------
 
-### Contact or visit our laboratory:
+### Contact or visit our laboratory
 
 Siddhartha Roy [(Biography)](/bio/)
 
