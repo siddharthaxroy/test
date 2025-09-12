@@ -51,7 +51,7 @@ See full list of Updates [here](/news/).
 
 [Make a gift today](https://rutgersfoundation.org/Roy)
 
-{{< labgallery >}}
+{{< image src="/img/img1.jpg" position="center" height="400" >}}
 
 ------
 
