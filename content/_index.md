@@ -53,6 +53,8 @@ See full list of Updates [here](/news/).
 
 {{< image src="/img/img1.jpg" position="center" height="400" >}}
 
+{{< figure src="/img/img1.jpg" position="center" style="border-radius: 8px;" caption="Jennie, Aanand, and Eve. Foran Hall, Sep 2025" captionPosition="right" captionStyle="color: red;" >}}
+
 ------
 
 ### Contact or visit our laboratory
