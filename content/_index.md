@@ -51,9 +51,7 @@ See full list of Updates [here](/news/).
 
 [Make a gift today](https://rutgersfoundation.org/Roy)
 
-{{< image src="/img/img1.jpg" position="center" height="400" >}}
-
-{{< figure src="/img/img1.jpg" position="center" style="border-radius: 8px;" caption="Jennie, Aanand, and Eve. Foran Hall, Sep 2025" captionPosition="right" captionStyle="color: red;" >}}
+{{< image src="/img/img1.jpg" position="center" >}}
 
 ------
 
