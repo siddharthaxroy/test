@@ -1,0 +1,60 @@
+<iframe>
+  
+<div class="gallery-container">
+  <div class="slideshow">
+    /img/img1.jpg
+    /img/img2.jpg
+    /img/img3.jpg
+    /img/img4.jpg
+    /img/img5.jpg
+  </div>
+</div>
+
+<style>
+.gallery-container {
+  max-width: 600px;
+  margin: auto;
+  position: relative;
+}
+
+.slideshow {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.slide {
+  width: 100%;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.slide.active {
+  display: block;
+}
+</style>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelectorAll('.slide');
+
+function showSlide(index) {
+  slides.forEach((slide, i) => {
+    slide.classList.remove('active');
+    if (i === index) {
+      slide.classList.add('active');
+    }
+  });
+}
+
+function nextSlide() {
+  currentSlide = (currentSlide + 1) % slides.length;
+  showSlide(currentSlide);
+}
+
+setInterval(nextSlide, 3000); // Change slide every 3 seconds
+window.onload = () => showSlide(currentSlide);
+</script>
+</iframe>
