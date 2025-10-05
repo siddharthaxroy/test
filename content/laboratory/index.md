@@ -103,4 +103,4 @@ In alphabetical order by last name.
 - Zihan Wang, Erosion Corrosion in Copper and Nonleaded Alloys used in potable water systems, 2014-15
 - Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20
 
-Last updated: September 2024
+Last updated: October 2025
