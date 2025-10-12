@@ -10,6 +10,7 @@ title: "News and Updates"
 #### 2025: 
 
 09/30/25: Eve and Sid went to the NJ Department of Environmental Protection's Listening session at Eva's Village in Paterson to publicize their ongoing flooding research and recruit participants. (Thank you, USGS, for funding this research!)
+
 {{< figure src="25-09-njdep.jpg" position="center" >}}
 
 09/15/25: Emily Newton, Aniya Elliott, Jules Jusino, Aiman Koli, Sanskriti Malakar, Dan Mayster, Khang Nguyen, and Willem Weigand join the lab. Welcome!
