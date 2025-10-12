@@ -60,7 +60,7 @@ In alphabetical order by last name.
 
 -----
 
-### Awards to student advisees {#awards}
+### Awards and Scholarships to student advisees {#awards}
 **National level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
@@ -70,9 +70,11 @@ In alphabetical order by last name.
 - Third Prize – Technical Paper (Kristine Mapili – ASCE Virginias’ Section), 2016
 
 **University level**
-- Third Prize – Technical Poster (Philip Smith – 7th CEE Research Day, Virginia Tech), 2017
-- First Prize – Technical Poster (Kristine Mapili – 6th CEE Research Day, Virginia Tech), 2016
-- First Prize – Technical Poster (Zihan Wang – 5th CEE Research Day, Virginia Tech), 2015
+- Rutgers Deans Graduate Fellowship (Eve Butterworth), 2025-26
+- Rutgers SEBS Undergraduate Scholarship (Charlene Guo), 2025-26
+- Third Prize – Technical Poster (Philip Smith – 7th Virginia Tech CEE Research Day), 2017
+- First Prize – Technical Poster (Kristine Mapili – 6th Virginia Tech CEE Research Day), 2016
+- First Prize – Technical Poster (Zihan Wang – 5th Virginia Tech CEE Research Day), 2015
 
 -----
 
