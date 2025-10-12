@@ -9,6 +9,11 @@ title: "News and Updates"
 
 #### 2025: 
 
+09/30/25: Eve and Sid went to the NJ Department of Environmental Protection's Listening session at Eva's Village in Paterson to publicize their ongoing flooding research and recruit participants. (Thank you, USGS, for funding this research!)
+{{< figure src="25-09-njdep.jpg" position="center" >}}
+
+09/15/25: Emily Newton, Aniya Elliott, Jules Jusino, Aiman Koli, Sanskriti Malakar, Dan Mayster, Khang Nguyen, and Willem Weigand join the lab. Welcome!
+
 08/28/25 📰 Magazine: [Could lessons from Flint help reduce lead in Ontario schools?](https://ijb.utoronto.ca/news/insights-an-expert-shares-lessons-from-the-flint-michigan-water-crisis-that-could-reduce-lead-in-ontarios-schools/). *University of Toronto Investigative Journalism.*
 
 08/25/25: 📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
