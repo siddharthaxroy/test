@@ -117,13 +117,17 @@ Flint Water Study [Visit↗](www.flintwaterstudy.org)  (1M+ web traffic; Read a 
 
 ### As Organizer/Moderator of Scientific Panels {#panels}
 
-#### "Fighting the Coronavirus Pandemic: Evidence-based Approaches from Environmental Engineers" Webinar (July 2020) on [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)
+#### "Academic Freedom and the Flint Water Crisis" HxA Conference Panel (June 2025) on [YouTube↗](https://youtu.be/seOvuKdnfIA)
 
-{{< youtube ORFvtGF6YTY >}}
+{{< youtube seOvuKdnfIA >}}
 
 #### "The Science and Politics of Journal Retractions: A Conversation with Ivan Oransky of Retraction Watch" Webinar (May 2022) on [YouTube↗](https://www.youtube.com/watch?v=r8Vdo_xNtjM)
 
 {{< youtube r8Vdo_xNtjM >}}
+
+#### "Fighting the Coronavirus Pandemic: Evidence-based Approaches from Environmental Engineers" Webinar (July 2020) on [YouTube↗](https://www.youtube.com/watch?v=ORFvtGF6YTY)
+
+{{< youtube ORFvtGF6YTY >}}
 
 ### As Documentarian/Videographer {#videos}
 
