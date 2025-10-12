@@ -39,19 +39,19 @@ See full list of Updates [here](/news/).
 
 ------
 
+### Support our research and education programs
+
+[ {{< image src="/img/img1.png" position="center" >}} ](https://rutgersfoundation.org/Roy)
+
+[Make a gift today](https://rutgersfoundation.org/Roy)
+
+------
+
 ### Funding Agencies 
 
 | NIEHS | Rutgers SEBS | USGS | 
 |:--------:|-----|-----|
-| {{< image src="/img/niehs.png" position="center" height="100" >}} | {{< image src="/img/rusebs.png" position="center" height="100" >}} | {{< image src="/img/usgs.png" position="center" height="100" >}} |
-
-------
-
-### Support our research program
-
-[Make a gift today](https://rutgersfoundation.org/Roy)
-
-[ {{< image src="/img/img1.png" position="center" >}} ](https://rutgersfoundation.org/Roy)
+| {{< image src="/img/niehs.png" position="center" height="50" >}} | {{< image src="/img/rusebs.png" position="center" height="50" >}} | {{< image src="/img/usgs.png" position="center" height="50" >}} |
 
 ------
 
