@@ -43,7 +43,7 @@ See full list of Updates [here](/news/).
 
 [ {{< image src="/img/img1.png" position="center" >}} ](https://rutgersfoundation.org/Roy)
 
-[Make a gift today](https://rutgersfoundation.org/Roy)
+[ {{< image src="/img/gift-scarlet.png" position="center" >}} ](https://rutgersfoundation.org/Roy)
 
 ------
 
