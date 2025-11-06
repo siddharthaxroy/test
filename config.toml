@@ -46,7 +46,3 @@ enableEmoji = "true"
     name = "Hiring"
     weight = 3
 
-[[menu.main]]
-    url = "/principles/"
-    name = "Principles"
-    weight = 5
