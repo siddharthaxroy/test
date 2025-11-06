@@ -57,7 +57,7 @@ See full list of Updates [here](/news/).
 
 ### Contact or visit our laboratory
 
-Siddhartha Roy [(Biography)](/bio/)
+Siddhartha Roy [(About)](/bio/)
 
 Rutgers Department of Environmental Sciences
 
@@ -71,7 +71,7 @@ Laboratories: Foran 308; ENR 167.
 
 (email) roy \[dot] s \[at] rutgers \[dot] edu
 
-[Upcoming Events](/events/) | [Press Coverage](/press/)
+[Principles](/principles/) | [Events](/events/) | [Press](/press/)
 
 {{< image src="/img/RU.png" position="center" >}}
 
