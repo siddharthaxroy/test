@@ -15,6 +15,12 @@ Roy received a Ph.D. in Civil and Environmental Engineering with advisor Dr. Mar
 
 Contact: 59 Dudley Rd, Lab 308, New Brunswick, NJ 08901; [https://roy.rutgers.edu](https://roy.rutgers.edu); roy[dot]s[at]rutgers[dot]edu; 848-932-5780.
 
+Twitter: [@siddharthaxroy](https://twitter.com/siddharthaxroy) 
+
+ORCiD: [0000-0001-6443-1393](https://orcid.org/0000-0001-6443-1393)
+
+Substack: [Because](https://siddhartharoy.substack.com/)
+
 ------
 ### taskforce, scientific cohort, and center memberships
 
