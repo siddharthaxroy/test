@@ -17,19 +17,12 @@ Meet our [lab members](/laboratory/). Catch up on our [latest updates](/news/). 
 
 ------
 
-### Our research program uses a transdisciplinary approach to help answer the question: Is my water safe to drink?
+### We mentor [students](laboratory/), conduct original [research](/articles/), craft data-driven stories to [communicate](/communicate/) our [findings](/public/), and provide implementation and policy advice through an [ethical](/principles/) lens. Our research program uses a transdisciplinary approach to help answer the question: Is my water safe to drink?
 
 {{< image src="/img/visual-research-abstract.png" position="center" >}}
 
 > Credits: All images were captured by the PI, the PI's students, or staff photographers (Logan Wallace, Peter Means, and Erica Corder at Virginia Tech) or have been reused under the Fair Use doctrine.
 
-------
-
-### We mentor [students](laboratory/), conduct original [research](/articles/), craft data-driven stories to [communicate](/communicate/) our [findings](/public/), and provide implementation and policy advice through an [ethical](/principles/) lens:
-
-[{{< image src="/img/model.png" position="center" style="border: 15px solid; border-color: #FFFFFF" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
-
-> Credits: Poster developed with Dr. Marc Edwards for a National Academy of Engineering conference.
 ------
 
 ### Support our research and education programs
