@@ -51,8 +51,14 @@ This is a personal living document, subject to frequent revision.
 - Stats 101.1: Large datasets are usually more reliable than anecdotes/anecdata
 - Stats 201: Correlation is not causation[^12]
 - Stats 201.1: Correlation can tend to causation with multiple lines of evidence and tightly controlled studies (e.g., RCTs)
+ 
+### Science, Engineering, and the Public:
 
-Last updated: July 2025
+[{{< image src="/img/model.png" position="center" style="border: 15px solid; border-color: #FFFFFF" >}}](https://onlineethics.org/sites/onlineethics/files/2021-09/NAE%20Edwards%20Roy%20Submission.pdf)
+
+> Credits: Poster developed with Dr. Marc Edwards for a National Academy of Engineering conference.
+
+Last updated: November 2025
 
 #### Footnotes:
 
