@@ -43,17 +43,11 @@ Meet our [lab members](/laboratory/). Catch up on our [latest updates](/news/). 
 
 ### Contact or visit our laboratory
 
-> Siddhartha Roy [(About)](/bio/)
+Siddhartha Roy [(About)](/bio/)
 
-> Rutgers Department of Environmental Sciences
+Rutgers, 59 Dudley Rd, 308, New Brunswick, NJ 08901
 
-> 59 Dudley Rd, 308 Foran Hall
-
-> New Brunswick, NJ 08901
-
-> (office) [+1-848-932-5780](tel:8489325780)
-
-> (email) roy \[dot] s \[at] rutgers \[dot] edu
+(o) [848-932-5780](tel:8489325780) | (e) roy \[dot] s \[at] rutgers \[dot] edu
 
 [Principles](/principles/) | [Events](/events/) | [Press](/press/)
 
