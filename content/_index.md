@@ -7,7 +7,21 @@ title: "Welcome"
 
 ## Siddhartha Roy's Group at Rutgers University
 
+{{< image src="/img/collage.png" position="center" >}}
+
 ### At a Glance
+
+<div style="text-align: left; font-family: Arial, sans-serif; line-height: 1.6;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+        <li>🎓 People: 2 PhD, 2 MS, and 8 undergraduate researchers.</li>
+        <li>📚 Traditional: 25+ peer-reviewed publications, 50+ conference presentations, and 100+ public talks.</li>
+        <li>🏛️ Research informing national and international policy and regulations for 350M+ residents, including the U.S. Lead and Copper Rule Improvements, the U.S. Infrastructure Investment and Jobs Act (Lead Pipe Replacement), and safe water implementation in Ghana.</li>
+        <li>📰 Work featured in The New York Times, BBC, PBS, NPR, and TED.</li>
+        <li>🧪 Service on scientific committees and leadership cohorts for the US Environmental Protection Agency, NJ Department of Environmental Protection, and Obama Foundation.</li>
+        <li>🤝 15+ community-engaged and -focused projects to advance safe water and improve health outcomes, including blowing the whistle on the Flint Water Crisis.</li>
+    </ul>
+</div>
+
 
 - 🎓 People: 2 PhD, 2 MS, and 8 undergraduate researchers.
 - 📚 Traditional: 25+ peer-reviewed publications, 50+ conference presentations, and 100+ public talks.
