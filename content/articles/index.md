@@ -1,9 +1,9 @@
 ---
-description: "All published papers and pre-prints"
-title: "Research Papers"
+description: "Published journal articles and pre-prints"
+title: "Publications"
 ---
 
-Please go to the [Talks and Essays](/public/) page for popular science articles, documentaries, and a TED talk. Podcast, radio, television, and newspaper appearances can be found on the [Press](/press/) page.
+Note: Please go to the [Talks and Essays](/public/) page for popular science articles, documentaries, and a TED talk. Podcast, radio, television, and newspaper appearances can be found on the [Press](/press/) page.
 
 ------
 
@@ -11,7 +11,7 @@ Please go to the [Talks and Essays](/public/) page for popular science articles,
 
 **Legend**
 
-α : first author
+α : first, senior, or corresponding author
 
 β : second author
 
@@ -24,6 +24,12 @@ Please go to the [Talks and Essays](/public/) page for popular science articles,
 *If you encounter a paywall, please [email](mailto:siddhartha.roy@rutgers.edu) me to request the full paper.*
 
 ------
+
+1. α † ^ Quantifying lead (Pb) leaching from galvanized handpump spouts, leaded brass taps, and stainless-steel alternatives using the NSF 61 test protocol. *Under Review*.  [10.31223/X5W72N↗](https://doi.org/10.31223/X5W72N)
+
+1. α Preventing lead (Pb) contamination in rural community water systems in LMICs through integrated screening, standards enforcement, and supply chain interventions. *Groundwater for Sustainable Development*.  [10.1016/j.gsd.2025.101509↗](https://doi.org/10.1016/j.gsd.2025.101509)
+
+1. Foresight 2035: a perspective on the next decade of research on the management of Legionella spp. in engineered aquatic environments. *FEMS Microbiology Reviews*.  [10.1093/femsre/fuaf022↗](https://doi.org/10.1093/femsre/fuaf022)
 
 1. α A possible nocebo effect in children following the Flint Water Crisis: Evidence from schoolteacher perceptions and neuropsychological evaluations. *Disaster Medicine and Public Health Preparedness*.  [10.1017/dmp.2024.106↗](https://doi.org/10.1017/dmp.2024.106)
 
@@ -87,4 +93,4 @@ Please go to the [Talks and Essays](/public/) page for popular science articles,
 
 ------
 
-Last updated: October 2024
+Last updated: November 2025
