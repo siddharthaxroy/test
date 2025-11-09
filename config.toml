@@ -28,12 +28,12 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/laboratory/"
-    name = "Lab"
+    name = "People"
     weight = 2
     
 [[menu.main]]
     url = "/articles/"
-    name = "Science"
+    name = "Publications"
     weight = 1
 
 [[menu.main]]
@@ -46,3 +46,7 @@ enableEmoji = "true"
     name = "Hiring"
     weight = 3
 
+[[menu.main]]
+    url = "/news/"
+    name = "News"
+    weight = 5
