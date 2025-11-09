@@ -1,6 +1,6 @@
 ---
 description: "Open Positions"
-title: "Open Positions"
+title: "Hiring"
 
 ---
 
@@ -8,7 +8,7 @@ title: "Open Positions"
 
 University: Established in 1766, Rutgers University-New Brunswick is one of America's nine original colonial colleges and first land-grant institutions. It is the leading public university in New Jersey, a top 15 public national university, and a top 100 world university. The [Department of Environmental Sciences](https://envsci.rutgers.edu/) is the oldest environmental sciences department in the nation, with a history dating back over 100 years, and offers programs in Environmental Science, Environmental Engineering (jointly with the School of Engineering), Meteorology, and Atmospheric Science. The department is located on Rutgers' Cook Campus in New Brunswick, NJ, and is equidistant from both Philadelphia and New York City.
 
-Group: The goal of Siddhartha Roy's research program at Rutgers is to facilitate access to safe and affordable water for all in the 21st century. His group integrates laboratory, field, epidemiological, and computational methods to investigate treatment efficacy, metals release, and isotope fingerprinting in potable water infrastructure, characterize the impacts of exposures to environmental contaminants on human and psychological health, and facilitate citizen science investigations and technological/policy/behavioral interventions to improve access to safe water in domestic, disaster, and global settings.
+Group: The goal of Siddhartha Roy's research program at Rutgers is to facilitate access to safe and affordable water for all in the 21st century. His group integrates laboratory, field, epidemiological, and computational methods to investigate metals release, treatment efficacy, and isotope fingerprinting in potable water infrastructure, characterize the impacts of exposures to environmental contaminants on human and psychological health, and facilitate citizen science investigations and engineering and policy interventions to improve access to safe water in domestic, disaster, and global settings.
 
 ------
 
