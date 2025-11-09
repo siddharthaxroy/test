@@ -7,27 +7,20 @@ title: "Welcome"
 
 ## Siddhartha Roy's Group at Rutgers University
 
-### Updates
+### At a Glance
 
-📰 Magazine: [Could lessons from Flint help reduce lead in Ontario schools?](https://ijb.utoronto.ca/news/insights-an-expert-shares-lessons-from-the-flint-michigan-water-crisis-that-could-reduce-lead-in-ontarios-schools/). *University of Toronto Investigative Journalism.*
+- 🎓 People: 2 PhD, 2 MS, and 8 undergraduate researchers.
+- 📚 Traditional: 25+ peer-reviewed publications, 50+ conference presentations, and 100+ public talks.
+- 🏛️ Research informing national and international policy and regulations for 350M+ residents, including the U.S. Lead and Copper Rule Improvements, the U.S. Infrastructure Investment and Jobs Act (Lead Pipe Replacement), and safe water implementation in Ghana.
+- 📰 Work featured in The New York Times, BBC, PBS, NPR, and TED.
+- 🧪 Service on scientific committees and leadership cohorts for the US Environmental Protection Agency, NJ Department of Environmental Protection, and Obama Foundation.
+- 🤝 15+ community-engaged and -focused projects to advance safe water and improve health outcomes, including blowing the whistle on the Flint Water Crisis.
 
-📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
-
-📰 Magazine: [The Uncertain and Shifting Future of Ph.D.s in Science](https://undark.org/2025/06/03/phd-shifting-future/). *Undark.* 06/03/25
-
-🔬 Preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.* 2025.
-
-📑 Paper: [Foresight 2035: a perspective on the next decade of research on the management of *Legionella* spp. in engineered aquatic environments](https://pubmed.ncbi.nlm.nih.gov/40424003/). *FEMS Microbiology Reviews.* 2025.
-
-🗣️ Radio: [Denver Water is halfway through replacing lead pipes. Why didn't this happen sooner? ](https://www.kunc.org/news/2024-11-07/denver-water-is-halfway-through-replacing-lead-pipes-why-didnt-this-happen-sooner). *NPR and NPR Colorado.* 11/07/24
-
-📅 Event: 🇺🇸 / 🇫🇷 [Reducing Lead Exposure: Evolution of Priorities and Regulation](https://lamont.columbia.edu/events/reducing-lead-exposure-evolution-priorities-and-regulation). *Columbia and Sorbonne.* 10/30/24 9a-1p ET
-
-See full list of Updates [here](/news/).
+Meet our [lab members](/laboratory/). Catch up on our [latest updates](/news/). Read our [journal publications](/articles/). Watch our [recorded talks and podcasts](/public/). 
 
 ------
 
-### Our research program uses a transdisciplinary approach to help answer the question:
+### Our research program uses a transdisciplinary approach to help answer the question: {#program}
 
 {{< image src="/img/visual-research-abstract.png" position="center" caption="Credits: All images were captured by the PI and Virginia Tech photographers (Logan Wallace, Peter Means, and Erica Corder) or have been reused under the Fair Use doctrine." captionPosition="center" captionStyle="color: red;" >}}
 
@@ -55,7 +48,7 @@ See full list of Updates [here](/news/).
 
 ------
 
-### Contact or visit our laboratory
+### Contact or visit our laboratory {#contact}
 
 Siddhartha Roy [(About)](/bio/)
 
