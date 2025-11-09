@@ -1,5 +1,5 @@
 ---
-title: "Research Laboratory"
+title: "People"
 ---
 
 ------
@@ -19,7 +19,7 @@ title: "Research Laboratory"
 ## People {#people}
 In alphabetical order by last name.
 
-### Graduate Students and Postdocs
+### Graduate Students and Postdoctoral Researchers
 
 | Headshot and Biography |
 |:--------:|
