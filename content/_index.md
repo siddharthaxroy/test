@@ -33,21 +33,15 @@ Meet our [lab members](/laboratory/). Catch up on our [latest updates](/news/). 
 
 ------
 
-### Funding Agencies 
-
-| NIEHS | Rutgers SEBS | USGS | 
-|:--------:|-----|-----|
-| {{< image src="/img/niehs.png" position="center" height="50" >}} | {{< image src="/img/rusebs.png" position="center" height="50" >}} | {{< image src="/img/usgs.png" position="center" height="50" >}} |
-
-------
-
 ### Contact or visit our laboratory
 
 Siddhartha Roy [(About)](/bio/)
 
-Rutgers, 59 Dudley Rd, 308, New Brunswick, NJ 08901
+59 Dudley Rd, 308, New Brunswick, NJ 08901
 
-(o) [848-932-5780](tel:8489325780) | (e) roy \[dot] s \[at] rutgers \[dot] edu
+(o) [848-932-5780](tel:8489325780) 
+
+(e) roy \[dot] s \[at] rutgers \[dot] edu
 
 [Principles](/principles/) | [Events](/events/) | [Press](/press/)
 
