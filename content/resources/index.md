@@ -24,6 +24,13 @@ Data
 
 [India Groundwater Data](https://www.kaggle.com/datasets/amandeepdutta/indias-ground-water-quality-statewise-2012-2021
 
+
+Software
+
+[ToDo List for Project Management](https://www.abstractspoon.com/)
+
+[Zotero for Citation Management](www.zotero.org)
+
 Lead Longform Articles
 
 [Works in Progress July 2025](https://www.worksinprogress.news/p/the-end-of-lead)
