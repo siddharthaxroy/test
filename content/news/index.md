@@ -9,6 +9,12 @@ title: "News and Updates"
 
 #### 2025: 
 
+11/25/25 📰 Newspaper: [From Harvard to BU to Brown, New England schools are enrolling fewer new PhDs this year. Why?](https://www.bostonglobe.com/2025/11/25/business/phd-programs-harvard-bu-brown/). *Boston Globe.*
+
+10/23/25: Charlene and Sid went to the Lead Free Expo in Chester PA to publicize our ongoing study and conduct real-time lead testing for community members. (Thank you, NIEHS and Penn Medicine, for funding this work!)
+
+10/02/25: The UW RAPID facility sent us their Bruker XRF to conduct a laboratory challenge study. Eve and Charlene had a grand time running a between-device comparison with our lab's in-house Vanta XRF. Photos to come. (Thank you, NIEHS and Penn Medicine, for funding this work! And thank you Jaq and colleagues from RAPID and NSF/NIH for providing researchers nationwide with inexpensive access to cutting edge instrumentation.)
+
 09/30/25: Eve and Sid went to the NJ Department of Environmental Protection's Listening session at Eva's Village in Paterson to publicize our ongoing flooding research and recruit participants. (Thank you, USGS, for funding this research!)
 
 {{< figure src="25-09-njdep.jpg" position="center" >}}
