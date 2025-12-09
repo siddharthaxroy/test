@@ -11,7 +11,7 @@ title: "News and Updates"
 
 12/09/25: Jennie was a panelist and presented on her ongoing critical review of corrosion (control) in decentralized water systems at the Rural Water Supply Network webinar *Rapid corrosion of handpumps - can we finally address this issue?* Recording to come. 
 
-{{< figure src="25-12-corrosion.jpg" position="center" >}}
+{{< figure src="25-12-corrosion.png" position="center" >}}
 
 12/03/25 and 11/18/25: Sid presented findings from our [new paper on addressing waterborne Pb in rural LMIC systems](https://doi.org/10.1016/j.gsd.2025.101509) to the Rural Water Supply Network's Stop the Rot Action Group (December) and Rutgers Department of Human Ecology [(November seminar)](https://humanecology.rutgers.edu/2025/09/07/lecture-talks-2025-lectures-2025-events/).
 
@@ -24,6 +24,8 @@ title: "News and Updates"
 {{< figure src="25-10-chester.jpg" position="center" >}}
 
 10/02/25: The UW RAPID facility sent us their Bruker XRF to conduct a laboratory challenge study. Eve and Charlene had a grand time running a between-device comparison with our lab's in-house Vanta XRF. Photos to come. (Thank you, NIEHS and Penn Medicine, for funding this work! And thank you, Jaq and colleagues from RAPID and NSF/NIH, for providing researchers nationwide with inexpensive access to cutting-edge instrumentation.)
+
+{{< figure src="25-11-xrf-duel.jpg" position="center" >}}
 
 09/30/25: Eve and Sid went to the NJ Department of Environmental Protection's Listening session at Eva's Village in Paterson to publicize our ongoing flooding research and recruit participants. (Thank you, USGS, for funding this research!)
 
