@@ -9,7 +9,7 @@ title: "News and Updates"
 
 #### 2025: 
 
-12/09/25: Jennie was a panelist and presented on her ongoing critical review of corrosion (control) in decentralized water systems at the Rural Water Supply Network webinar *Rapid corrosion of handpumps - can we finally address this issue?* Recording to come. 
+12/09/25: Jennie was a panelist and presented on her ongoing research at the Rural Water Supply Network webinar *Rapid corrosion of handpumps - can we finally address this issue?* Recording to come. 
 
 {{< figure src="25-12-corrosion.png" position="center" >}}
 
