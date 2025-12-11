@@ -9,9 +9,11 @@ title: "News and Updates"
 
 #### 2025: 
 
-12/09/25: Jennie was a panelist and presented on her ongoing research at the Rural Water Supply Network webinar *Rapid corrosion of handpumps - can we finally address this issue?* Recording to come. 
+12/09/25: Jennie was a panelist and presented on her ongoing research at the Rural Water Supply Network webinar [*Rapid corrosion of handpumps - can we finally address this issue?*](https://www.rural-water-supply.net/_ressources/documents/default/1-1348-74-1765284752.pdf)
 
 {{< figure src="25-12-corrosion.png" position="center" >}}
+
+{{< youtube cTUqJhcu4xw >}}
 
 12/03/25 and 11/18/25: Sid presented findings from our [new paper on addressing waterborne Pb in rural LMIC systems](https://doi.org/10.1016/j.gsd.2025.101509) to the Rural Water Supply Network's Stop the Rot Action Group (December) and Rutgers Department of Human Ecology [(November seminar)](https://humanecology.rutgers.edu/2025/09/07/lecture-talks-2025-lectures-2025-events/).
 
@@ -37,13 +39,15 @@ title: "News and Updates"
 
 08/25/25: 📑 Paper: [Preventing lead (Pb) contamination in rural community water systems in LMICs through analytical screening, policy and standards enforcement, and supply chain interventions](https://doi.org/10.1016/j.gsd.2025.101509). *Groundwater for Sustainable Development.* 2025.
 
-08/22/25: Jennie Fleurant joins the lab. Welcome Jennie! (current members: Aanand, Charlene, Eve, and Jennie)
+08/22/25: Jennie Fleurant joins the lab. Welcome, Jennie! (current members: Aanand, Charlene, Eve, and Jennie)
 
 08/04-08/25: Sid spent the week learning at UW's Disaster Research Response workshop as an IDEAAL DR2 Fellow in Seattle.
 
-07/08/25: Eve Butterworth joins the lab. Welcome Eve! (current members: Aanand, Charlene, and Eve)
+07/08/25: Eve Butterworth joins the lab. Welcome, Eve! (current members: Aanand, Charlene, and Eve)
 
 07/06/25: Aanand presented his poster at the 6th NIST Artificial Intelligence for Material Science Workshop in Rockville, MD.
+
+{{< figure src="25-07-nist-ai.png" position="center" >}}
 
 07/05/25: 📺 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.*
 
@@ -53,7 +57,11 @@ title: "News and Updates"
 
 05/11/25: Charlene and Leyla presented their poster at NJWEA Annual Conference in Atlantic City, NJ 
 
-04/29/25: Aanand and Ella, Charlene and Leyla, and Bobo presented their research posters at the Aresty Symposium at Rutgers.
+{{< figure src="25-05-njwea.jpg" position="center" >}}
+
+04/29/25: Aanand, Bobo, Charlene, Ella,  and Leyla presented their research posters at the Aresty Symposium at Rutgers.
+
+{{< figure src="25-04-aresty.png" position="center" >}}
 
 📑 Paper: [Foresight 2035: a perspective on the next decade of research on the management of *Legionella* spp. in engineered aquatic environments](https://pubmed.ncbi.nlm.nih.gov/40424003/). *FEMS Microbiology Reviews.*
 
