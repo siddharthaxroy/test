@@ -9,7 +9,11 @@ title: "News and Updates"
 
 #### 2025: 
 
-12/09/25: Jennie was a panelist and presented on her ongoing research at the Rural Water Supply Network webinar [*Rapid corrosion of handpumps - can we finally address this issue?*](https://www.rural-water-supply.net/_ressources/documents/default/1-1348-74-1765284752.pdf)
+12/11/25: Eve co-led a session on projecting NJ children from waterborne lead in their schools alongside The Watershed Institute's JoLynn Moloughney and Jersey Water Works' Heather Sorge at the [Jersey Water Works 2025 Conference](https://www.jerseywaterworks.org/events/annual-conference/2025/).
+
+{{< figure src="25-12-jww.png" position="center" >}}
+
+12/09/25: Jennie was a panelist and presented on her ongoing research at the Rural Water Supply Network webinar [*Rapid corrosion of handpumps - can we finally address this issue?*](https://www.rural-water-supply.net/_ressources/documents/default/1-1348-74-1765284752.pdf) with colleagues from across Europe and Africa.
 
 {{< figure src="25-12-corrosion.png" position="center" >}}
 
@@ -21,15 +25,19 @@ title: "News and Updates"
 
 11/25/25 📰 Newspaper: [From Harvard to BU to Brown, New England schools are enrolling fewer new PhDs this year. Why?](https://www.bostonglobe.com/2025/11/25/business/phd-programs-harvard-bu-brown/). *Boston Globe.*
 
-10/23/25: Charlene and Sid went to the Lead Free Expo in Chester, PA, to publicize our ongoing study and conduct real-time lead testing for community members. (Thank you, NIEHS and Penn Medicine, for funding this work!)
+10/30/25: Conference: Sid participated in a Side Event organized by the [Global Lead Free Water Initiative](www.globalleadfreewater.org) at the UNC Water and Health Conference 2025.
+
+{{< youtube 88MvigbfgEo >}}
+
+10/23/25: Charlene led our efforts at the Lead Free Expo in Chester, PA, to publicize our ongoing study and conduct real-time lead testing for community members. (Thank you, NIEHS and Penn Medicine, for funding this work!)
 
 {{< figure src="25-10-chester.jpg" position="center" >}}
 
-10/02/25: The UW RAPID facility sent us their Bruker XRF to conduct a laboratory challenge study. Eve and Charlene had a grand time running a between-device comparison with our lab's in-house Vanta XRF. Photos to come. (Thank you, NIEHS and Penn Medicine, for funding this work! And thank you, Jaq and colleagues from RAPID and NSF/NIH, for providing researchers nationwide with inexpensive access to cutting-edge instrumentation.)
+10/02/25: The University of Washington RAPID facility sent us their Bruker XRF to conduct a laboratory challenge study. Eve and Charlene had a grand time running a between-device comparison with our lab's in-house Vanta XRF. Photos to come. (Thank you, NIEHS and Penn Medicine, for funding this work! And thank you, Jaq and colleagues from RAPID and NSF/NIH, for providing researchers nationwide with inexpensive access to cutting-edge instrumentation.)
 
 {{< figure src="25-11-xrf-duel.jpg" position="center" >}}
 
-09/30/25: Eve and Sid went to the NJ Department of Environmental Protection's Listening session at Eva's Village in Paterson to publicize our ongoing flooding research and recruit participants. (Thank you, USGS, for funding this research!)
+09/30/25: Eve led our team at the NJ Department of Environmental Protection's Listening session at Eva's Village in Paterson to publicize our ongoing flooding research and recruit participants. (Thank you, USGS, for funding this research!)
 
 {{< figure src="25-09-njdep.jpg" position="center" >}}
 
@@ -49,7 +57,9 @@ title: "News and Updates"
 
 {{< figure src="25-07-nist-ai.png" position="center" >}}
 
-07/05/25: 📺 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.*
+07/05/25: 📺 HxA 2025 Conference Panel: [The Well-intended Perversion of Science](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science). *Free the Inquiry Substack.*
+
+{{< youtube seOvuKdnfIA >}}
 
 06/19/25: 🔬 Preprint: [Lead (Pb) leaching from galvanized handpump tanks, leaded brass taps, and stainless-steel alternatives used in rural LMIC settings using NSF 61 protocol](https://eartharxiv.org/repository/view/9456/). *Under Review.*
 
