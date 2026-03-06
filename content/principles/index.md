@@ -9,7 +9,6 @@ This is a personal living document, subject to frequent revision.
 
 तस्माद् अज्ञान-सम्भूतं हृत्-स्थं ज्ञानासिनात्मनः ।
 छित्त्वैनं संशयं योगम् आतिष्ठोत्तिष्ठ भारत ॥ ४२ ॥
-
 "Therefore, with the sword of knowledge, cut asunder the doubts that have arisen in your heart." (partial translation) - Bhagavad Gita 4.42
 
 ### Science:
