@@ -9,7 +9,7 @@ title: "News and Updates"
 
 #### 2025: 
 
-12/11/25: Eve co-led a session on projecting NJ children from waterborne lead in their schools alongside The Watershed Institute's JoLynn Moloughney and Jersey Water Works' Heather Sorge at the [Jersey Water Works 2025 Conference](https://www.jerseywaterworks.org/events/annual-conference/2025/).
+12/11/25: Eve co-led a session on protecting NJ children from waterborne lead in their schools alongside The Watershed Institute's JoLynn Moloughney and Jersey Water Works' Heather Sorge at the [Jersey Water Works 2025 Conference](https://www.jerseywaterworks.org/events/annual-conference/2025/).
 
 {{< figure src="25-12-jww.png" position="center" >}}
 
