@@ -32,25 +32,6 @@
   --topbar-text:#7A9BAA;
 }
 
-/* ── MARKDOWN TYPOGRAPHY ─────────────────────────────────────── */
-
-.content p {
-  margin-bottom: 1.1rem;
-  max-width: 65ch;
-  line-height: 1.75;
-}
-
-.content p:last-child {
-  margin-bottom: 0;
-}
-
-/* Optional: respect manual line breaks */
-/*
-.content p {
-  white-space: pre-line;
-}
-*/
-
 /* ── RESET ────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; font-size: 16px; }
