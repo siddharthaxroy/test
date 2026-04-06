@@ -1,5 +1,5 @@
 /* ================================================================
-   ROY WATER LAB — SHARED STYLESHEET
+   ROY LAB — SHARED STYLESHEET
    B2 "River Stone" palette
    Edit tokens in :root to retheme the entire site at once.
    ================================================================ */
@@ -31,6 +31,16 @@
   --topbar-bg:  #E4EDF2;
   --topbar-text:#7A9BAA;
 }
+
+/* ── TYPOGRAPHY ───────────────────────────────────────────────── */
+p {
+  margin-bottom: 1rem;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+``
 
 /* ── RESET ────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
