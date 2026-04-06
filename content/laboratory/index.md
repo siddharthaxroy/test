@@ -12,7 +12,7 @@ title: "People"
 
 [Advising before Rutgers](#before)
 
-[Approach to Science Communication](/communicate/)
+[Approach to Science Communication](/communicate/)  
 
 ------
 
@@ -56,11 +56,12 @@ In alphabetical order by last name.
 
 **Not pictured**
 - Eva Rehman, Biotechnology, Spring 2024
-- Bhuvan Bugude, Biology/Pre-Med, Spring 2024
+- Bhuvan Bugude, Biology/Pre-Med, Spring 2024  
 
 -----
 
-### Awards and Scholarships to student advisees {#awards}
+### Awards and Scholarships to student advisees {#awards}  
+
 **National level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
@@ -78,10 +79,10 @@ In alphabetical order by last name.
 
 -----
 
-## Advising before Rutgers {#before}
+## Advising before Rutgers {#before}  
 
 #### UNC Chapel Hill
-- Kyle Rezek, MSPH graduate committee member and advisor on lead leaching experiments using NSF-61 test water and blood lead modeling projects (graduated 2024)
+- Kyle Rezek, MSPH graduate committee member and advisor on lead leaching experiments using NSF-61 test water and blood lead modeling projects (graduated 2024)  
 
 #### Virginia Tech (lead advisor Dr. Marc Edwards)
 **Graduate Students**
@@ -90,8 +91,8 @@ In alphabetical order by last name.
 - Frank Mazzola (last known: PhD candidate, Virginia Tech), Engineering Ethics and the Public graduate students' perceptions survey (co-first author on peer-reviewed article under review), 2021-23
 - Dr. Kathryn Lopez (last known: ORISE Postdoc, US EPA) Blood lead modeling in three US cities and water sampling in the Chicago metropolitan area (co-author on peer-reviewed article in ACS ES&T Water), 2018-19
 - Dr. Taylor Lightner (last known: Research Associate, Quality Education for Minorities Network), Narrative Analysis of Engineering Graduate Students’ Journeys Navigating Public-Inspired Science Work (co-author on peer-reviewed conference article in ASEE Annual Conference 2021), 2020-21
-- Tolulope Odimayomi (last known: Ph.D. candidate, Virginia Tech),	Biosolids monitoring as an independent method for tracking population-level water lead exposure (AWWA ACE national conference poster awardee; manuscript underway) and citizen science sampling for opportunistic pathogens (co-author on peer-reviewed article in ACS ES&T Water), 2020-22
-
+- Tolulope Odimayomi (last known: Ph.D. candidate, Virginia Tech),	Biosolids monitoring as an independent method for tracking population-level water lead exposure (AWWA ACE national conference poster awardee; manuscript underway) and citizen science sampling for opportunistic pathogens (co-author on peer-reviewed article in ACS ES&T Water), 2020-22  
+  
 **Undergraduate Students**
 - Minyoung Choi, Lead in drinking water and public trust in Chicago survey (manuscript underway), 2020-21
 - Fadi Hindi, Lead in drinking water and public trust in Chicago (manuscript underway), 2020-21
@@ -103,6 +104,6 @@ In alphabetical order by last name.
 - Philip Smith, Erosion Corrosion and Cavitation in Copper and Nonleaded Alloys used in potable water systems (co-author on peer-reviewed article in CORROSION), 2015-17
 - Brenda Velasco, Competition for engineering tenure-track faculty positions in the United States (co-author on peer-reviewed article in PNAS Nexus), 2020-21
 - Zihan Wang, Erosion Corrosion in Copper and Nonleaded Alloys used in potable water systems, 2014-15
-- Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20
+- Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20  
 
 Last updated: October 2025
