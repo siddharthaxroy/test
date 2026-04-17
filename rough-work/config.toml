@@ -1,0 +1,52 @@
+baseURL = "/"
+languageCode = "en-us"
+
+keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking water", "waterborne lead", "corrosion", "science communication", "ted talks", "rutgers", "rural water", "disasters", "sdg 6.1"]
+
+title = "Siddhartha Roy's Group at Rutgers University"
+
+theme="hello-friend"  
+
+googleAnalytics = "UA-177557791-1"
+
+[params]
+contentTypeName = "/"
+
+defaultTheme="light"
+
+hideReadMore=true
+
+# customCSS = ["/style.css"]
+
+[languages.en.params.logo]
+logoText = "Aquatic Alchemists"
+logoHomeLink = "/"
+path = "/img/logo.png"
+alt = "Siddhartha Roy"
+
+enableEmoji = "true"
+
+[[menu.main]]
+    url = "/laboratory/"
+    name = "People"
+    weight = 2
+    
+[[menu.main]]
+    url = "/articles/"
+    name = "Publications"
+    weight = 1
+
+[[menu.main]]
+    url = "/public/"
+    name = "Outreach"
+    weight = 4
+
+[[menu.main]]
+    url = "/hiring/"
+    name = "Hiring"
+    weight = 3
+
+[[menu.main]]
+    url = "/news/"
+    name = "News"
+    weight = 5
