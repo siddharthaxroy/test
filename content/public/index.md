@@ -1,7 +1,7 @@
----
-description: "TED, documentaries, op-eds, podcasts, and popular media"
-title: "Public Understanding of Science"
----
++++
+title = "Public Understanding of Science"
+description = "TED, documentaries, op-eds, podcasts, and popular media""
++++
 
 [TED Talk](#ted)
 
