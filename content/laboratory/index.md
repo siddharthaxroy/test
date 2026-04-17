@@ -1,10 +1,10 @@
 ---
 title: "People"
 cover: "img/collage.png"
-description: "Meet our team of researchers and students"
+description: "Meet our team of researchers"
 ---
 
-1. [Graduate Students and Postdoctoral Researchers](#graduate-students)
+1. [Graduate and Postdoctoral Researchers](#graduate-students)
 2. [Undergraduate Researchers](#undergraduates)
 3. [Lab Alumni](#alumni)
 4. [Student Awards & Recognition](#awards)
