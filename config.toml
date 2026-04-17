@@ -30,6 +30,8 @@ contentTypeName = "/"
 
   # Social (optional)
   twitter = "siddharthaxroy"
+  substack = "https://siddhartharoy.substack.com/"
+  googlescholar = "https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl=en"
 
 # defaultTheme="light"
 
