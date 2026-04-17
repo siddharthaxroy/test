@@ -26,13 +26,7 @@ Members listed in alphabetical order by last name.
  
 ## Lab Alumni {#alumni}
  
-- Olivia Ackerson, Environmental Science, Undergraduate Researcher (Jan-Dec 2024). Research Topic: Policies to mitigate lead in drinking water in low- and middle-income countries; Lead in Chicago's water supply and consumer trust/public perceptions.
--  Bobo Au-Yeung, Psychology & Criminal Justice, Aresty Research Assistant (Sep 2024-Apr 2025). Research Topic: Identify and formulate intervention processes to alleviate psychological effects of negative messaging (nocebo), particularly in children post-environmental crises. Poster presented at Aresty Research Symposium.
--  Ishani Bhaumik, Chemistry, Aresty Research Assistant (Sep-Dec 2024). Research Topic: Investigate trends of lead release from pipes into potable water in New Jersey.
-- Daniella Mangibin, Computer Science & Data Science, Aresty Research Assistant (Sep 2024-Apr 2025). Research Topic:  Build a deep learning model focused on corrosion in potable water pipes and plumbing. Poster presented at Aresty Research Symposium.
-- Leyla Muñoz, Public Health, Aresty Research Assistant (Sep 2024-Apr 2025). Research Topic: Wastewater and blood lead surveillance; Updates on the Flint Water Crisis. Multiple poster presentations at Aresty Research Symposium, NJWEA Annual Conference 2025, and WPU Annual Research Symposium.
-- Bhuvan Bugude, Biology and Pre-Med, Science Communication Intern (Spring 2024). 
-- Eva Rehman, Biotechnology, Science Communication Intern (Spring 2024). 
+{{< alumni >}}
 
 -----
 
