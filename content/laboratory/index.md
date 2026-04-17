@@ -4,13 +4,13 @@ cover: "img/collage.png"
 description: "Meet our team of researchers and students"
 ---
 
-[Graduate Students and Postdoctoral Researchers](#graduate-students)
-[Undergraduate Researchers](#undergraduates)
-[Lab Alumni](#alumni)
-[Student Awards & Recognition](#awards)
-[Advising before Rutgers](#advising)
+1. [Graduate Students and Postdoctoral Researchers](#graduate-students)
+2. [Undergraduate Researchers](#undergraduates)
+3. [Lab Alumni](#alumni)
+4. [Student Awards & Recognition](#awards)
+5. [Advising before Rutgers](#advising)
 
-Laboratory Members listed in alphabetical order by last name.
+Members listed in alphabetical order by last name.
  
 ## Graduate Students & Postdoctoral Researchers {#graduate-students}
 
