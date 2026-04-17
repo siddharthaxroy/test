@@ -4,6 +4,123 @@
    Dark footer (#0d0d0d) with three-column layout
    ================================================================ */
 
+/* ── SUPPORT BANNER ────────────────────────────────────────────── */
+.support-banner {
+  background: linear-gradient(135deg, #FDF0F2 0%, #fff5f7 100%);
+  border-bottom: 2px solid #CC0033;
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 101;
+}
+
+.support-banner__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.support-banner__content {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex: 1;
+}
+
+.support-banner__icon {
+  font-size: 1.5rem;
+  flex: 0 0 auto;
+}
+
+.support-banner__text {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.95rem;
+  color: #202B30;
+  font-weight: 500;
+}
+
+.support-banner__link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #CC0033;
+  text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  transition: color 0.3s ease, gap 0.3s ease;
+}
+
+.support-banner__link:hover {
+  color: #aa0028;
+  gap: 0.75rem;
+}
+
+.support-banner__arrow {
+  width: 16px;
+  height: 16px;
+  transition: transform 0.3s ease;
+}
+
+.support-banner__link:hover .support-banner__arrow {
+  transform: translateX(2px);
+}
+
+.support-banner__close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #5D7E8C;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.3s ease;
+  flex: 0 0 auto;
+}
+
+.support-banner__close:hover {
+  color: #CC0033;
+}
+
+.support-banner__close svg {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 768px) {
+  .support-banner__inner {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .support-banner__content {
+    width: 100%;
+    order: 1;
+  }
+
+  .support-banner__link {
+    order: 2;
+  }
+
+  .support-banner__close {
+    order: 3;
+  }
+
+  .support-banner__text {
+    font-size: 0.85rem;
+  }
+
+  .support-banner__link {
+    font-size: 0.8rem;
+  }
+}
+
 /* ── HEADER ─────────────────────────────────────────────────────── */
 .header {
   background: #1a1a1a;
@@ -195,215 +312,133 @@
 
 /* ================================================================
    FOOTER STYLING
-   Dark background (#0d0d0d) with three-column layout
+   Minimal design with maroon border, gray line, and Rutgers logo
    ================================================================ */
 
 .footer {
-  background: #0d0d0d;
-  color: #b0b0b0;
-  padding: 3rem 0 0;
+  background: #ffffff;
+  color: #202B30;
   margin-top: 4rem;
-  border-top: 1px solid #333;
+  padding: 0;
+}
+
+/* Border lines at top */
+.footer__borders {
+  height: 4px;
+  background: #CC0033;
+  border-bottom: 1px solid #d0d0d0;
 }
 
 .footer__inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 3rem 1.5rem;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 3rem;
-}
-
-.footer__column {
-  padding-right: 1rem;
-}
-
-.footer__column--contact {
-  border-right: 1px solid #333;
-}
-
-.footer__column--links {
-  border-right: 1px solid #333;
-  padding: 0 1rem;
-}
-
-.footer__column--social {
-  padding-left: 1rem;
-}
-
-/* Column Headings */
-.footer__heading {
-  font-family: 'Work Sans', sans-serif;
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: #ffffff;
-  margin: 0 0 1rem 0;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid #333;
-}
-
-/* Contact Info */
-.footer__contact-info {
-  font-size: 0.9rem;
-  line-height: 1.8;
-}
-
-.footer__contact-info p {
-  margin: 0.5rem 0;
-}
-
-.footer__contact-info a {
-  color: #b0b0b0;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: color 0.3s ease, border-color 0.3s ease;
-}
-
-.footer__contact-info a:hover {
-  color: #CC0033;
-  border-bottom-color: #CC0033;
-}
-
-.footer__contact-info strong {
-  color: #ffffff;
-  font-weight: 600;
-}
-
-/* Menu Links */
-.footer__menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.footer__menu li {
-  margin: 0.6rem 0;
-}
-
-.footer__menu a {
-  color: #b0b0b0;
-  text-decoration: none;
-  font-size: 0.95rem;
-  border-bottom: 1px solid transparent;
-  transition: color 0.3s ease, border-color 0.3s ease;
-}
-
-.footer__menu a:hover {
-  color: #CC0033;
-  border-bottom-color: #CC0033;
-}
-
-/* Social Links */
-.footer__social {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.footer__social li {
-  margin: 0.6rem 0;
-}
-
-.footer__social a {
-  color: #b0b0b0;
-  text-decoration: none;
-  font-size: 0.95rem;
-  border-bottom: 1px solid transparent;
-  transition: color 0.3s ease, border-color 0.3s ease;
-}
-
-.footer__social a:hover {
-  color: #CC0033;
-  border-bottom-color: #CC0033;
-}
-
-/* Copyright Section */
-.footer__bottom {
-  border-top: 1px solid #333;
   padding: 2rem 1.5rem;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+/* Left Side: Address and Copyright */
+.footer__left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footer__address {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #202B30;
+  margin: 0;
+  line-height: 1.4;
 }
 
 .footer__copyright {
-  margin: 0;
+  font-family: 'Work Sans', sans-serif;
   font-size: 0.85rem;
   color: #666;
+  margin: 0;
+  line-height: 1.4;
 }
 
-.footer__copyright a {
-  color: #b0b0b0;
-  text-decoration: none;
-  transition: color 0.3s ease;
+/* Right Side: Logo */
+.footer__right {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
-.footer__copyright a:hover {
-  color: #CC0033;
+.footer__logo {
+  max-height: 60px;
+  width: auto;
+  object-fit: contain;
 }
 
 /* ── RESPONSIVE FOOTER ────────────────────────────────────────── */
 @media (max-width: 900px) {
   .footer__inner {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
+    flex-wrap: wrap;
+    gap: 1.5rem;
   }
 
-  .footer__column--contact {
-    grid-column: 1 / -1;
-    border-right: none;
-    border-bottom: 1px solid #333;
-    padding-bottom: 2rem;
+  .footer__left {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
   }
 
-  .footer__column--links {
-    border-right: none;
-    padding: 0;
+  .footer__address,
+  .footer__copyright {
+    flex: 0 1 auto;
+    white-space: nowrap;
   }
 
-  .footer__column--social {
-    padding-left: 0;
+  .footer__right {
+    width: 100%;
+    justify-content: flex-end;
+  }
+
+  .footer__logo {
+    max-height: 50px;
   }
 }
 
 @media (max-width: 600px) {
   .footer {
-    padding-top: 2rem;
     margin-top: 2rem;
   }
 
   .footer__inner {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-    padding: 2rem 1rem;
-  }
-
-  .footer__column {
-    padding-right: 0;
-    padding-left: 0;
-  }
-
-  .footer__column--contact {
-    border-right: none;
-    border-bottom: 1px solid #333;
-    padding-bottom: 2rem;
-  }
-
-  .footer__column--links {
-    border-right: none;
-    padding: 0;
-  }
-
-  .footer__column--social {
-    padding-left: 0;
-  }
-
-  .footer__bottom {
     padding: 1.5rem 1rem;
+    flex-direction: column;
+    gap: 1rem;
   }
 
+  .footer__left {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .footer__address,
   .footer__copyright {
-    font-size: 0.8rem;
+    white-space: normal;
+    font-size: 0.85rem;
+  }
+
+  .footer__right {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .footer__logo {
+    max-height: 45px;
   }
 }
