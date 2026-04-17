@@ -5,7 +5,11 @@ keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking w
 
 title = "Siddhartha Roy's Group at Rutgers University"
 
-theme="roy-lab"  
+theme="hello-friend-2" 
+
+defaultTheme="light"
+
+hideReadMore=true
 
 [params]
 contentTypeName = "/"
