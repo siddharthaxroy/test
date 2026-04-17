@@ -1,11 +1,22 @@
 :root {
-  /* light theme color */
-  --background: #fff;
-  --background-secondary: #eaeaea;
-  --header: #fafafa;
-  --color: #222;
-  --color-secondary: #999;
-  --border-color: #dcdcdc;
+  /* Roy Water Lab Design System */
+
+  /* Primary Colors */
+  --scarlet: #CC0033;
+  --scarlet-dark: #aa0028;
+
+  /* Light Theme Colors */
+  --background: #f8f8f8;
+  --background-secondary: #fafafa;
+  --header: #1a1a1a;
+  --color: #202B30;
+  --color-secondary: #5D7E8C;
+  --border-color: #e0e0e0;
+  --white: #ffffff;
+
+  /* Footer & Dark Areas */
+  --footer: #0d0d0d;
+  --dark: #1a1a1a;
 
   /* variables for js, must be the same as these in @custom-media queries */
   --phoneWidth: (max-width: 684px);
@@ -13,13 +24,13 @@
 }
 
 body.dark-theme {
-  /* dark theme colors */
-  --background: #292a2d;
-  --background-secondary: #3b3d42;
-  --header: #252627;
-  --color: #a9a9b3;
-  --color-secondary: #73747b;
-  --border-color: #4a4b50;
+  /* Dark theme colors - disabled for this design */
+  --background: #f8f8f8;
+  --background-secondary: #fafafa;
+  --header: #1a1a1a;
+  --color: #202B30;
+  --color-secondary: #5D7E8C;
+  --border-color: #e0e0e0;
 }
 
 @custom-media --phone (width < 684px);

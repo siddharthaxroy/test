@@ -13,20 +13,29 @@
   --color: rgba(0, 0, 0, .12);
   --shadow: 0 8px 20px var(--color);
 
-  border-right: 1px solid;
-  margin-right: 18px;
-  padding-right: 24px;
+  border-right: none;
+  margin-right: 0;
+  padding-right: 0;
   font-weight: 500;
+  font-family: 'Work Sans', sans-serif;
+  color: white;
 
   @media (--phone) {
     @mixin menu;
     border: none;
     top: 50px;
     right: 10px;
+    background: var(--white);
   }
 
   a {
     text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+
+    &:hover {
+      color: var(--scarlet);
+    }
   }
 
   &__inner {
