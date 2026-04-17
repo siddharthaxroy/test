@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Research Focus</div>
+    <h2>Lead in Drinking Water</h2>
+    <p>Understanding the electrochemistry of lead corrosion, designing affordable solutions, and empowering communities through citizen science to ensure safe water for every home.</p>
+    <div class="hero-buttons">
+      <a href="/research/" class="btn btn-primary">Explore Research</a>
+      <a href="/about/" class="btn btn-secondary">Learn More</a>
+    </div>
+  </div>
+</section>
+
+<!-- Focus Areas -->
+{{ if .Params.focusAreas }}
+<section class="focus-section">
+  <div class="section-container">
+    <h2 class="section-title">Research Focus Areas</h2>
+    <div class="cards-grid">
+      {{ range .Params.focusAreas }}
+        <div class="card">
+          <div class="card-icon">{{ .icon }}</div>
+          <h3>{{ .title }}</h3>
+          <p>{{ .description }}</p>
+          <a href="{{ .link }}" class="card-link">Learn More →</a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- Stats Section -->
+{{ if .Params.stats }}
+<section class="stats-section">
+  <div class="stats-grid">
+    {{ range .Params.stats }}
+      <div class="stat-item">
+        <h3>{{ .number }}</h3>
+        <p>{{ .label }}</p>
+      </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}
