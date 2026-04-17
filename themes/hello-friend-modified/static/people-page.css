@@ -1,0 +1,322 @@
+/* ================================================================
+   PEOPLE PAGE STYLING
+   Professional card-based layout with photos and bios
+   ================================================================ */
+
+.people-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ── INTRODUCTION SECTION ───────────────────────────────────────── */
+.people-intro {
+  padding: 3rem 0;
+  text-align: center;
+  border-bottom: 2px solid var(--border-color, #C5D8DF);
+  margin-bottom: 3rem;
+}
+
+.people-intro__content h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--dark-text, #202B30);
+  margin: 0 0 1rem 0;
+  line-height: 1.1;
+}
+
+.people-intro__content p {
+  font-family: 'Merriweather', serif;
+  font-size: 1.1rem;
+  color: var(--gray-text, #5D7E8C);
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+@media (max-width: 768px) {
+  .people-intro__content h1 {
+    font-size: 2rem;
+  }
+
+  .people-intro__content p {
+    font-size: 1rem;
+  }
+
+  .people-intro {
+    padding: 2rem 0;
+  }
+}
+
+/* ── NAVIGATION MENU ────────────────────────────────────────────– */
+.people-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+  padding: 2rem 0;
+  border-bottom: 2px solid var(--border-color, #C5D8DF);
+}
+
+.people-nav__link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--light-gray, #f8f8f8);
+  color: var(--primary-color, #CC0033);
+  text-decoration: none;
+  border-radius: 4px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background 0.3s ease, color 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.people-nav__link:hover {
+  background: var(--primary-color, #CC0033);
+  color: #ffffff;
+  border-color: var(--primary-color, #CC0033);
+}
+
+@media (max-width: 600px) {
+  .people-nav {
+    gap: 0.5rem;
+  }
+
+  .people-nav__link {
+    padding: 0.6rem 1rem;
+    font-size: 0.85rem;
+  }
+}
+
+/* ── GRID LAYOUT ────────────────────────────────────────────────– */
+.people-grid {
+  display: grid;
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.people-grid--3col {
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+@media (max-width: 900px) {
+  .people-grid--3col {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .people-grid--3col {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── PERSON CARD ────────────────────────────────────────────────– */
+.person-card {
+  background: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  border: 1px solid var(--border-color, #C5D8DF);
+}
+
+.person-card:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  transform: translateY(-4px);
+}
+
+/* Person Card Image */
+.person-card__image {
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+  background: var(--gray-bg, #f2f5f7);
+}
+
+.person-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Person Card Content */
+.person-card__content {
+  padding: 1.5rem;
+}
+
+.person-card__name {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--dark-text, #202B30);
+  margin: 0 0 0.5rem 0;
+  line-height: 1.2;
+}
+
+.person-card__role {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--primary-color, #CC0033);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 1rem 0;
+  line-height: 1.5;
+}
+
+.person-card__bio {
+  font-family: 'Merriweather', serif;
+  font-size: 0.95rem;
+  color: var(--gray-text, #5D7E8C);
+  line-height: 1.7;
+  margin: 0;
+}
+
+.person-card__bio strong {
+  color: var(--dark-text, #202B30);
+  font-weight: 600;
+}
+
+.person-card__bio em {
+  color: var(--gray-text, #5D7E8C);
+  font-style: italic;
+}
+
+/* ── SECTION HEADINGS ───────────────────────────────────────────– */
+.people-page h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--dark-text, #202B30);
+  margin: 3rem 0 2rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid var(--primary-color, #CC0033);
+  line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+  .people-page h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* ── FOOTER TEXT ────────────────────────────────────────────────– */
+.people-footer {
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.85rem;
+  color: var(--gray-text, #5D7E8C);
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color, #C5D8DF);
+}
+
+/* ── ALUMNI & AWARDS SECTIONS ───────────────────────────────────– */
+.people-page h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--dark-text, #202B30);
+  margin: 1.5rem 0 0.75rem 0;
+}
+
+.people-page h4 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--primary-color, #CC0033);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.9rem;
+}
+
+.people-page ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0;
+}
+
+.people-page ul li {
+  margin: 0.75rem 0;
+  padding-left: 0;
+  font-family: 'Merriweather', serif;
+  color: var(--gray-text, #5D7E8C);
+  line-height: 1.7;
+}
+
+.people-page ul li strong {
+  color: var(--dark-text, #202B30);
+  font-weight: 600;
+}
+
+.people-page ul li em {
+  font-style: italic;
+  color: var(--gray-text, #5D7E8C);
+}
+
+/* ── RESPONSIVE ADJUSTMENTS ─────────────────────────────────────– */
+@media (max-width: 768px) {
+  .people-page {
+    padding: 0 1rem;
+  }
+
+  .person-card__image {
+    height: 240px;
+  }
+
+  .person-card__content {
+    padding: 1.25rem;
+  }
+
+  .person-card__name {
+    font-size: 1.15rem;
+  }
+
+  .person-card__bio {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .people-page {
+    padding: 0 0.75rem;
+  }
+
+  .person-card__image {
+    height: 200px;
+  }
+
+  .person-card__content {
+    padding: 1rem;
+  }
+
+  .person-card__name {
+    font-size: 1rem;
+  }
+
+  .person-card__role {
+    font-size: 0.75rem;
+  }
+
+  .person-card__bio {
+    font-size: 0.85rem;
+  }
+}
+
+/* ── PRINT STYLES ───────────────────────────────────────────────– */
+@media print {
+  .people-nav {
+    display: none;
+  }
+
+  .person-card {
+    page-break-inside: avoid;
+  }
+}
