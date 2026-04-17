@@ -5,7 +5,7 @@ keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking w
 
 title = "Siddhartha Roy's Group at Rutgers University"
 
-theme="hello-friend" 
+theme="hello-friend-modified" 
 
 defaultTheme="light"
 
@@ -69,15 +69,3 @@ enableEmoji = "true"
     url = "/news/"
     name = "News"
     weight = 5
-
-[permalinks]
-  blog = "/news/:year/:month/:day/:slug/"
-
-[outputs]
-  home = ["HTML"]
-  page = ["HTML"]
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
