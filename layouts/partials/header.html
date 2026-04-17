@@ -1,26 +1,29 @@
-<head>
-  {{ template "_internal/google_analytics.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
-   <link href="https://fonts.googleapis.com/css2?family=Atma:wght@600&family=Great+Vibes&family=Hind+Vadodara:wght@400;600&family=Mina:wght@400;700&family=Noto+Sans:wght@400;700&family=Satisfy&family=Staatliches&family=Tillana:wght@400;600&display=swap" rel="stylesheet"> 
-</head>
-
-
+<!-- Roy Water Lab Custom Header - Dark with Maroon Border -->
 <header class="header">
-  <span class="header__inner">
-    {{ partial "logo.html" . }}
+  <div class="header__inner">
+    <!-- Logo Section -->
+    <div class="header__logo">
+      {{ partial "logo.html" . }}
+    </div>
+
+    <!-- Navigation - Always Visible -->
+    {{ if len $.Site.Menus.main }}
+      <nav class="header__nav">
+        <ul class="menu__main">
+          {{ range .Site.Menus.main }}
+            <li class="menu__item">
+              <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </nav>
+    {{ end }}
+
+    <!-- Right Side - Theme Toggle -->
     <span class="header__right">
-      {{ if len $.Site.Menus }}
-        {{ partial "menu.html" . }}
-        <span class="menu-trigger">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
-          </svg>
-        </span>
-      {{ end }}
-<!--       <span class="theme-toggle">
-        {{ partial "theme-icon.html" . }} 
-      </span> -->
+      <span class="theme-toggle">
+        {{ partial "theme-icon.html" . }}
+      </span>
     </span>
-  </span>
+  </div>
 </header>
