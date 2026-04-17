@@ -1,58 +1,217 @@
 ---
 title: "People"
+description: "Meet the team of researchers, students, and advisees working in this research group."
 ---
 
 ------
 
-[People](#people)
-
-[Lab Alumni](#alumni)
-
-[Awards to Advisees](#awards)
-
-[Advising before Rutgers](#before)
-
-[Approach to Science Communication](/communicate/)  
+<div class="people-page">
+<div class="people-intro">
+  <div class="people-intro__content">
+    <h1>Meet Our Team</h1>
+    </div>
+</div>
+<div class="people-nav">
+  <a href="#graduate-students" class="people-nav__link">Graduate Students and Postdoctoral Researchers</a>
+  <a href="#undergraduates" class="people-nav__link">Undergraduate Researchers</a>
+  <a href="#alumni" class="people-nav__link">Alumni</a>
+  <a href="#awards" class="people-nav__link">Awards & Recognition</a>
+  <a href="#advising" class="people-nav__link">Advising before Rutgers</a>
+</div>
 
 ------
 
 ## People {#people}
 In alphabetical order by last name.
 
-### Graduate Students and Postdoctoral Researchers
-
-| Headshot and Biography |
-|:--------|
-| {{< image src="aanand-aggarwal.jfif" width="100" height="100" style="object-fit: cover; border-radius: 50%;" >}} **Aanand Aggarwal, Data Science, Graduate Researcher** <br> \| Aanand Aggarwal is a researcher with Dr. Roy's lab and a Master of Information in Data Science candidate at Rutgers University, where he also earned dual bachelor's degrees in Computer Science (B.S.) and IT & Informatics (B.A.). His research, which began in the Aresty program, utilizes Python and AI/ML techniques to automate the classification of corrosion images. He plans to apply this background in the health tech sector, aiming to address challenges in medical diagnostics and health equity. |
-| {{< image src="eve-butterworth.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Eve Butterworth, Environmental Science, PhD student** <br> \| I am Eve Butterworth, a first-year PhD student in the Roy Lab. I graduated from Wellesley College in 2025 with a BA in Geosciences, focusing on environmental geochemistry and environmental justice. In the Roy Lab, I research urban water contamination in New Jersey, including lead in schools and contaminants in tap and flood waters following natural disasters. I am passionate about environmental justice and health equity. Throughout my PhD, I aim to build relationships between the Roy Lab and nearby environmentally at-risk communities, mentor within the lab, and contribute to making water safer for people in New Jersey and around the world. |
-| {{< image src="jennie-fleurant.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Gael (Jennie) Fleurant, Environmental Science, PhD student** <br> \| Gael (Jennie) Fleurant is a PhD student in Environmental Science at Rutgers University. Her research focuses on drinking water quality, with an emphasis on corrosion, metal leaching, and safe material use in decentralized water systems such as private wells, borehole handpumps, and small community supplies. Her work aims to improve understanding of corrosion processes and inform safer material choices for drinking water systems in low- and middle-income countries. She previously earned her master’s degree in environmental engineering at the University of Colorado Boulder, and a Bachelor’s degree in Environmental Science at Metropolitan State University of Denver. Jennie’s broader research interests include water treatment, contaminant fate and transport, and sustainable approaches for ensuring safe drinking water access. Outside of research, she enjoys hiking, playing volleyball, and exploring local coffee shops. |
-| {{< image src="emily-newton.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Emily Newton, Environmental Science, Masters student** <br> \| My name is Emily Newton, and I am a master's environmental science student with a bachelor's in forensic science. I am looking to work in the forensic environmental science field, including contamination and ecological crimes. Additionally, I am passionate about entomology and its relevance in these topics. My experience is in connecting entomology and molecular biology laboratory work, and investigating environmental site contamination. This year, I will focus on one contamination event to give it the attention it did not receive. |
-
-
-### Undergraduate Students
-
-| Headshot and Biography |
-|:--------|
-| {{< image src="aniya-elliott.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Aniya Elliott, Public Health, Aresty RA** <br> \| Hi, my name is Aniya Elliott and I’m a senior at Rutgers University–New Brunswick majoring in Public Health with a certificate in Cancer Epidemiology and Surveillance. I’m passionate about toxicology, environmental health impacts, and mobility issues in relation to community health, and I plan to pursue a career in medicine as either a DO or DPM. Outside of research and academics, I’m a Resident Assistant, volunteer at RWJ, and serve as Community Service Chair for the Haitian Association. A few fun facts about me: I grew up between Brooklyn and Plainfield, I’m the oldest of five siblings, I have a Pomeranian named Nugget, and I love writing novels, designing graphics, and listening to Caribbean music. |
-| {{< image src="charlene-guo.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Charlene Guo, Environmental Science, Honors Thesis Research** <br> \| My name is Charlene Guo, and I’m a junior majoring in Environmental Science at Rutgers University. My research interests include water quality management, heavy metal contamination, exposure science, and public health, with a focus on the intersection of environmental pollutants and human health risk. My prior research and work experiences include biosolids data analysis, environmental monitoring, and public-sector drinking water management. My current project within the lab focuses on lead exposure from contaminated spices and its implications for public health using biokinetic modeling. |
-| {{< image src="juliana-jusino.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Juliana Jusino, Environmental Science, Aresty RA** <br> \| I'm Juliana Jusino and I am a senior majoring in Environmental Science with a focus in Environmental Health. My professional interests include Stormwater Management and Water Quality. I have a strong interest in chemistry and have hands-on experience in the lab and familiarize myself with different instrumentation to aid in data analysis when talking about water quality. I am excited to study the impact of lead release on public water systems and contribute to this research project. |
-| {{< image src="aiman-koli.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Aiman Koli, Mathematics and Computer Science, Aresty RA** <br> \| My name is Aiman Koli and I am a Junior at the Rutgers Honors College. I’m double majoring in Math and Computer Science and I’m particularly interested in Deep Learning and Reinforcement Learning research. I’m intrigued by how AI research can contribute to fields such as public health, and look forward to learning more about that this year. I can also solve a Rubik’s cube pretty fast, love talking anything Math, and am a competitive weightlifter. This year I’ll be working on Deep Learning models to improve how spectrophotometry is practiced within the drinking water field. |
-| {{< image src="sanskriti-malakar.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Sanksriti Malakar, Computer Science and Cognitive Science, Aresty RA** <br> \| Sanskriti Malakar is a third year student at Rutgers University pursuing a dual major in Computer Science and Cognitive Science. She is passionate about machine learning, artificial intelligence, and data science, and is curious about how these technologies can be used to improve everyday life. Outside of academics, she enjoys trying new cuisines and exploring different restaurants with her friends and family. |
-| {{< image src="dan-mayster.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Dan Mayster, Data Science and Economics, Aresty RA** <br> \| My name is Dan Mayster. I am a third-year student at Rutgers University studying Data Science and Economics. I am interested in deriving insights from data in the fields of public health and finance. Aside from academic and professional pursuits, I am passionate about many things, including health & fitness, cooking, traveling, and music. I am excited to help track water lead remediation efforts in New Jersey public schools! |
-| {{< image src="khang-nguyen.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Khang Nguyen, Environmental Engineering, Aresty RA** <br> \| My name is Khang Nguyen, and I am a sophomore majoring in Environmental Engineering at Rutgers University. My vision is to address social issues by way of science and engineering, and my interests include such topics as waste and wastewater management, food systems, and land rights. I am looking forward to studying the efficacy of drinking water systems which impact the health of our communities. |
-| {{< image src="willem-weigand.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Willem Weigand, Statistics and Mathematics, Aresty RA** <br> \| My name is Willem Weigand and I am a senior majoring in Statistics and Mathematics with a minor in Biology. In my free time I work with the Rutgers Formula Racing team and monitor waterways in the Central Jersey area to ensure healthy, safe, and clean water for our communities. My research project will focus on tracking recent progress on water lead remediation efforts in schools and analyzing the benefits. |
-
-------
-
-#### Alumni {#alumni}
-
-| Name and Project |
-|:--------|
-| {{< image src="olivia-ackerson.jpg" width="200" height="200" class="center" style="object-fit: cover; border-radius: 50%;" >}} **Olivia Ackerson, Environmental Science, Researcher** <br> \| Spring, Summer, and Fall 2024. Research Topics: 1) Policies to mitigate lead in drinking water in low- and middle-income countries, 2) Lead in Chicago’s water supply and consumer trust/public perceptions surrounding this issue. |
-| {{< image src="bobo-auyeung.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Bobo Au-Yeung, Psychology and Criminal Justice, Aresty RA** <br> \| Fall 2024-Spring 2025. Research Topic: To identify and formulate an intervention process to alleviate the psychological effects of negative messaging (nocebo), particularly in children post-environmental crises. Poster at Aresty Research Symposium. |
-| {{< image src="ishani-bhaumik.png" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Ishani Bhaumik, Chemistry, Aresty RA** <br> \| Fall 2024. Research Topic: Investigate trends of lead release from pipes into potable water in New Jersey.  |
-| {{< image src="daniella-mangibin.JPG" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Daniella Mangibin, Computer Science and Data Science, Aresty RA** <br> \| Fall 2024-Spring 2025. Research Topic: To build a deep learning model focused on corrosion in potable water pipes and plumbing. Poster at Aresty Research Symposium. |
-| {{< image src="leyla-munoz.JPG" width="200" height="200" style="object-fit: cover; border-radius: 50%;" >}} **Leyla Muñoz, Public Health, Aresty RA** <br> \| Fall 2024-Spring 2025. Research Topic: Wastewater and blood lead surveillance and give an update on the Flint Water Crisis. Poster presentations at Aresty Research Symposium, NJWEA Annual Conference 2025, and WPU Annual Research Symposium. |
+--
+ 
+## Graduate Students & Postdoctoral Researchers {#graduate-students}
+ 
+<div class="people-grid people-grid--3col">
+<div class="person-card">
+  <div class="person-card__image">
+    ![Aanand Aggarwal](/img/aanand-aggarwal.jfif)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Aanand Aggarwal</h3>
+    <p class="person-card__role">Data Science<br>Graduate Researcher</p>
+    <p class="person-card__bio">Aanand is pursuing a Master of Information in Data Science at Rutgers University with dual bachelor's degrees in Computer Science and IT & Informatics. His research utilizes Python and AI/ML techniques to automate the classification of corrosion images. He plans to apply this background in the health tech sector, addressing challenges in medical diagnostics and health equity.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Eve Butterworth](/img/eve-butterworth.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Eve Butterworth</h3>
+    <p class="person-card__role">Environmental Science<br>PhD Student</p>
+    <p class="person-card__bio">Eve is a first-year PhD student who graduated from Wellesley College with a BA in Geosciences. She researches urban water contamination in New Jersey, including lead in schools and contaminants following natural disasters. She is passionate about environmental justice and building relationships between the lab and at-risk communities.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Gael Fleurant](/img/jennie-fleurant.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Gael (Jennie) Fleurant</h3>
+    <p class="person-card__role">Environmental Science<br>PhD Student</p>
+    <p class="person-card__bio">Jennie's research focuses on drinking water quality, with emphasis on corrosion and metal leaching in decentralized water systems. She aims to improve understanding of corrosion processes and inform safer material choices for drinking water systems in low- and middle-income countries. Her interests include water treatment and sustainable safe drinking water access.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Emily Newton](/img/emily-newton.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Emily Newton</h3>
+    <p class="person-card__role">Environmental Science<br>Masters Student</p>
+    <p class="person-card__bio">Emily is a master's student in Environmental Science with a bachelor's degree in Forensic Science. She is passionate about forensic environmental science and entomology, particularly its relevance to contamination investigations. This year, she will focus on one contamination event to give it thorough analytical attention.</p>
+  </div>
+</div>
+</div>
+---
+ 
+## Undergraduate Researchers {#undergraduates}
+ 
+<div class="people-grid people-grid--3col">
+<div class="person-card">
+  <div class="person-card__image">
+    ![Aniya Elliott](/img/aniya-elliott.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Aniya Elliott</h3>
+    <p class="person-card__role">Public Health<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Aniya is a senior majoring in Public Health with a certificate in Cancer Epidemiology and Surveillance. She is passionate about toxicology, environmental health impacts, and health mobility issues. Beyond research, she serves as a Resident Assistant and Community Service Chair for the Haitian Association.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Charlene Guo](/img/charlene-guo.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Charlene Guo</h3>
+    <p class="person-card__role">Environmental Science<br>Honors Thesis Research</p>
+    <p class="person-card__bio">Charlene is a junior majoring in Environmental Science interested in water quality management, heavy metal contamination, and the intersection of environmental pollutants and human health. Her current project focuses on lead exposure from contaminated spices and its implications for public health using biokinetic modeling.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Juliana Jusino](/img/juliana-jusino.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Juliana Jusino</h3>
+    <p class="person-card__role">Environmental Science<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Juliana is a senior majoring in Environmental Science with a focus in Environmental Health. Her professional interests include stormwater management and water quality. She has hands-on lab experience and is studying the impact of lead release in public water systems.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Aiman Koli](/img/aiman-koli.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Aiman Koli</h3>
+    <p class="person-card__role">Mathematics & Computer Science<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Aiman is a junior double majoring in Math and Computer Science, particularly interested in Deep Learning and Reinforcement Learning research. He is intrigued by how AI research can contribute to public health. This year he is developing Deep Learning models to improve spectrophotometry practices in the drinking water field.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Sanskriti Malakar](/img/sanskriti-malakar.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Sanskriti Malakar</h3>
+    <p class="person-card__role">Computer Science & Cognitive Science<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Sanskriti is a third-year student pursuing a dual major in Computer Science and Cognitive Science. She is passionate about machine learning, artificial intelligence, and data science, and is curious about how these technologies can improve everyday life.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Dan Mayster](/img/dan-mayster.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Dan Mayster</h3>
+    <p class="person-card__role">Data Science & Economics<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Dan is a third-year student studying Data Science and Economics. He is interested in deriving insights from data in the fields of public health and finance. He is excited to help track water lead remediation efforts in New Jersey public schools.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Khang Nguyen](/img/khang-nguyen.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Khang Nguyen</h3>
+    <p class="person-card__role">Environmental Engineering<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Khang is a sophomore majoring in Environmental Engineering. His vision is to address social issues through science and engineering. He is looking forward to studying the efficacy of drinking water systems that impact community health.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Willem Weigand](/img/willem-weigand.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Willem Weigand</h3>
+    <p class="person-card__role">Statistics & Mathematics<br>Aresty Research Assistant</p>
+    <p class="person-card__bio">Willem is a senior majoring in Statistics and Mathematics with a minor in Biology. He works with the Rutgers Formula Racing team and monitors waterways in Central Jersey. His research focuses on tracking progress on water lead remediation efforts in schools.</p>
+  </div>
+</div>
+</div>
+---
+ 
+## Lab Alumni {#alumni}
+ 
+<div class="people-grid people-grid--3col">
+<div class="person-card">
+  <div class="person-card__image">
+    ![Olivia Ackerson](/img/olivia-ackerson.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Olivia Ackerson</h3>
+    <p class="person-card__role">Environmental Science<br>Researcher (2024)</p>
+    <p class="person-card__bio"><strong>Research Topics:</strong> Policies to mitigate lead in drinking water in low- and middle-income countries; Lead in Chicago's water supply and consumer trust/public perceptions.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Bobo Au-Yeung](/img/bobo-auyeung.jpg)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Bobo Au-Yeung</h3>
+    <p class="person-card__role">Psychology & Criminal Justice<br>Aresty RA (2024-2025)</p>
+    <p class="person-card__bio"><strong>Research Topic:</strong> Identify and formulate intervention processes to alleviate psychological effects of negative messaging (nocebo), particularly in children post-environmental crises. <em>Poster presented at Aresty Research Symposium.</em></p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Ishani Bhaumik](/img/ishani-bhaumik.png)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Ishani Bhaumik</h3>
+    <p class="person-card__role">Chemistry<br>Aresty RA (Fall 2024)</p>
+    <p class="person-card__bio"><strong>Research Topic:</strong> Investigate trends of lead release from pipes into potable water in New Jersey.</p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Daniella Mangibin](/img/daniella-mangibin.JPG)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Daniella Mangibin</h3>
+    <p class="person-card__role">Computer Science & Data Science<br>Aresty RA (2024-2025)</p>
+    <p class="person-card__bio"><strong>Research Topic:</strong> Build a deep learning model focused on corrosion in potable water pipes and plumbing. <em>Poster presented at Aresty Research Symposium.</em></p>
+  </div>
+</div>
+<div class="person-card">
+  <div class="person-card__image">
+    ![Leyla Muñoz](/img/leyla-munoz.JPG)
+  </div>
+  <div class="person-card__content">
+    <h3 class="person-card__name">Leyla Muñoz</h3>
+    <p class="person-card__role">Public Health<br>Aresty RA (2024-2025)</p>
+    <p class="person-card__bio"><strong>Research Topic:</strong> Wastewater and blood lead surveillance; Updates on the Flint Water Crisis. <em>Multiple poster presentations at Aresty Research Symposium, NJWEA Annual Conference 2025, and WPU Annual Research Symposium.</em></p>
+  </div>
+</div>
+</div>
 
 **Not pictured**
 - Eva Rehman, Biotechnology, Spring 2024
@@ -106,4 +265,4 @@ In alphabetical order by last name.
 - Zihan Wang, Erosion Corrosion in Copper and Nonleaded Alloys used in potable water systems, 2014-15
 - Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20  
 
-Last updated: October 2025
+<p class="people-footer">Last updated: October 2025</p>
