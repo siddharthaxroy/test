@@ -1,0 +1,675 @@
+/* ================================================================
+   ROY WATER LAB — HUGO THEME STYLESHEET
+   Final Design System
+   ================================================================ */
+
+/* ── COLOR TOKENS ───────────────────────────────────────────── */
+:root {
+  --scarlet: #CC0033;
+  --scarlet-dark: #aa0028;
+  --text: #202B30;
+  --muted: #5D7E8C;
+  --bg: #f8f8f8;
+  --bg-light: #fafafa;
+  --white: #ffffff;
+  --dark: #1a1a1a;
+  --border: #e0e0e0;
+  --shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* ── RESET & BASE ───────────────────────────────────────────– */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  background: var(--bg);
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+a {
+  color: var(--scarlet);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: var(--scarlet-dark);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* ================================================================
+   TOP BAR
+   ================================================================ */
+.topbar {
+  background: #f5f5f5;
+  border-bottom: 1px solid var(--border);
+  padding: 12px 0;
+  font-size: 13px;
+  color: #999;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.topbar-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar-content a {
+  color: #999;
+  transition: color 0.3s;
+}
+
+.topbar-content a:hover {
+  color: var(--scarlet);
+}
+
+/* ================================================================
+   DARK HEADER
+   ================================================================ */
+header {
+  background: var(--dark);
+  color: white;
+  padding: 24px 0;
+  border-bottom: 4px solid var(--scarlet);
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-mark {
+  width: 40px;
+  height: 40px;
+  background: var(--scarlet);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  flex-shrink: 0;
+}
+
+.logo-text h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+  color: white;
+}
+
+.contact-btn {
+  background: var(--scarlet);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.contact-btn:hover {
+  background: var(--scarlet-dark);
+}
+
+.site-title-section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.site-title-section h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: white;
+  margin: 0 0 4px 0;
+  line-height: 1.3;
+}
+
+.secondary-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #aaa;
+}
+
+/* Navigation */
+nav {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: 16px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Work Sans', sans-serif;
+  transition: color 0.3s;
+  padding-bottom: 4px;
+  border-bottom: 2px solid transparent;
+}
+
+nav a:hover,
+nav a.active {
+  color: var(--scarlet);
+  border-bottom-color: var(--scarlet);
+}
+
+/* ================================================================
+   PAGE HEADER (for inner pages)
+   ================================================================ */
+.page-header {
+  background: var(--bg-light);
+  border-bottom: 1px solid var(--border);
+  padding: 60px 20px;
+}
+
+.page-header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.page-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.page-subtitle {
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  color: var(--muted);
+  max-width: 600px;
+  line-height: 1.7;
+}
+
+/* ================================================================
+   MAIN CONTENT AREA
+   ================================================================ */
+main {
+  min-height: 60vh;
+}
+
+.page-content {
+  background: var(--white);
+  padding: 60px 20px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ── Content Typography ────────────────────────────────────── */
+.page-content h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 40px 0 20px 0;
+  line-height: 1.3;
+}
+
+.page-content h2:first-child {
+  margin-top: 0;
+}
+
+.page-content h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 32px 0 16px 0;
+}
+
+.page-content p {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+
+.page-content ul,
+.page-content ol {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 16px;
+  margin-left: 20px;
+}
+
+.page-content li {
+  margin-bottom: 8px;
+}
+
+.page-content strong {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.page-content em {
+  font-style: italic;
+  color: var(--muted);
+}
+
+/* ================================================================
+   HOME PAGE: HERO SECTION
+   ================================================================ */
+.hero {
+  background: linear-gradient(135deg, #2d2d2d 0%, var(--dark) 100%);
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+
+.hero-inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero-eyebrow {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--scarlet);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.hero-eyebrow::before {
+  content: '';
+  width: 24px;
+  height: 2px;
+  background: var(--scarlet);
+}
+
+.hero h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.hero p {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #e0e0e0;
+  margin-bottom: 32px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+
+/* ================================================================
+   BUTTONS
+   ================================================================ */
+.btn {
+  padding: 12px 28px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Work Sans', sans-serif;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn-primary {
+  background: var(--scarlet);
+  color: white;
+}
+
+.btn-primary:hover {
+  background: var(--scarlet-dark);
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background: white;
+  color: var(--dark);
+  border: 1px solid white;
+}
+
+.btn-secondary:hover {
+  background: transparent;
+  color: white;
+}
+
+/* ================================================================
+   FOCUS AREAS / CARDS SECTION
+   ================================================================ */
+.focus-section {
+  background: white;
+  padding: 80px 20px;
+}
+
+.section-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 50px;
+  text-align: center;
+  padding-bottom: 20px;
+  border-bottom: 3px solid var(--scarlet);
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.card {
+  background: white;
+  border: 1px solid var(--border);
+  border-top: 4px solid var(--scarlet);
+  padding: 30px;
+  border-radius: 6px;
+  transition: all 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow);
+}
+
+.card-icon {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.card h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--scarlet);
+  margin-bottom: 12px;
+}
+
+.card p {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  color: #666;
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+.card-link {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--scarlet);
+  text-decoration: none;
+  display: inline-block;
+  transition: color 0.3s;
+}
+
+.card-link:hover {
+  color: var(--text);
+}
+
+/* ================================================================
+   STATS SECTION
+   ================================================================ */
+.stats-section {
+  background: var(--dark);
+  color: white;
+  padding: 60px 20px;
+  border-top: 1px solid #333;
+}
+
+.stats-grid {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+  text-align: center;
+}
+
+.stat-item h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: var(--scarlet);
+  margin-bottom: 8px;
+}
+
+.stat-item p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #999;
+  margin: 0;
+}
+
+/* ================================================================
+   FOOTER
+   ================================================================ */
+footer {
+  background: #0d0d0d;
+  color: #b0b0b0;
+  padding: 50px 20px 30px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+
+.footer-col h4 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--scarlet);
+  margin-bottom: 16px;
+}
+
+.footer-col p,
+.footer-col a {
+  font-size: 14px;
+  line-height: 1.8;
+  color: #b0b0b0;
+  text-decoration: none;
+  margin-bottom: 8px;
+  display: block;
+  font-family: 'Work Sans', sans-serif;
+  transition: color 0.3s;
+}
+
+.footer-col a:hover {
+  color: var(--scarlet);
+}
+
+.footer-brand-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.footer-school {
+  font-size: 13px;
+  color: #999;
+  margin-bottom: 12px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.footer-bottom {
+  border-top: 1px solid #333;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: 'Work Sans', sans-serif;
+}
+
+/* ================================================================
+   RESPONSIVE DESIGN
+   ================================================================ */
+@media (max-width: 768px) {
+  .header-top {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .hero h2 {
+    font-size: 32px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+
+  .section-title {
+    font-size: 28px;
+  }
+
+  .page-title {
+    font-size: 28px;
+  }
+
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .page-content h2 {
+    font-size: 24px;
+  }
+
+  .page-content h3 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h2 {
+    font-size: 24px;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  nav ul {
+    gap: 0.75rem;
+  }
+
+  nav a {
+    font-size: 13px;
+  }
+
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .page-title {
+    font-size: 24px;
+  }
+}

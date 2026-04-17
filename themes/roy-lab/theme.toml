@@ -1,0 +1,12 @@
+name = "Roy Lab"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourrepo/LICENSE"
+description = "Clean, academic research lab website theme with Playfair Display, Merriweather, and Work Sans typography"
+homepage = "https://github.com/yourname/yourrepo"
+tags = ["research", "academic", "minimal", "responsive", "clean"]
+features = ["responsive", "dark theme", "markdown content"]
+min_version = "0.68.0"
+
+[author]
+name = "Your Name"
+homepage = "https://example.com"
