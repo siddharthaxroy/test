@@ -1,0 +1,409 @@
+/* ================================================================
+   ROY WATER LAB - HEADER AND FOOTER STYLING
+   Dark header (#1a1a1a) with maroon border
+   Dark footer (#0d0d0d) with three-column layout
+   ================================================================ */
+
+/* ── HEADER ─────────────────────────────────────────────────────── */
+.header {
+  background: #1a1a1a;
+  border-bottom: 4px solid #CC0033;
+  color: #ffffff;
+  padding: 1.5rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.header__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+/* Logo Styling */
+.header__logo {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.logo__link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.logo__link:hover {
+  color: #CC0033;
+}
+
+.logo__image {
+  height: 50px;
+  width: auto;
+}
+
+.logo__mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  background: #CC0033;
+  border-radius: 4px;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.logo__text {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Navigation Menu */
+.header__nav {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.menu__main {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.menu__item {
+  margin: 0;
+  padding: 0;
+}
+
+.menu__link {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid transparent;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.menu__link:hover {
+  color: #CC0033;
+  border-bottom-color: #CC0033;
+}
+
+/* Header Right (Theme Toggle) */
+.header__right {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.theme-toggle {
+  background: none;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  transition: color 0.3s ease;
+}
+
+.theme-toggle:hover {
+  color: #CC0033;
+}
+
+/* ── RESPONSIVE HEADER ────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .header__inner {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .header__nav {
+    order: 3;
+    width: 100%;
+  }
+
+  .menu__main {
+    gap: 1rem;
+  }
+
+  .menu__link {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .header {
+    padding: 1rem 0;
+  }
+
+  .header__inner {
+    padding: 0 1rem;
+  }
+
+  .logo__image {
+    height: 40px;
+  }
+
+  .logo__mark {
+    width: 40px;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .logo__text {
+    font-size: 1.1rem;
+  }
+
+  .menu__main {
+    gap: 0.75rem;
+  }
+
+  .menu__link {
+    font-size: 0.9rem;
+    padding: 0.4rem 0;
+  }
+}
+
+/* ================================================================
+   FOOTER STYLING
+   Dark background (#0d0d0d) with three-column layout
+   ================================================================ */
+
+.footer {
+  background: #0d0d0d;
+  color: #b0b0b0;
+  padding: 3rem 0 0;
+  margin-top: 4rem;
+  border-top: 1px solid #333;
+}
+
+.footer__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
+}
+
+.footer__column {
+  padding-right: 1rem;
+}
+
+.footer__column--contact {
+  border-right: 1px solid #333;
+}
+
+.footer__column--links {
+  border-right: 1px solid #333;
+  padding: 0 1rem;
+}
+
+.footer__column--social {
+  padding-left: 1rem;
+}
+
+/* Column Headings */
+.footer__heading {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #333;
+}
+
+/* Contact Info */
+.footer__contact-info {
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+.footer__contact-info p {
+  margin: 0.5rem 0;
+}
+
+.footer__contact-info a {
+  color: #b0b0b0;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.footer__contact-info a:hover {
+  color: #CC0033;
+  border-bottom-color: #CC0033;
+}
+
+.footer__contact-info strong {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* Menu Links */
+.footer__menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer__menu li {
+  margin: 0.6rem 0;
+}
+
+.footer__menu a {
+  color: #b0b0b0;
+  text-decoration: none;
+  font-size: 0.95rem;
+  border-bottom: 1px solid transparent;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.footer__menu a:hover {
+  color: #CC0033;
+  border-bottom-color: #CC0033;
+}
+
+/* Social Links */
+.footer__social {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer__social li {
+  margin: 0.6rem 0;
+}
+
+.footer__social a {
+  color: #b0b0b0;
+  text-decoration: none;
+  font-size: 0.95rem;
+  border-bottom: 1px solid transparent;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.footer__social a:hover {
+  color: #CC0033;
+  border-bottom-color: #CC0033;
+}
+
+/* Copyright Section */
+.footer__bottom {
+  border-top: 1px solid #333;
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+.footer__copyright {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.footer__copyright a {
+  color: #b0b0b0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer__copyright a:hover {
+  color: #CC0033;
+}
+
+/* ── RESPONSIVE FOOTER ────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .footer__inner {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+
+  .footer__column--contact {
+    grid-column: 1 / -1;
+    border-right: none;
+    border-bottom: 1px solid #333;
+    padding-bottom: 2rem;
+  }
+
+  .footer__column--links {
+    border-right: none;
+    padding: 0;
+  }
+
+  .footer__column--social {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer {
+    padding-top: 2rem;
+    margin-top: 2rem;
+  }
+
+  .footer__inner {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 2rem 1rem;
+  }
+
+  .footer__column {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .footer__column--contact {
+    border-right: none;
+    border-bottom: 1px solid #333;
+    padding-bottom: 2rem;
+  }
+
+  .footer__column--links {
+    border-right: none;
+    padding: 0;
+  }
+
+  .footer__column--social {
+    padding-left: 0;
+  }
+
+  .footer__bottom {
+    padding: 1.5rem 1rem;
+  }
+
+  .footer__copyright {
+    font-size: 0.8rem;
+  }
+}
