@@ -20,6 +20,7 @@ contentTypeName = "/"
   # Organizational info
   organization = "Rutgers University"
   department = "Environmental Sciences and Engineering"
+  rutgersLogoUrl = "/img/logo-white.png"
 
   # Contact
   phone = "(848) 932-5780"
@@ -31,8 +32,6 @@ contentTypeName = "/"
   twitter = "siddharthaxroy"
   substack = "siddhartharoy"
   googlescholar = "https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl=en"
-
-rutgersLogoUrl = "/img/logo-white.png"
 
 # defaultTheme="light"
 
@@ -61,14 +60,9 @@ enableEmoji = "true"
 [[menu.main]]
     url = "/public/"
     name = "Outreach"
-    weight = 4
-
-[[menu.main]]
-    url = "/hiring/"
-    name = "Hiring"
     weight = 3
 
 [[menu.main]]
     url = "/news/"
     name = "News"
-    weight = 5
+    weight = 4
