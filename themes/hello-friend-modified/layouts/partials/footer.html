@@ -1,14 +1,65 @@
+<!-- Roy Water Lab Custom Footer - Dark with Four-Column Layout -->
 <footer class="footer">
   <div class="footer__inner">
-    {{ if $.Site.Copyright }}
-      <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
-    {{else}}
-      {{ partial "logo.html" . }}
-      <div class="copyright">
-        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></span>
-        <span>Theme created by <a href="https://twitter.com/panr" target="_blank" rel="noopener">panr</a></span>
+    <!-- Column 1: Contact Information -->
+    <div class="footer__column footer__column--contact">
+      <h4 class="footer__heading">Contact</h4>
+      <div class="footer__contact-info">
+        {{ if .Site.Params.organization }}
+          <p><strong>{{ .Site.Params.organization }}</strong></p>
+        {{ end }}
+        {{ if .Site.Params.school }}
+          <p>{{ .Site.Params.school }}</p>
+        {{ end }}
+        {{ if .Site.Params.department }}
+          <p>{{ .Site.Params.department }}</p>
+        {{ end }}
+        {{ if .Site.Params.address }}
+          <p>{{ .Site.Params.address }}<br>{{ .Site.Params.city }}</p>
+        {{ end }}
+        {{ if .Site.Params.phone }}
+          <p><a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a></p>
+        {{ end }}
+        {{ if .Site.Params.email }}
+          <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+        {{ end }}
       </div>
-    {{end}}
+    </div>
+
+    <!-- Column 2: Menu Links -->
+    <div class="footer__column footer__column--links">
+      <h4 class="footer__heading">Navigation</h4>
+      {{ if len $.Site.Menus.main }}
+        <ul class="footer__menu">
+          {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+
+    <!-- Column 3: Social Links -->
+    <div class="footer__column footer__column--social">
+      <h4 class="footer__heading">Follow</h4>
+      <ul class="footer__social">
+        {{ if .Site.Params.twitter }}
+          <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank" rel="noopener">Twitter</a></li>
+        {{ end }}
+        {{ if .Site.Params.substack }}
+          <li><a href="https://{{ .Site.Params.substack }}.substack.com" target="_blank" rel="noopener">Substack</a></li>
+        {{ end }}
+        {{ if .Site.Params.googlescholar }}
+          <li><a href="{{ .Site.Params.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+
+  <!-- Copyright Section - Separate -->
+  <div class="footer__bottom">
+    <p class="footer__copyright">
+      © {{ now.Year }} {{ .Site.Title }}. Built with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+    </p>
   </div>
 </footer>
 
