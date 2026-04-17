@@ -19,18 +19,18 @@ contentTypeName = "/"
 
   # Organizational info
   organization = "Rutgers University"
-  school = "School of Environmental and Biological Sciences"
+  school = "SEBS"
   department = "Department of Environmental Sciences"
 
   # Contact
   phone = "(848) 932-5780"
   email = "roy.s@rutgers.edu"
   address = "59 Dudley Road, 308"
-  city = "New Brunswick, NJ 08901"
+  city = "New Brunswick, NJ 08901 USA"
 
   # Social (optional)
   twitter = "siddharthaxroy"
-  substack = "https://siddhartharoy.substack.com/"
+  substack = "siddhartharoy"
   googlescholar = "https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl=en"
 
 # defaultTheme="light"
