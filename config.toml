@@ -33,6 +33,8 @@ contentTypeName = "/"
   substack = "siddhartharoy"
   googlescholar = "https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl=en"
 
+rutgersLogoUrl = "/img/logo-white.png"
+
 # defaultTheme="light"
 
 hideReadMore=true
