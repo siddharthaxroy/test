@@ -4,8 +4,6 @@ cover = "img/collage.png"
 description = "Meet our team of researchers and students"
 +++
 
-------
-
 <div class="people-page">
 <div class="people-intro">
   <div class="people-intro__content">
@@ -20,12 +18,7 @@ description = "Meet our team of researchers and students"
   <a href="#advising" class="people-nav__link">Advising before Rutgers</a>
 </div>
 
-------
-
-## People {#people}
 In alphabetical order by last name.
-
---
  
 ## Graduate Students & Postdoctoral Researchers {#graduate-students}
  
