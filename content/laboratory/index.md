@@ -1,7 +1,7 @@
 ---
-title = "People"
-cover = "img/collage.png"
-description = "Meet our team of researchers and students"
+title: "People"
+cover: "img/collage.png"
+description: "Meet our team of researchers and students"
 ---
 
 [Graduate Students and Postdoctoral Researchers](#graduate-students)
