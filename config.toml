@@ -5,14 +5,29 @@ keywords = ["siddhartha roy", "virginia tech", "flint water crisis", "drinking w
 
 title = "Siddhartha Roy's Group at Rutgers University"
 
-theme="hello-friend"  
-
-googleAnalytics = "UA-177557791-1"
+theme="roy-lab"  
 
 [params]
 contentTypeName = "/"
+  siteName = "Siddhartha Roy's Group at Rutgers University"
+  description = "We mentor students, conduct original research, craft data-driven stories to communicate our findings, and provide implementation and policy advice through an ethical lens. Our research program uses a transdisciplinary approach to help answer the question: Is my water safe to drink?"
+  author = "Siddhartha Roy"
 
-defaultTheme="light"
+  # Organizational info
+  organization = "Rutgers University"
+  school = "School of Environmental and Biological Sciences"
+  department = "Department of Environmental Sciences"
+
+  # Contact
+  phone = "(848) 932-5780"
+  email = "roy.s@rutgers.edu"
+  address = "59 Dudley Road, 308"
+  city = "New Brunswick, NJ 08901"
+
+  # Social (optional)
+  twitter = "siddharthaxroy"
+
+# defaultTheme="light"
 
 hideReadMore=true
 
@@ -33,7 +48,7 @@ enableEmoji = "true"
     
 [[menu.main]]
     url = "/articles/"
-    name = "Publications"
+    name = "Research"
     weight = 1
 
 [[menu.main]]
@@ -50,3 +65,15 @@ enableEmoji = "true"
     url = "/news/"
     name = "News"
     weight = 5
+
+[permalinks]
+  blog = "/news/:year/:month/:day/:slug/"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
