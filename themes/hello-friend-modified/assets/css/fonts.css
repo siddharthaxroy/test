@@ -1,0 +1,9 @@
+/* Import Google Fonts - Roy Water Lab Typography System */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Playfair+Display:wght@400;700&family=Poppins:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap');
+
+/* Typography System
+   Tier 1 (Display): Playfair Display - page titles, dramatic headings
+   Tier 2 (Body): Merriweather - body text, secondary headers
+   Tier 3 (UI): Work Sans - navigation, buttons, interface elements
+   Tier 3 (Secondary): Poppins - metadata, secondary text, captions
+*/
