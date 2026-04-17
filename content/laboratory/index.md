@@ -1,11 +1,10 @@
----
-title: "People"
-description: "Meet the team of researchers, students, and advisees working in this research group."
----
++++
+title = "People"
+cover = "img/collage.png"
+description = "Meet our team of researchers and students"
++++
 
 ------
-
-cover =  "/img/collage.png"
 
 <div class="people-page">
 <div class="people-intro">
