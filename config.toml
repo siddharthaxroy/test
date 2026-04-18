@@ -25,11 +25,12 @@ contentTypeName = "/"
   # Contact
   phone = "(848) 932-5780"
   email = "roy.s@rutgers.edu"
-  address = "59 Dudley Road, 308"
+  address = "59 Dudley Rd, 308"
   city = "New Brunswick, NJ 08901 USA"
 
   # Social (optional)
   twitter = "siddharthaxroy"
+  instagram = "roylab_rutgers"
   substack = "siddhartharoy"
   googlescholar = "https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl=en"
 
