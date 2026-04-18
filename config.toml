@@ -48,22 +48,28 @@ alt = "Siddhartha Roy's Group at Rutgers University"
 
 enableEmoji = "true"
 
+
 [[menu.main]]
-    url = "/laboratory/"
+    url = "/about/"
+    name = "About"
+    weight = 1
+
+[[menu.main]]
+    url = "/people/"
     name = "People"
     weight = 2
     
 [[menu.main]]
-    url = "/articles/"
+    url = "/research/"
     name = "Research"
-    weight = 1
+    weight = 3
 
 [[menu.main]]
     url = "/public/"
     name = "Outreach"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     url = "/news/"
     name = "News"
-    weight = 4
+    weight = 5
