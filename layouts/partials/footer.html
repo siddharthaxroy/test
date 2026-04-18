@@ -1,10 +1,78 @@
-<!-- Roy Water Lab Custom Footer - Dark with Four-Column Layout -->
+<!-- Roy Water Lab Footer - Three Column Layout with Logo and Social Links -->
 <footer class="footer">
- 
-  <!-- Copyright Section - Separate -->
+  <div class="footer__borders"></div>
+
+  <div class="footer__inner">
+    <!-- Left Column: Logo and Social Links -->
+    <div class="footer__column footer__column--left">
+      <div class="footer__logo">
+        {{ if .Site.Params.rutgersLogoUrl }}
+          <img src="{{ .Site.Params.rutgersLogoUrl }}" alt="Rutgers University Logo" class="footer__logo-img">
+        {{ end }}
+      </div>
+      <div class="footer__social">
+        {{ if .Site.Params.twitter }}
+          <a href="https://twitter.com/{{ .Site.Params.twitter }}" title="Twitter" target="_blank" rel="noopener">
+            <svg class="footer__social-icon" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2s9 5 20 5a9.5 9.5 0 00-9-5.5c4.75 2.25 7-7 7-7"/>
+            </svg>
+          </a>
+        {{ end }}
+        {{ if .Site.Params.instagram }}
+          <a href="https://instagram.com/{{ .Site.Params.instagram }}" title="Instagram" target="_blank" rel="noopener">
+            <svg class="footer__social-icon" viewBox="0 0 24 24" fill="currentColor">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" stroke="currentColor" stroke-width="2" fill="none"/>
+              <circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2" fill="none"/>
+              <circle cx="18.5" cy="5.5" r="1.5" fill="currentColor"/>
+            </svg>
+          </a>
+        {{ end }}
+        {{ if .Site.Params.googlescholar }}
+          <a href="{{ .Site.Params.googlescholar }}" title="Google Scholar" target="_blank" rel="noopener">
+            <svg class="footer__social-icon" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0C5.37 0 0 5.37 0 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0m0 2.7c2.66 0 5.12 1.12 6.86 2.95L16.97 8.6c-1.22-.99-2.76-1.57-4.42-1.57-3.6 0-6.65 2.68-6.65 6.08 0 3.4 3.05 6.08 6.65 6.08 2.52 0 4.7-1.36 5.64-3.4h-5.64v-2.3h8.4c.08.56.12 1.14.12 1.74 0 4.88-3.3 8.36-8.52 8.36-5.1 0-9.18-4.08-9.18-9.18 0-5.1 4.08-9.18 9.18-9.18z"/>
+            </svg>
+          </a>
+        {{ end }}
+        {{ if .Site.Params.substack }}
+          <a href="https://{{ .Site.Params.substack }}.substack.com" title="Substack" target="_blank" rel="noopener">
+            <svg class="footer__social-icon" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M22.539 8.242H1.46V4.6h21.079V8.242zM1.46 10.6h21.079v3.645H1.46zm0 5.996h21.079v7.753H1.46z"/>
+            </svg>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Middle Column: Navigation Menu -->
+    <div class="footer__column footer__column--middle">
+      <h3 class="footer__column-title">NAVIGATION</h3>
+      {{ if len $.Site.Menus.main }}
+        <ul class="footer__menu">
+          {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+
+    <!-- Right Column: Address and Contact -->
+    <div class="footer__column footer__column--right">
+      <h3 class="footer__column-title">CONTACT</h3>
+      <p class="footer__address">
+        {{ if .Site.Params.address }}
+          {{ .Site.Params.address }}<br>
+          {{ .Site.Params.city }}
+        {{ end }}
+      </p>
+      <a href="mailto:{{ .Site.Params.email }}" class="footer__contact-button">CONTACT US</a>
+    </div>
+  </div>
+
+  <!-- Copyright Section -->
   <div class="footer__bottom">
     <p class="footer__copyright">
-      © {{ now.Year }} {{ .Site.Title }}.
+      © {{ now.Year }} Siddhartha Roy's Group at Rutgers University
     </p>
   </div>
 </footer>
