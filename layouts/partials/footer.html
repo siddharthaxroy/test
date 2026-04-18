@@ -1,0 +1,30 @@
+<!-- Roy Water Lab Custom Footer - Minimal Design with Logo -->
+<footer class="footer">
+  <div class="footer__borders"></div>
+
+  <div class="footer__inner">
+    <!-- Left Side: Address and Copyright -->
+    <div class="footer__left">
+      <p class="footer__address">
+        {{ if .Site.Params.address }}
+          {{ .Site.Params.address }}, {{ .Site.Params.city }}
+        {{ end }}
+      </p>
+      <p class="footer__copyright">
+        © 2026 Siddhartha Roy's Group at Rutgers University
+      </p>
+    </div>
+
+    <!-- Right Side: Logo -->
+    <div class="footer__right">
+      {{ if .Site.Params.rutgersLogoUrl }}
+        <img src="{{ .Site.Params.rutgersLogoUrl }}" alt="Rutgers University Logo" class="footer__logo">
+      {{ end }}
+    </div>
+  </div>
+</footer>
+
+<script src="{{ "assets/main.js" | absURL }}"></script>
+<script src="{{ "assets/prism.js" | absURL }}"></script>
+
+{{- partial "extended_footer.html" . }}
