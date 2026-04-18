@@ -2,7 +2,7 @@
 title: "People"
 cover: "img/collage.png"
 description: "Meet our team of researchers"
-date = "2026-04-01"
+date: "2026-04-01"
 ---
 
 1. [Graduate and Postdoctoral Researchers](#graduate-students)
