@@ -6,7 +6,7 @@
       {{ partial "logo.html" . }}
     </div>
 
-    <!-- Navigation - Always Visible -->
+    <!-- Navigation - Responsive -->
     {{ if len $.Site.Menus.main }}
       <nav class="header__nav">
         <ul class="menu__main">
@@ -19,5 +19,16 @@
       </nav>
     {{ end }}
 
+    <!-- Right Side - Hamburger Menu & Theme Toggle -->
+    <span class="header__right">
+      <button class="header__hamburger" id="menu-toggle" aria-label="Toggle menu">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+      <span class="theme-toggle">
+        {{ partial "theme-icon.html" . }}
+      </span>
+    </span>
   </div>
 </header>
