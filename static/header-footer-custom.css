@@ -4,6 +4,30 @@
    Dark footer (#0d0d0d) with three-column layout
    ================================================================ */
 
+/* ================================================================
+   CONTENT ALIGNMENT
+   ================================================================ */
+
+/* Ensure all main content is left-aligned */
+.content {
+  text-align: left !important;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  text-align: left !important;
+}
+
+.content p,
+.content li,
+.content div {
+  text-align: left !important;
+}
+
 /* ── SUPPORT BANNER ────────────────────────────────────────────── */
 .support-banner {
   background: linear-gradient(135deg, #FDF0F2 0%, #fff5f7 100%);
