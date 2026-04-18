@@ -8,6 +8,8 @@ title: "Get Involved"
 3. [Collaborate with us](#collaboration)
 4. [Join our team](#employment)
 
+---
+
 ### Visit our campus {#visit}
 
 **Connect with our lab and learn about our water research and environmental education initiatives in person. We are located in the New York Metropolitan area and equidistant from Philaldelphia and New York City.**
@@ -26,6 +28,8 @@ Phone: [(848) 932-5780](tel:8489325780)
 
 [Principles](/principles/) | [Events](/events/) | [Press](/press/)  
 
+---
+
 ### Support our research {#giving}
 
 **Your gift powers excellence in research and education to advance safe water.**
@@ -36,11 +40,15 @@ Photos TBD
 
 [ {{< image src="/img/gift-scarlet.png" position="center" >}} ](https://rutgersfoundation.org/Roy)  
 
+---
+
+## Collaborate with us {#collaboration}
+
 **Partner with our team on research projects aligned with safe water, environmental health, and community impact.**
 
 Photo TBD
  
-Interested in collaborating on a research project or consulting engagement? We welcome partnerships with universities, organizations, and government agencies working on water quality and public health challenges.
+Interested in collaborating on a research project or consulting engagement? We welcome partnerships with universities, water utilities, government agencies, and organizations working on water quality and public health challenges.
  
 **To inquire about collaboration opportunities:**  
 Email: [roy.s@rutgers.edu](mailto:roy.s@rutgers.edu)
@@ -53,8 +61,7 @@ Email: [roy.s@rutgers.edu](mailto:roy.s@rutgers.edu)
  
 **Status:** Not currently accepting applications.
  
----
- 
+
 ### PhD in Environmental Science or Environmental Engineering
  
 **Status:** Not currently accepting new PhD students.
@@ -65,7 +72,6 @@ Candidates with degrees, research experience, or professional background in envi
 **Application process:**  
 Interested candidates must apply to and be admitted into the [Rutgers Environmental Science graduate program](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html) before an assistantship can be offered. PhD students receive five years of guaranteed funding (subject to adequate performance).
  
----
  
 ### Master's Degree in Environmental Science or Environmental Engineering
  
@@ -74,7 +80,6 @@ Interested candidates must apply to and be admitted into the [Rutgers Environmen
 **4+1 Program Students:**  
 If you are a Rutgers undergraduate in the 4+1 program, email [roy.s@rutgers.edu](mailto:roy.s@rutgers.edu) to inquire about MS thesis (Plan A) or essay (Plan B) options.
  
----
  
 ### Undergraduate Research
  
