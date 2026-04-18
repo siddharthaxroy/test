@@ -1,8 +1,7 @@
------
-
+---
 title: "Get Involved"
+---
 
------
 
 1. [Visit our campus](#visit)
 2. [Support our program](#giving)
