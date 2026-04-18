@@ -20,7 +20,7 @@ contentTypeName = "/"
   # Organizational info
   organization = "Rutgers University"
   department = "Environmental Sciences and Engineering"
-  rutgersLogoUrl = "/img/logo-white.png"
+  rutgersLogoUrl = "/img/logowhite.png"
 
   # Contact
   phone = "(848) 932-5780"
