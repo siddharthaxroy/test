@@ -483,16 +483,16 @@
 
 /* Copyright Section */
 .footer__bottom {
-  background-color: #f9f9f9;
+  background-color: #1a1a1a;
   padding: 1.5rem 1.5rem;
   text-align: center;
-  border-top: 1px solid #e0e0e0;
+  border-top: 2px solid #CC0033;
 }
 
 .footer__copyright {
   font-family: 'Work Sans', sans-serif;
   font-size: 0.8rem;
-  color: #999;
+  color: #b0b0b0;
   margin: 0;
 }
 
