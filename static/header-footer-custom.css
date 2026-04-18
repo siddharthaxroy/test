@@ -311,8 +311,8 @@
 }
 
 /* ================================================================
-   FOOTER STYLING
-   Minimal design with maroon border, gray line, and Rutgers logo
+   FOOTER STYLING - THREE COLUMN LAYOUT
+   Maroon border, Logo + Social, Navigation, Address + Contact Button
    ================================================================ */
 
 .footer {
@@ -320,6 +320,7 @@
   color: #202B30;
   margin-top: 4rem;
   padding: 0;
+  width: 100%;
 }
 
 /* Border lines at top */
@@ -327,89 +328,184 @@
   height: 4px;
   background: #CC0033;
   border-bottom: 1px solid #d0d0d0;
+  width: 100%;
 }
 
 .footer__inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 1.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  padding: 3rem 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 3rem;
   width: 100%;
   box-sizing: border-box;
 }
 
-/* Left Side: Address and Copyright */
-.footer__left {
-  flex: 1;
+/* Column Base Styles */
+.footer__column {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 1rem;
+}
+
+.footer__column-title {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #202B30;
+  margin: 0;
+  letter-spacing: 0.08em;
+  border-bottom: 2px solid #CC0033;
+  padding-bottom: 0.5rem;
+}
+
+/* Left Column: Logo and Social Links */
+.footer__column--left {
+  align-items: flex-start;
+}
+
+.footer__logo {
+  width: 100%;
+  max-width: 150px;
+  margin-bottom: 1rem;
+}
+
+.footer__logo-img {
+  width: 100%;
+  height: auto;
+  max-height: 100px;
+  object-fit: contain;
+  display: block;
+}
+
+.footer__social {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer__social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  color: #202B30;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.footer__social a:hover {
+  color: #CC0033;
+}
+
+.footer__social-icon {
+  width: 20px;
+  height: 20px;
+  stroke-width: 2;
+}
+
+/* Middle Column: Navigation Menu */
+.footer__column--middle {
+  align-items: flex-start;
+}
+
+.footer__menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.footer__menu li {
+  margin: 0;
+  padding: 0;
+}
+
+.footer__menu a {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #202B30;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  letter-spacing: 0.03em;
+}
+
+.footer__menu a:hover {
+  color: #CC0033;
+}
+
+/* Right Column: Address and Contact Button */
+.footer__column--right {
+  align-items: flex-start;
 }
 
 .footer__address {
   font-family: 'Work Sans', sans-serif;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-weight: 500;
+  text-transform: uppercase;
   color: #202B30;
   margin: 0;
-  line-height: 1.4;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+
+.footer__contact-button {
+  display: inline-block;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #CC0033;
+  border: 2px solid #CC0033;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.footer__contact-button:hover {
+  background-color: #aa0028;
+  border-color: #aa0028;
+}
+
+/* Copyright Section */
+.footer__bottom {
+  background-color: #f9f9f9;
+  padding: 1.5rem 1.5rem;
+  text-align: center;
+  border-top: 1px solid #e0e0e0;
 }
 
 .footer__copyright {
   font-family: 'Work Sans', sans-serif;
-  font-size: 0.85rem;
-  color: #666;
+  font-size: 0.8rem;
+  color: #999;
   margin: 0;
-  line-height: 1.4;
-}
-
-/* Right Side: Logo */
-.footer__right {
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  margin-left: auto;
-  padding-right: 0;
-}
-
-.footer__logo {
-  max-height: 60px;
-  width: auto;
-  object-fit: contain;
-  display: block;
 }
 
 /* ── RESPONSIVE FOOTER ────────────────────────────────────────── */
 @media (max-width: 900px) {
   .footer__inner {
-    flex-wrap: nowrap;
+    grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
+    padding: 2rem 1.5rem;
   }
 
-  .footer__left {
-    flex: 1;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 0.3rem;
-  }
-
-  .footer__address,
-  .footer__copyright {
-    white-space: normal;
-  }
-
-  .footer__right {
-    flex: 0 0 auto;
-    margin-left: auto;
-  }
-
-  .footer__logo {
-    max-height: 50px;
+  .footer__column--right {
+    grid-column: 1 / -1;
   }
 }
 
@@ -419,30 +515,25 @@
   }
 
   .footer__inner {
+    grid-template-columns: 1fr;
+    gap: 2rem;
     padding: 1.5rem 1rem;
-    flex-direction: column;
-    gap: 1rem;
   }
 
-  .footer__left {
-    width: 100%;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-  }
-
-  .footer__address,
-  .footer__copyright {
-    white-space: normal;
+  .footer__column-title {
     font-size: 0.85rem;
   }
 
-  .footer__right {
-    width: 100%;
-    justify-content: center;
+  .footer__menu a {
+    font-size: 0.85rem;
   }
 
-  .footer__logo {
-    max-height: 45px;
+  .footer__address {
+    font-size: 0.85rem;
+  }
+
+  .footer__contact-button {
+    font-size: 0.8rem;
+    padding: 0.6rem 1rem;
   }
 }
