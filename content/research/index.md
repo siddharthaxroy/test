@@ -1,13 +1,7 @@
 ---
 description: "Published journal articles and pre-prints"
-title: "Publications"
+title: "Research and Publications"
 ---
-
-Note: Please go to the [Talks and Essays](/public/) page for popular science articles, documentaries, and a TED talk. Podcast, radio, television, and newspaper appearances can be found on the [Press](/press/) page.
-
-------
-
-[Google Scholar](https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl) | [ORCiD](https://orcid.org/0000-0001-6443-1393) | [Conference Talks](/conference/)
 
 **Legend**
 
@@ -25,7 +19,7 @@ Note: Please go to the [Talks and Essays](/public/) page for popular science art
 
 ------
 
-1. α † ^ Quantifying lead (Pb) leaching from galvanized handpump spouts, leaded brass taps, and stainless-steel alternatives using the NSF 61 test protocol. *Under Review*.  [10.31223/X5W72N↗](https://doi.org/10.31223/X5W72N)
+1. α † ^ Quantifying lead (Pb) leaching from galvanized handpump spouts, leaded brass taps, and stainless-steel alternatives using the NSF 61 test protocol. *PLOS Water*.  In press. [10.31223/X5W72N↗](https://doi.org/10.31223/X5W72N)
 
 1. α Preventing lead (Pb) contamination in rural community water systems in LMICs through integrated screening, standards enforcement, and supply chain interventions. *Groundwater for Sustainable Development*.  [10.1016/j.gsd.2025.101509↗](https://doi.org/10.1016/j.gsd.2025.101509)
 
@@ -91,6 +85,12 @@ Note: Please go to the [Talks and Essays](/public/) page for popular science art
 
 **PhD Dissertation**: Interplay of Water Chemistry and Entrained Particulates in Erosion Corrosion of Copper and Nonleaded Alloys in Potable Water Systems [Read↗](https://vtechworks.lib.vt.edu/handle/10919/82668)
 
+------ 
+
+ORCiD: [0000-0001-6443-1393](https://orcid.org/0000-0001-6443-1393)
+
+[Conference Talks](/conference/)
+
 ------
 
-Last updated: November 2025
+Page created: 2024. Last updated: April 1, 2026.
