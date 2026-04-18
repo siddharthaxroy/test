@@ -28,15 +28,11 @@
 
     <!-- Column 2: Menu Links -->
     <div class="footer__column footer__column--links">
-      <h4 class="footer__heading">Navigation</h4>
-      {{ if len $.Site.Menus.main }}
-        <ul class="footer__menu">
-          {{ range .Site.Menus.main }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
+         {{ if .Site.Params.rutgersLogoUrl }}
+        <img src="{{ .Site.Params.rutgersLogoUrl }}" alt="Rutgers Logo" class="footer__logo">
       {{ end }}
     </div>
+  </div>
 
     <!-- Column 3: Social Links -->
     <div class="footer__column footer__column--social">
