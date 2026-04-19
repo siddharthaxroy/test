@@ -8,15 +8,15 @@ Siddhartha Roy’s environmental science and engineering research group is house
 
 Roy and his Virginia Tech team’s scientific and humanitarian relief work, with residents of Flint, Michigan, helped uncover the Flint Water Crisis using citizen science, open data sharing, field sampling, investigative journalism, and social media. These efforts led to the declaration of a “Public Health Emergency” by President Obama, garnered over $1.3 billion in relief, and informed the 2018 MI Lead and Copper Rule, the 2021 $1 Trillion federal Infrastructure Bill (H.R. 3684), and the 2024 US EPA Lead and Copper Rule Improvements. His work has been discussed in The New York Times, BBC World Service, and the PBS® NOVA documentary “Poisoned Water,” and his TED talk “Science in service to the public good” has been viewed over 1.6 million times worldwide. 
 
-Roy's group investigates water safety using laboratory experiments, field studies, analytical methods development, epidemiological approaches, and computational modeling. The research examines metals leaching and corrosion in water infrastructure, evaluates disinfection and treatment technologies, and uses isotope fingerprinting to trace contamination sources. The team also seeks to understand how water contamination impacts human health. Working in underserved communities, post-industrial cities, and public schools across the U.S., West Africa, and Southeast Asia, the team conducts water quality investigations addressing both routine and disaster-related contamination. 
-
-Through partnerships with communities, water utilities, and government agencies, Roy's group facilitates citizen science investigations, pilots and implements engineering solutions, and advances policy interventions to reduce contaminated water and lead exposure in the U.S. and globally. Finally, the lab is dedicated to science communication, bringing research to life through storytelling: writing op-eds for major publications, executive producing documentaries and podcasts, and creating compelling narratives that deepen public understanding of science.
+Roy’s group combines laboratory experiments, field studies, analytical method development, epidemiological approaches, and computational modeling to investigate how metals leach and corrode in water infrastructure, assess disinfection and treatment technologies, trace contamination sources through isotope fingerprinting, and understand the health impacts of contaminated water. Working with underserved communities, post‑industrial cities, and public schools across the U.S., West Africa, and Southeast Asia, the team conducts water quality investigations and hypothesis-driven research. Through partnerships with communities, utilities, and government agencies, the group advances citizen science, pilots and implements engineering solutions, informs policy to reduce lead (Pb), pathogens, and other contaminants, and prioritizes science communication — bringing research to the public through op‑eds, documentaries, podcasts, and  storytelling that advances public understanding of and trust in science.
 
 Roy received a Ph.D. in Civil and Environmental Engineering with advisor Dr. Marc Edwards from Virginia Tech, where he was named Graduate Student of the Year. His work has won prizes and recognition from the American Association for the Advancement of Science, the American Civil Liberties Union, the American Society of Civil Engineers, the American Water Works Association, the Boston Globe, the International Water Association, and the Obama Foundation.
 
 Keywords: Aquatic chemistry; Water quality and treatment; Citizen science; Electrochemistry; Material science; Lead (Pb) exposure; Environmental epidemiology; Global development. 
 
 email: roy[dot]s[at]rutgers[dot]edu; office: 848-932-5780.
+
+[Group Principles](/principles/) | [Events](/events/) 
 
 ------
 ### taskforce, scientific cohort, and working groups
@@ -78,4 +78,4 @@ American Institute of Chemical Engineers (2016): [Pursuing Science for the Publi
 
 ------
 
-Page created: 2026. Last Modified: April 01, 2026. 
+Page created: 2026. Last Modified: April 18, 2026. 
