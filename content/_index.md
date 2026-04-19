@@ -4,7 +4,7 @@ title: "Welcome"
 
 ## Siddhartha Roy's Group at Rutgers University  
 
-{{< image src="/img/collage.png" position="center" >}}  
+{{< carousel transition="5" >}}
 
 ---
 
