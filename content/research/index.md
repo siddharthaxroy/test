@@ -1,6 +1,7 @@
 ---
 description: "Published journal articles and pre-prints"
 title: "Research and Publications"
+layout: "publications"
 ---
 
 **Legend**
