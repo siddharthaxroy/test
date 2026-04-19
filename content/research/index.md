@@ -19,7 +19,7 @@ title: "Research and Publications"
 
 ------
 
-1. α † ^ Quantifying lead (Pb) leaching from galvanized handpump spouts, leaded brass taps, and stainless-steel alternatives using the NSF 61 test protocol. *PLOS Water*.  In press. [10.31223/X5W72N↗](https://doi.org/10.31223/X5W72N)
+1. α † ^ Quantifying lead (Pb) leaching from galvanized handpump spouts, leaded brass taps, and stainless-steel alternatives using the NSF 61 test protocol. *PLOS Water*. [10.1371/journal.pwat.0000402↗](https://doi.org/10.1371/journal.pwat.0000402)
 
 1. α Preventing lead (Pb) contamination in rural community water systems in LMICs through integrated screening, standards enforcement, and supply chain interventions. *Groundwater for Sustainable Development*.  [10.1016/j.gsd.2025.101509↗](https://doi.org/10.1016/j.gsd.2025.101509)
 
