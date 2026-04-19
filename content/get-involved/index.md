@@ -1,5 +1,6 @@
 ---
 title: "Get Involved"
+cover: "news/25-10-chester.jpg"
 ---
 
 1. [Visit our campus](#visit)
