@@ -1,5 +1,6 @@
 ---
 title: "Principles of Science Communication for Research Group Members"
+cover: "posts/ijheh-table.png"
 ---
 
 ------
