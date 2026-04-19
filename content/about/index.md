@@ -16,7 +16,7 @@ Keywords: Aquatic chemistry; Water quality and treatment; Citizen science; Elect
 
 email: roy[dot]s[at]rutgers[dot]edu; office: 848-932-5780.
 
-[Group Principles](/principles/) | [Events](/events/) 
+[Group Principles](/principles/) | [Events](/events/) | [Press](/press/)
 
 ------
 ### taskforce, scientific cohort, and working groups
