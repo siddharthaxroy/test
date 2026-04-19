@@ -1,6 +1,7 @@
 ---
 description: "TED, documentaries, op-eds, podcasts, and popular media"
 title: "Public Understanding of Science"
+layout: "outreach"
 ---
 
 [TED Talk](#ted)
