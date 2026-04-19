@@ -65,7 +65,7 @@ enableEmoji = "true"
     weight = 3
 
 [[menu.main]]
-    url = "/public/"
+    url = "/outreach/"
     name = "Outreach"
     weight = 4
 
