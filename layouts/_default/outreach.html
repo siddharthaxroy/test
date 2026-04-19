@@ -1,0 +1,944 @@
+{{ define "main" }}
+<main class="outreach-page">
+  <!-- Hero Section -->
+  <div class="outreach-hero">
+    <div class="outreach-hero-content">
+      <h1 class="outreach-title">{{ .Title }}</h1>
+      <p class="outreach-subtitle">{{ .Params.description }}</p>
+    </div>
+  </div>
+
+  <!-- Table of Contents / Navigation -->
+  <div class="outreach-toc-container">
+    <nav class="outreach-toc" aria-label="Page sections">
+      <h2 class="toc-title">Quick Navigation</h2>
+      <ul class="toc-list">
+        <li><a href="#ted" class="toc-link">TED Talk</a></li>
+        <li><a href="#essays" class="toc-link">Newspaper Essays</a></li>
+        <li><a href="#movies" class="toc-link">Documentaries & Films</a></li>
+        <li><a href="#podcast" class="toc-link">Podcasts</a></li>
+        <li><a href="#websites" class="toc-link">Research Websites</a></li>
+        <li><a href="#panels" class="toc-link">Panels & Discussions</a></li>
+        <li><a href="#videos" class="toc-link">Videos</a></li>
+        <li><a href="#profiles" class="toc-link">Profiles</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="outreach-container">
+    <!-- Main Content -->
+    <article class="outreach-content">
+      <!-- TED Talk Section -->
+      <section class="outreach-section" id="ted">
+        <div class="section-header">
+          <h2 class="section-title">TED Talk</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <div class="ted-content">
+          <h3 class="content-subtitle">
+            <a href="https://www.ted.com/talks/siddhartha_roy_science_in_service_to_the_public_good?language=en" target="_blank" class="content-link">
+              Science in Service to the Public Good on TED.com ↗
+            </a>
+          </h3>
+          <div class="video-embed">
+            <iframe width="100%" height="500" src="https://www.youtube.com/embed/dBFPtJ_qYX8" title="TED Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+
+      <!-- Essays Section -->
+      <section class="outreach-section" id="essays">
+        <div class="section-header">
+          <h2 class="section-title">Newspaper Columns & Essays</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <p class="section-intro">A compiled version of these writings is available on <a href="https://siddhartharoy.substack.com/" class="section-link">Because, my newsletter ↗</a></p>
+
+        <div class="essays-grid">
+          <!-- Essay 1 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/undark2.png" alt="Undark article about Flint water crisis" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://undark.org/2023/03/30/as-flint-reeled-from-a-water-crisis-words-may-have-caused-harm/" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">As Flint Reeled From a Water Crisis, Words May Have Caused Harm</h3>
+              <p class="essay-publication"><em>Undark</em> (with Keith Petrie and Marc Edwards) • 2023</p>
+            </div>
+          </article>
+
+          <!-- Essay 2 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/amsci2.png" alt="American Scientist article about Tuskegee" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://www.americanscientist.org/article/who-dares-to-speak-up" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">Who Dares to Speak Up? An Interview with Tuskegee Whistleblower Peter Buxtun</h3>
+              <p class="essay-publication"><em>American Scientist</em> (with Marc Edwards and Carol Yang) • 2021</p>
+            </div>
+          </article>
+
+          <!-- Essay 3 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/iwa.png" alt="International Water Association article" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://iwa-network.org/what-can-we-learn-from-misinformation-on-scientific-matters-in-the-water-space/" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">What Can We Learn from Misinformation on Scientific Matters in the Water Space?</h3>
+              <p class="essay-publication"><em>International Water Association</em> • 2020</p>
+            </div>
+          </article>
+
+          <!-- Essay 4 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/undark.png" alt="Undark article about sewage sludge" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://undark.org/2020/09/17/flint-water-crisis-sewage/" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">From Sewage Sludge, a New Perspective on the Flint Water Crisis</h3>
+              <p class="essay-publication"><em>Undark</em> (with Marc Edwards; syndicated in Mother Jones) • 2020</p>
+            </div>
+          </article>
+
+          <!-- Essay 5 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/cnn.png" alt="CNN article about Flint water" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://edition.cnn.com/2019/03/14/opinions/flint-water-myths-scientific-dark-age-roy-edwards/index.html" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">Flint Water Crisis Shows the Dangers of a Scientific Dark Age</h3>
+              <p class="essay-publication"><em>CNN</em> (with Marc Edwards) • 2019</p>
+            </div>
+          </article>
+
+          <!-- Essay 6 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/aeon.png" alt="Aeon article about science" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://aeon.co/essays/science-is-a-public-good-in-peril-heres-how-to-fix-it" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">Science is a Public Good in Peril - Here's How to Fix It</h3>
+              <p class="essay-publication"><em>Aeon</em> (with Marc Edwards) • 2017</p>
+            </div>
+          </article>
+
+          <!-- Essay 7 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/amsci.png" alt="American Scientist feature" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://www.americanscientist.org/article/the-hand-in-hand-spread-of-mistrust-and-misinformation-in-flint" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">The Hand-in-Hand Spread of Mistrust and Misinformation in Flint</h3>
+              <p class="essay-publication"><em>American Scientist</em> (Feature Article) • 2017</p>
+            </div>
+          </article>
+
+          <!-- Essay 8 -->
+          <article class="essay-card">
+            <div class="essay-image-wrapper">
+              <img src="/public/conversation.png" alt="The Conversation article" class="essay-image">
+              <div class="essay-overlay">
+                <a href="https://theconversation.com/we-helped-uncover-a-public-health-crisis-in-flint-but-learned-there-are-costs-to-doing-good-science-54227" target="_blank" class="essay-read-link">Read Article ↗</a>
+              </div>
+            </div>
+            <div class="essay-meta">
+              <h3 class="essay-title">We Helped Uncover a Public Health Crisis in Flint, but Learned There Are Costs to Doing Good Science</h3>
+              <p class="essay-publication"><em>The Conversation</em> (with William J. Rhoads and Rebekah Martin; syndicated in PBS, Scientific American) • 2016</p>
+            </div>
+          </article>
+        </div>
+
+        <div class="newsletter-cta">
+          <h3>Subscribe for New Essays</h3>
+          <p>Get notified about new op-eds and science writing</p>
+          <a href="https://siddhartharoy.substack.com/" class="cta-button">Subscribe to Newsletter ↗</a>
+        </div>
+      </section>
+
+      <!-- Documentaries Section -->
+      <section class="outreach-section" id="movies">
+        <div class="section-header">
+          <h2 class="section-title">Documentaries & Hollywood Films</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <div class="documentaries-list">
+          <div class="documentary-item">
+            <div class="documentary-info">
+              <h3><a href="https://www.pbs.org/video/3001355667/" target="_blank" class="content-link">PBS® NOVA® 'Poisoned Water' ↗</a></h3>
+              <p class="doc-award">Winner of the AAAS Kavli Science Journalism Award</p>
+              <p><a href="https://www.netflix.com/title/81121185" target="_blank" class="content-link">Also available on Netflix ↗</a></p>
+            </div>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/akRz9XLJtmo" title="PBS NOVA Poisoned Water" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div class="documentary-item">
+            <div class="documentary-info">
+              <h3><a href="https://www.youtube.com/watch?v=x1mrZ1zHb9o" target="_blank" class="content-link">Virginia Tech Documentary 'Cicero' ↗</a></h3>
+            </div>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/x1mrZ1zHb9o" title="Virginia Tech Cicero Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div class="documentary-item">
+            <div class="documentary-info">
+              <h3><a href="https://www.imdb.com/title/tt6397426/" target="_blank" class="content-link">FLINT ↗</a> (Hulu)</h3>
+              <p class="doc-note"><em>Factually inaccurate but entertaining</em></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Podcasts Section -->
+      <section class="outreach-section" id="podcast">
+        <div class="section-header">
+          <h2 class="section-title">Podcasts & Documentary Series</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <p class="section-intro">As Executive Producer (with Marc Edwards)</p>
+
+        <div class="podcasts-grid">
+          <div class="podcast-card">
+            <h3>The Public-Inspired Science Podcast</h3>
+            <p class="podcast-link"><a href="https://podcasts.apple.com/us/podcast/public-inspired-science/id1473322295" target="_blank">Listen on iTunes ↗</a></p>
+          </div>
+
+          <div class="podcast-card">
+            <h3>US Water Study Documentary Series</h3>
+            <p class="podcast-description">With documentarian Erica Corder</p>
+            <p class="podcast-link"><a href="https://www.youtube.com/playlist?list=PLoK83kxXhwqEB3cJiiA-NwGTLYkwBx4N3" target="_blank">Watch on YouTube ↗</a></p>
+          </div>
+        </div>
+
+        <div class="video-grid">
+          <div class="video-item">
+            <iframe width="100%" height="250" src="https://www.youtube.com/embed/-MypPI56dHE" title="US Water Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="video-item">
+            <iframe width="100%" height="250" src="https://www.youtube.com/embed/Rb_Ho1fm7kY" title="US Water Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="video-item">
+            <iframe width="100%" height="250" src="https://www.youtube.com/embed/QkOhA4mlEg4" title="US Water Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="video-item">
+            <iframe width="100%" height="250" src="https://www.youtube.com/embed/s-hVGMFsLO4" title="US Water Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="video-item">
+            <iframe width="100%" height="250" src="https://www.youtube.com/embed/9BP39Y4AgR0" title="US Water Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+
+      <!-- Websites Section -->
+      <section class="outreach-section" id="websites">
+        <div class="section-header">
+          <h2 class="section-title">Research Websites</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <div class="websites-grid">
+          <div class="website-card">
+            <h3>The US Water Study Team</h3>
+            <p class="website-link"><a href="http://www.uswaterstudy.org" target="_blank">Visit Website ↗</a></p>
+          </div>
+
+          <div class="website-card">
+            <h3>Flint Water Study</h3>
+            <p class="website-stats">1M+ web traffic</p>
+            <p class="website-link"><a href="http://www.flintwaterstudy.org" target="_blank">Visit Website ↗</a></p>
+            <p class="website-note"><a href="https://doi.org/10.1177/1075547017751948" target="_blank">Read paper on public engagement via Twitter ↗</a></p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Panels Section -->
+      <section class="outreach-section" id="panels">
+        <div class="section-header">
+          <h2 class="section-title">Moderated Panels & Discussions</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <div class="panels-list">
+          <div class="panel-item">
+            <h3>"Academic Freedom and the Flint Water Crisis"</h3>
+            <p class="panel-meta">HxA Conference Panel • June 2025</p>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/seOvuKdnfIA" title="Academic Freedom Panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div class="panel-item">
+            <h3>"The Science and Politics of Journal Retractions"</h3>
+            <p class="panel-meta">Conversation with Ivan Oransky, Retraction Watch • May 2022</p>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/r8Vdo_xNtjM" title="Journal Retractions Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div class="panel-item">
+            <h3>"Fighting the Coronavirus Pandemic"</h3>
+            <p class="panel-meta">Evidence-based Approaches from Environmental Engineers • July 2020</p>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/ORFvtGF6YTY" title="Coronavirus Pandemic Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Videos Section -->
+      <section class="outreach-section" id="videos">
+        <div class="section-header">
+          <h2 class="section-title">Produced Videos</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <div class="videos-list">
+          <div class="video-feature">
+            <h3>Flint Water Study - A Visual Ode to Environmental Engineers</h3>
+            <p class="video-award">2nd Prize: AEESP National Video Competition 2015-16</p>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/t0ZNYHB7TvE" title="Flint Water Study Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <h3 class="videos-subheading">Water Sampling Documentation</h3>
+          <div class="video-grid-2">
+            <div class="video-item">
+              <h4><a href="https://youtu.be/dEQDaPws2xk" target="_blank">Water Sampling in Flint, Michigan ↗</a></h4>
+              <iframe width="100%" height="250" src="https://www.youtube.com/embed/dEQDaPws2xk" title="Water Sampling Flint" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="video-item">
+              <h4><a href="https://youtu.be/pxg9X9NMy4g" target="_blank">Water Sampling in California Public Schools ↗</a></h4>
+              <iframe width="100%" height="250" src="https://www.youtube.com/embed/pxg9X9NMy4g" title="Water Sampling California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div class="video-feature">
+            <h3>MacArthur Foundation 100&Change Grant Proposal</h3>
+            <div class="video-embed">
+              <iframe width="100%" height="400" src="https://www.youtube.com/embed/j8Y2Q7WPLOE" title="MacArthur Grant Proposal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Profiles Section -->
+      <section class="outreach-section" id="profiles">
+        <div class="section-header">
+          <h2 class="section-title">Profiles & Recognition</h2>
+          <div class="section-accent"></div>
+        </div>
+
+        <div class="profiles-grid">
+          <div class="profile-card">
+            <h3><a href="https://www.statnews.com/wunderkinds/siddhartha-roy/" target="_blank">STAT News Wunderkind ↗</a></h3>
+            <p class="profile-year">2023</p>
+            <p class="profile-subtitle"><a href="https://www.statnews.com/2021/11/18/flint-water-science-trust-covid19/" target="_blank">Lessons from a Flint Crisis Researcher About Building Trust in Science During the Pandemic ↗</a></p>
+          </div>
+
+          <div class="profile-card">
+            <h3>International Water Association</h3>
+            <p class="profile-year">2021</p>
+            <p class="profile-subtitle">Influential Scientist Wins IWA Young Leadership Award</p>
+          </div>
+
+          <div class="profile-card">
+            <h3><a href="https://www.aiche.org/resources/publications/cep/2016/december/profile-pursuing-science-public-good" target="_blank">American Institute of Chemical Engineers ↗</a></h3>
+            <p class="profile-year">2016</p>
+            <p class="profile-subtitle">Pursuing Science for the Public Good</p>
+          </div>
+        </div>
+      </section>
+
+      <div class="outreach-footer">
+        <p><em>Last updated: May 2025</em></p>
+      </div>
+    </article>
+  </div>
+</main>
+
+<style>
+/* Page Layout */
+.outreach-page {
+  background: #ffffff;
+  padding: 0;
+}
+
+/* Hero Section */
+.outreach-hero {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+  color: #ffffff;
+  padding: 4rem 1.5rem;
+  text-align: center;
+}
+
+.outreach-hero-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.outreach-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+  line-height: 1.2;
+}
+
+.outreach-subtitle {
+  font-family: 'Merriweather', serif;
+  font-size: 1.2rem;
+  opacity: 0.95;
+  margin: 0;
+  font-weight: 300;
+}
+
+/* Table of Contents */
+.outreach-toc-container {
+  background: #f5f5f5;
+  padding: 2rem 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.outreach-toc {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.toc-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 1rem 0;
+}
+
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.toc-link {
+  display: inline-block;
+  color: #CC0033;
+  text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.toc-link:hover {
+  border-bottom-color: #CC0033;
+  padding-left: 0.5rem;
+}
+
+/* Main Container */
+.outreach-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.outreach-content {
+  width: 100%;
+}
+
+/* Section Styles */
+.outreach-section {
+  margin-bottom: 4rem;
+  scroll-margin-top: 100px;
+}
+
+.outreach-section:last-child {
+  margin-bottom: 0;
+}
+
+.section-header {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 1rem 0;
+}
+
+.section-accent {
+  width: 60px;
+  height: 4px;
+  background: #CC0033;
+  margin-top: 1rem;
+}
+
+.section-intro {
+  font-family: 'Merriweather', serif;
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 2rem;
+  line-height: 1.8;
+}
+
+.section-link,
+.content-link {
+  color: #CC0033;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.section-link:hover,
+.content-link:hover {
+  color: #aa0028;
+}
+
+/* TED Content */
+.ted-content {
+  background: #f9f9f9;
+  padding: 2rem;
+  border-radius: 4px;
+  border-left: 4px solid #CC0033;
+}
+
+.content-subtitle {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4rem;
+  color: #1a1a1a;
+  margin: 0 0 1.5rem 0;
+}
+
+/* Essays Grid - 2 Columns */
+.essays-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.essay-card {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.essay-card:hover {
+  box-shadow: 0 8px 20px rgba(204, 0, 51, 0.15);
+  border-color: #CC0033;
+  transform: translateY(-4px);
+}
+
+.essay-image-wrapper {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 4/3;
+  background: #f5f5f5;
+}
+
+.essay-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.essay-card:hover .essay-image {
+  transform: scale(1.05);
+}
+
+.essay-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(204, 0, 51, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.essay-card:hover .essay-overlay {
+  opacity: 1;
+}
+
+.essay-read-link {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.essay-read-link:hover {
+  background: #ffffff;
+  color: #CC0033;
+}
+
+.essay-meta {
+  padding: 1.5rem;
+}
+
+.essay-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 0.75rem 0;
+  line-height: 1.4;
+}
+
+.essay-publication {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  color: #888;
+  margin: 0;
+}
+
+/* Newsletter CTA */
+.newsletter-cta {
+  background: linear-gradient(135deg, #f0f0f0 0%, #fafafa 100%);
+  padding: 2rem;
+  border-radius: 4px;
+  text-align: center;
+  border-left: 4px solid #CC0033;
+}
+
+.newsletter-cta h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4rem;
+  color: #1a1a1a;
+  margin: 0 0 0.5rem 0;
+}
+
+.newsletter-cta p {
+  font-family: 'Merriweather', serif;
+  color: #666;
+  margin: 0 0 1.5rem 0;
+}
+
+.cta-button {
+  display: inline-block;
+  background: #CC0033;
+  color: #ffffff;
+  padding: 0.75rem 2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: 'Work Sans', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #aa0028;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(204, 0, 51, 0.3);
+}
+
+/* Videos and Embeds */
+.video-embed {
+  position: relative;
+  width: 100%;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.video-grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.video-item {
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.video-item h4 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  margin: 0 0 1rem 0;
+  color: #1a1a1a;
+}
+
+.video-item h4 a {
+  color: #CC0033;
+  text-decoration: none;
+}
+
+/* Documentaries */
+.documentaries-list {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.documentary-item {
+  background: #f9f9f9;
+  padding: 2rem;
+  border-radius: 4px;
+  border-left: 4px solid #CC0033;
+}
+
+.documentary-info h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  color: #1a1a1a;
+  margin: 0 0 0.5rem 0;
+}
+
+.doc-award,
+.doc-note {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.95rem;
+  color: #CC0033;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+
+/* Podcasts */
+.podcasts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.podcast-card {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid #CC0033;
+}
+
+.podcast-card h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: #1a1a1a;
+  margin: 0 0 1rem 0;
+}
+
+.podcast-description {
+  font-family: 'Merriweather', serif;
+  color: #666;
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+}
+
+.podcast-link {
+  margin: 1rem 0 0 0;
+}
+
+/* Websites and Panels */
+.websites-grid,
+.profiles-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.website-card,
+.profile-card {
+  background: #f9f9f9;
+  padding: 2rem;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid #CC0033;
+}
+
+.website-card h3,
+.profile-card h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  color: #1a1a1a;
+  margin: 0 0 0.5rem 0;
+}
+
+.website-stats {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  color: #CC0033;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+
+.website-note,
+.profile-year {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  color: #888;
+  margin: 0.5rem 0;
+}
+
+.profile-subtitle {
+  font-family: 'Merriweather', serif;
+  font-size: 0.95rem;
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.panels-list {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.panel-item {
+  background: #f9f9f9;
+  padding: 2rem;
+  border-radius: 4px;
+  border-left: 4px solid #CC0033;
+}
+
+.panel-item h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  color: #1a1a1a;
+  margin: 0 0 0.5rem 0;
+}
+
+.panel-meta {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.95rem;
+  color: #888;
+  margin: 0 0 1.5rem 0;
+}
+
+/* Videos Section */
+.videos-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.video-feature {
+  background: #f9f9f9;
+  padding: 2rem;
+  border-radius: 4px;
+  border-left: 4px solid #CC0033;
+}
+
+.video-feature h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  color: #1a1a1a;
+  margin: 0 0 0.5rem 0;
+}
+
+.video-award {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.95rem;
+  color: #CC0033;
+  font-weight: 600;
+  margin: 0.5rem 0 1.5rem 0;
+}
+
+.videos-subheading {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  color: #1a1a1a;
+  margin: 2rem 0 1rem 0;
+}
+
+/* Footer */
+.outreach-footer {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid #e0e0e0;
+  margin-top: 3rem;
+  font-family: 'Work Sans', sans-serif;
+  color: #888;
+  font-size: 0.95rem;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .essays-grid,
+  .podcasts-grid,
+  .websites-grid,
+  .profiles-grid,
+  .video-grid,
+  .video-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .outreach-title {
+    font-size: 2rem;
+  }
+
+  .outreach-subtitle {
+    font-size: 1rem;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+  }
+
+  .toc-list {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .content-subtitle {
+    font-size: 1.2rem;
+  }
+}
+</style>
+
+{{ end }}
