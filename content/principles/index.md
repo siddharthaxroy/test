@@ -1,5 +1,6 @@
 ---
 title: "Principia Scripta"
+cover: "img/model.png"
 ---
 
 ------
