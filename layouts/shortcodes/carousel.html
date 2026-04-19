@@ -1,0 +1,315 @@
+<!-- Roy Water Lab Image Carousel Shortcode -->
+{{ $transitionTime := .Get "transition" | default "5" }}
+
+<div class="carousel-container">
+  <div class="carousel-wrapper">
+    <div class="carousel" id="main-carousel" data-transition-time="{{ $transitionTime }}">
+      <ul class="carousel-slides">
+        {{ $slides := slice
+          (dict "image" "/img/carousel-1.jpg" "alt" "Lab Work")
+          (dict "image" "/img/carousel-2.jpg" "alt" "Field Research")
+          (dict "image" "/img/carousel-3.jpg" "alt" "Team Collaboration")
+          (dict "image" "/img/carousel-4.jpg" "alt" "Research Equipment")
+          (dict "image" "/img/carousel-5.jpg" "alt" "Community Engagement")
+          (dict "image" "/img/carousel-6.jpg" "alt" "Public Communication")
+        }}
+
+        {{ range $index, $slide := $slides }}
+          <li class="carousel-slide{{ if eq $index 0 }} carousel-slide-active{{ end }}" role="tabpanel" aria-label="Slide {{ add $index 1 }} of {{ len $slides }}">
+            <img src="{{ $slide.image }}" alt="{{ $slide.alt }}" class="carousel-image">
+          </li>
+        {{ end }}
+      </ul>
+
+      <!-- Carousel Controls -->
+      <div class="carousel-controls">
+        <!-- Slide Counter -->
+        <div class="carousel-counter" aria-live="polite" aria-atomic="true">
+          <span class="counter-current">1</span>
+          <span class="counter-separator">/</span>
+          <span class="counter-total">6</span>
+        </div>
+
+        <!-- Navigation Arrows -->
+        <div class="carousel-navigation">
+          <button class="carousel-btn carousel-btn-prev" aria-label="Previous slide" title="Previous">
+            <svg width="35" height="18" viewBox="0 0 35 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10.4748 17.999C10.9323 17.9784 11.3316 17.6974 11.4864 17.287C11.6413 16.8766 11.5211 16.4178 11.182 16.1247L4.27578 10.0866L33.0437 10.0866C33.083 10.0884 33.1223 10.0884 33.1616 10.0866C33.754 10.0574 34.2649 9.51731 34.234 8.9531C34.2032 8.38892 33.6362 7.9023 33.0437 7.93179L4.27578 7.93179L11.182 1.90495C11.5026 1.65018 11.6499 1.2479 11.565 0.858503C11.4801 0.469105 11.1768 0.155899 10.7762 0.0437546C10.3755 -0.0683899 9.94252 0.0387592 9.64988 0.322487L0.598763 8.22359C0.367085 8.42755 0.235352 8.71437 0.235352 9.01483C0.235352 9.31529 0.367085 9.6021 0.598763 9.80606L9.64988 17.7072C9.87226 17.9065 10.1698 18.0117 10.4748 17.999Z" fill="#ffffff"/>
+            </svg>
+          </button>
+
+          <button class="carousel-btn carousel-btn-next" aria-label="Next slide" title="Next">
+            <svg width="35" height="18" viewBox="0 0 35 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M24.5252 0.001C24.0677 0.0215721 23.6684 0.302636 23.5136 0.713033C23.3587 1.12343 23.4789 1.58224 23.818 1.8753L30.7242 7.91336L1.95632 7.91336C1.91701 7.91157 1.87769 7.91157 1.83838 7.91336C1.24593 7.94263 0.73506 8.48269 0.766279 9.0469C0.797498 9.61108 1.37117 10.0977 1.95632 10.0682L30.7242 10.0682L23.818 16.095C23.4975 16.3498 23.3502 16.7521 23.4351 17.1415C23.5199 17.5309 23.8232 17.8441 24.2239 17.9562C24.6245 18.0684 25.0575 17.9612 25.3501 17.6775L34.4012 9.77641C34.6356 9.57245 34.7689 9.28563 34.7689 8.98517C34.7689 8.68471 34.6356 8.3979 34.4012 8.19394L25.3501 0.292836C25.1257 0.0935435 24.8277 -0.0116937 24.5252 0.001Z" fill="#ffffff"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+/* Carousel Container */
+.carousel-container {
+  width: 100%;
+  margin: 2rem 0;
+  background: #f5f5f5;
+}
+
+.carousel-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Carousel Styles */
+.carousel {
+  position: relative;
+  overflow: hidden;
+  background: #000;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.carousel-slides {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+}
+
+.carousel-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.6s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+}
+
+.carousel-slide-active {
+  opacity: 1;
+}
+
+.carousel-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Carousel Controls */
+.carousel-controls {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.2rem 1.5rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent);
+  min-height: 50px;
+}
+
+.carousel-counter {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.counter-separator {
+  margin: 0 0.35rem;
+  opacity: 0.8;
+}
+
+.carousel-navigation {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+/* Carousel Buttons */
+.carousel-btn {
+  background: rgba(204, 0, 51, 0.85);
+  border: 2px solid #CC0033;
+  color: #ffffff;
+  width: 44px;
+  height: 44px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: #CC0033;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(204, 0, 51, 0.4);
+}
+
+.carousel-btn:active {
+  transform: translateY(0);
+}
+
+.carousel-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .carousel-wrapper {
+    padding: 0 1rem;
+  }
+
+  .carousel-controls {
+    padding: 0.75rem 1rem;
+    min-height: 42px;
+  }
+
+  .carousel-counter {
+    font-size: 0.8rem;
+  }
+
+  .carousel-btn {
+    width: 38px;
+    height: 38px;
+  }
+
+  .carousel-btn svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .carousel-container {
+    margin: 1rem 0;
+  }
+
+  .carousel-controls {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .carousel-counter {
+    font-size: 0.75rem;
+  }
+
+  .carousel-btn {
+    width: 36px;
+    height: 36px;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const carousel = document.getElementById('main-carousel');
+  if (!carousel) return;
+
+  const slides = carousel.querySelectorAll('.carousel-slide');
+  const prevBtn = carousel.querySelector('.carousel-btn-prev');
+  const nextBtn = carousel.querySelector('.carousel-btn-next');
+  const counterCurrent = carousel.querySelector('.counter-current');
+  const counterTotal = carousel.querySelector('.counter-total');
+
+  let currentSlide = 0;
+  let autoPlayTimer = null;
+  const transitionTime = parseInt(carousel.dataset.transitionTime || '5') * 1000;
+  const totalSlides = slides.length;
+
+  // Update counter total
+  counterTotal.textContent = totalSlides;
+
+  // Show specific slide
+  function showSlide(n) {
+    // Wrap around
+    if (n >= totalSlides) {
+      currentSlide = 0;
+    } else if (n < 0) {
+      currentSlide = totalSlides - 1;
+    } else {
+      currentSlide = n;
+    }
+
+    // Remove active class from all slides
+    slides.forEach(slide => {
+      slide.classList.remove('carousel-slide-active');
+    });
+
+    // Add active class to current slide
+    slides[currentSlide].classList.add('carousel-slide-active');
+
+    // Update counter
+    counterCurrent.textContent = currentSlide + 1;
+
+    // Restart auto-play
+    resetAutoPlay();
+  }
+
+  // Next slide
+  function nextSlide() {
+    showSlide(currentSlide + 1);
+  }
+
+  // Previous slide
+  function prevSlide() {
+    showSlide(currentSlide - 1);
+  }
+
+  // Auto-play functionality
+  function startAutoPlay() {
+    autoPlayTimer = setInterval(nextSlide, transitionTime);
+  }
+
+  function resetAutoPlay() {
+    if (autoPlayTimer) {
+      clearInterval(autoPlayTimer);
+    }
+    startAutoPlay();
+  }
+
+  // Event listeners
+  prevBtn.addEventListener('click', prevSlide);
+  nextBtn.addEventListener('click', nextSlide);
+
+  // Keyboard navigation
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'ArrowLeft') {
+      prevSlide();
+    } else if (event.key === 'ArrowRight') {
+      nextSlide();
+    }
+  });
+
+  // Pause auto-play on hover
+  carousel.addEventListener('mouseenter', function() {
+    if (autoPlayTimer) {
+      clearInterval(autoPlayTimer);
+    }
+  });
+
+  carousel.addEventListener('mouseleave', startAutoPlay);
+
+  // Start auto-play
+  startAutoPlay();
+});
+</script>
