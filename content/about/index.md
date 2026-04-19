@@ -39,6 +39,21 @@ email: roy[dot]s[at]rutgers[dot]edu; office: 848-932-5780.
 [US Water Study](https://www.uswaterstudy.org) research team at Virginia Tech (Founding Member).
 
 ------
+## teaching at Rutgers
+
+***1. Introduction to Environmental Science (11\:375\:101)***
+
+\[Undergraduate] every Fall.
+
+***2. Science and Engineering for the Public Good (11\:375\:465; 16\:375\:565)***
+
+\[Undergraduate and Graduate] every other Spring.
+
+***3. Water and Wastewater Treatment (11\:375:\302; 16\:375\:504)***
+
+\[Undergraduate and Graduate] every Fall.
+
+------
 ### research center fellowship and memberships 
 
 [NIEHS Center for Disaster Resilient Communities at University of Washington](https://cdrc.uw.edu/education-and-training/applied-learning-fellowships/) Disaster Research Response Fellow.
