@@ -1,5 +1,6 @@
 ---
 title: "Research Publications"
+cover: "posts/004-graphical-abstract.png"
 layout: "publications"
 ---
 
