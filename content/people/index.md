@@ -1,8 +1,6 @@
 ---
 title: "People"
 cover: "img/collage.png"
-description: "Meet our team of researchers"
-date: "2026-04-01"
 ---
 
 1. [Graduate and Postdoctoral Researchers](#graduate-students)
@@ -33,11 +31,12 @@ Members listed in alphabetical order by last name.
 
 ### Awards and Scholarships to student advisees {#awards}  
 
-**National level**
+**National and International level**
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 
 **State level**
+- NJWEA Undergraduate Research Scholarship (Charlene Guo), 2026
 - First Prize – Technical Paper (Philip Smith – ASCE Virginias’ Section), 2018
 - Third Prize – Technical Paper (Kristine Mapili – ASCE Virginias’ Section), 2016
 
@@ -59,10 +58,10 @@ Members listed in alphabetical order by last name.
 **Graduate Students**
 - Chivonne Battle, Environmental Justice, waterborne lead, and trust in drinking water in Chicago Metropolitan Area (manuscript underway), 2018-20
 - Kris Mapili (last known:	Civil Engineer, Wood),	Erosion corrosion of copper in the presence of common disinfectants: free chlorine, chloramine, chlorine dioxide, 2015-16
-- Frank Mazzola (last known: PhD candidate, Virginia Tech), Engineering Ethics and the Public graduate students' perceptions survey (co-first author on peer-reviewed article under review), 2021-23
+- Dr. Frank Mazzola (last known: Assistant Professor, USF), Engineering Ethics and the Public graduate students' perceptions survey (co-first author on peer-reviewed article under review), 2021-23
 - Dr. Kathryn Lopez (last known: ORISE Postdoc, US EPA) Blood lead modeling in three US cities and water sampling in the Chicago metropolitan area (co-author on peer-reviewed article in ACS ES&T Water), 2018-19
 - Dr. Taylor Lightner (last known: Research Associate, Quality Education for Minorities Network), Narrative Analysis of Engineering Graduate Students’ Journeys Navigating Public-Inspired Science Work (co-author on peer-reviewed conference article in ASEE Annual Conference 2021), 2020-21
-- Tolulope Odimayomi (last known: Ph.D. candidate, Virginia Tech),	Biosolids monitoring as an independent method for tracking population-level water lead exposure (AWWA ACE national conference poster awardee; manuscript underway) and citizen science sampling for opportunistic pathogens (co-author on peer-reviewed article in ACS ES&T Water), 2020-22  
+- Dr. Tolulope Odimayomi (last known: Presidential Postdoc, Virginia Tech),	Biosolids monitoring as an independent method for tracking population-level water lead exposure (AWWA ACE national conference poster awardee; manuscript underway) and citizen science sampling for opportunistic pathogens (co-author on peer-reviewed article in ACS ES&T Water), 2020-22  
   
 **Undergraduate Students**
 - Minyoung Choi, Lead in drinking water and public trust in Chicago survey (manuscript underway), 2020-21
@@ -77,4 +76,4 @@ Members listed in alphabetical order by last name.
 - Zihan Wang, Erosion Corrosion in Copper and Nonleaded Alloys used in potable water systems, 2014-15
 - Carol Yang,	Whistleblowing and the Tuskegee Syphilis Experiment (co-author on popular science article in American Scientist), 2019-20  
 
-Page created: 2024. Last updated: April 2026
+Page created: 2024. Last updated: April 2026.
