@@ -32,6 +32,7 @@ Members listed in alphabetical order by last name.
 ### Awards and Scholarships to student advisees {#awards}  
 
 **National and International level**
+- Honorable Mention - National Science Foundation Graduate Research Fellowship (Eve Butterworth), 2026
 - First Prize – Technical Poster (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 - First Prize – Technical Poster - People’s Choice (Tolu Odimayomi – AWWA Annual Conference and Exposition 2021), 2021
 
