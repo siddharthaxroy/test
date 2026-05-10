@@ -6,6 +6,12 @@ layout: "publications"
 
 *If you encounter a paywall, email me to request the full paper.*
 
-For conference talks, go [here](/conference/). For ORCiD records, click [here: 0000-0001-6443-1393](https://orcid.org/0000-0001-6443-1393).
+For ORCiD records, click here: [0000-0001-6443-1393](https://orcid.org/0000-0001-6443-1393).
 
-Last updated: April 18, 2026.
+Visual Research Abstracts for most recent papers:
+
+[{{< image src="/img/plosw.jpg" position="center" >}}](https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000402)
+
+[{{< image src="/img/gsd.jpg" position="center" >}}  ](https://doi.org/10.1016/j.gsd.2025.101509)
+
+Last updated: May 1, 2026.
