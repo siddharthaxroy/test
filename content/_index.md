@@ -24,6 +24,8 @@ The mission of our Water × Health × Development research program is to **facil
  
 ## About Rutgers
 
+{{< image src="/img/rutgers-5.jpg" position="center" >}}  
+
 Established in 1766, Rutgers University is one of America's nine original colonial colleges and first land-grant institutions. A top 15 public national university and a top 100 world university, Rutgers is located in New Brunswick, NJ, and is equidistant from both Philadelphia and New York City. 
 
 The [Department of Environmental Sciences](https://envsci.rutgers.edu/) is the oldest environmental sciences department in the nation, with a history dating back over 100 years, and offers programs in Environmental Science, Environmental Engineering (jointly with the School of Engineering), Meteorology, and Atmospheric Science. 

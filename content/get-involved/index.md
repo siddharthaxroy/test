@@ -1,6 +1,6 @@
 ---
 title: "Get Involved"
-cover: "news/25-10-chester.jpg"
+cover: "news/rutgers-1.jpg"
 ---
 
 1. [Visit our campus](#visit)
@@ -20,7 +20,7 @@ Foran Hall, 59 Dudley Road, 308
 New Brunswick, NJ 08901, United States
  
 **Lab Spaces**  
-Main Lab: Foran 308 | Instrumentation Lab: Foran 311A
+Experimental Space: Foran 308 | Instrumentation Lab: Foran 311A
  
 **Contact**  
 Phone: [(848) 932-5780](tel:8489325780)
@@ -57,18 +57,18 @@ Email: [roy.s@rutgers.edu](mailto:roy.s@rutgers.edu)
 
 ### PhD in Environmental Science or Environmental Engineering
  
-**Status:** Not currently accepting new PhD students.
+**Status:** Not currently seeking PhD students. However, we may be able to accept students who bring their own funding (e.g., NSF Graduate Research Fellowship recipients).
  
 **For future consideration:**  
 Candidates with degrees, research experience, or professional background in environmental science, environmental engineering, civil engineering, chemistry, or related fields are encouraged to inquire about future opportunities.
  
 **Application process:**  
-Interested candidates must apply to and be admitted into the [Rutgers Environmental Science graduate program](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html) before an assistantship can be offered. PhD students receive five years of guaranteed funding (subject to adequate performance).
+Interested candidates must apply to and be admitted into the [Environmental Science](https://envsci.rutgers.edu/academics/envsci_grad/how-to-apply.html) or [Environmental Engineering](https://cee.rutgers.edu/environmental-engineering-home-page) graduate program before an assistantship can be offered. PhD students receive five years of guaranteed funding (subject to adequate performance).
  
  
 ### Master's Degree in Environmental Science or Environmental Engineering
  
-**Status:** Limited opportunities.
+**Status:** Limited opportunities. We may be able to accept students who bring their own funding (Plan A/Thesis option) or wish to use research credits to pursue a coursework-only Masters (Plan B/Essay option).
  
 **4+1 Program Students:**  
 If you are a Rutgers undergraduate in the 4+1 program, email to inquire about MS thesis (Plan A) or essay (Plan B) options.
@@ -77,7 +77,7 @@ If you are a Rutgers undergraduate in the 4+1 program, email to inquire about MS
 ### Undergraduate Research
  
 **Aresty Research Assistant Program**  
-Competitive positions available for Rutgers undergraduates. Browse open projects in our laboratory and apply through the [Aresty portal](https://aresty.rutgers.edu/programs/research-assistant-program). Applications for 2026-27 opened in March 2026.
+Competitive positions available for Rutgers undergraduates. Browse open projects in our laboratory and apply through the [Aresty portal](https://aresty.rutgers.edu/programs/research-assistant-program). Applications open in March.
  
 **George H. Cook Scholars Program**  
 Rutgers SEBS undergraduates interested in conducting independent research and writing a senior honors thesis should review the [program details](https://sebshonors.rutgers.edu/gh-cook-scholars/) before reaching out.
