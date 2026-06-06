@@ -13,7 +13,7 @@ cover: "news/rutgers-1.jpg"
 
 ### Visit our campus {#visit}
 
-**Connect with our laboratory and learn about our research and education initiatives in person. We are located in Central Jersey and equidistant from Philaldelphia and New York City.**
+**Connect with our laboratory and learn about our research and education initiatives in person. We are located in Central Jersey and equidistant from Philaldelphia and New York City.** 
 
 **Location**  
 Foran Hall, 59 Dudley Road, 308  
