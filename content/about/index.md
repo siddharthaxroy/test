@@ -5,7 +5,7 @@ cover: "news/rutgers-4.jpg"
 
 {{< figure src="/img/pbs500x.jpg" position="center" style="border-radius: 8px;" caption="Credit: Rahoul Ghose/PBS" captionPosition="right" captionStyle="color: red;" >}}
 
-Siddhartha Roy is an Assistant Professor of Environmental Sciences and Engineering at Rutgers University.
+Siddhartha Roy is an Assistant Professor of Environmental Sciences and Engineering at Rutgers University. 
 
 Roy’s research group integrates laboratory experiments, field investigations, analytical method development, epidemiological studies, and computational modeling to assess corrosion and metal leaching in water infrastructure; evaluate treatment technologies; trace contamination sources through isotope fingerprinting; and examine the health and psychosocial impacts of contaminated water. Through partnerships with communities, water utilities, and academic collaborators, his group advances research, engineering solutions, and policies to reduce exposure to lead (Pb), heavy metals, pathogens, and other drinking water contaminants in the United States, West Africa, and South Asia. Roy serves on expert working groups for the World Health Organization (WHO), the U.S. Environmental Protection Agency (EPA), the New Jersey Department of Environmental Protection (NJDEP), and the Rural Water Supply Network (RWSN).
 
@@ -15,7 +15,7 @@ Roy received a PhD in Civil and Environmental Engineering from Virginia Tech und
 
 email: roy[dot]s[at]rutgers[dot]edu; office: 848-932-5780.
 
-Courtesy Appointments at Rutgers:
+Affiliations:
 1) Scholarly Affiliate, Rutgers Artificial Intelligence and Data Science (RAD) Collaboratory
 
 [Principles](/principles/) | [Events](/events/) | [Press](/press/)
