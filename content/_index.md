@@ -18,7 +18,7 @@ The mission of our Water × Health × Development research program is to **facil
 
 ## At a Glance  
 
-{{< glance >}}  
+{{< glance >}}   
 
 ---
  
