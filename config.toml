@@ -54,25 +54,25 @@ enableEmoji = "true"
 
 [[menu.main]]
     url = "/about/"
-    name = "About"
+    name = "ABOUT"
     weight = 1
 
 [[menu.main]]
     url = "/people/"
-    name = "People"
+    name = "PEOPLE"
     weight = 2
     
 [[menu.main]]
     url = "/research/"
-    name = "Research"
+    name = "RESEARCH"
     weight = 3
 
 [[menu.main]]
     url = "/outreach/"
-    name = "Outreach"
+    name = "OUTREACH"
     weight = 4
 
 [[menu.main]]
     url = "/news/"
-    name = "News"
+    name = "NEWS"
     weight = 5
