@@ -34,6 +34,9 @@ contentTypeName = "/"
   substack = "siddhartharoy"
   googlescholar = "https://scholar.google.com/citations?user=AW-b9OwAAAAJ&hl=en"
 
+  # Disable Twitter
+  disableTwiterCards = true
+
 # defaultTheme="light"
 
 hideReadMore=true
