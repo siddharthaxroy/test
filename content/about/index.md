@@ -68,6 +68,11 @@ Affiliations:
 [Public Health Extreme Events Research (PHEER) Network](https://www.pheernetwork.org/) Member.
 
 ------
+### professional memberships
+
+American Chemical Society, American Water Works Association, Association of Environmental Engineering and Science Professors, Heterodox Academy, New Jersey Corrosion Committee.
+
+------
 ### profiles
 
 University of North Carolina at Chapel Hill (2023): [Safe Water for All](https://endeavors.unc.edu/safe-water-for-all/)
