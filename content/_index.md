@@ -14,6 +14,8 @@ The mission of our Water × Health × Development research program is to **facil
 
 {{< image src="/img/visual-research-abstract.png" position="center" >}}  
 
+We aspire to be the tide that raises all boats.
+
 ---
 
 ## At a Glance  
