@@ -34,7 +34,7 @@ This is a personal living document, subject to frequent revision.
 
 ### How to think and act[^2]:
 - Learn to navigate ethical dilemmas and cognitive biases
-- Exercise (and urge in others) civic and moral courage
+- Exercise (and urge in others) civic and moral courage[^28]
 - Emphasize "truth over justice"[^1] to fight real (environmental) injustice[^27]
 - Defend free speech and open inquiry
 - Sign the [Pro-Truth Pledge](https://www.protruthpledge.org/), or, at the very least, do not [lie](https://ia902601.us.archive.org/34/items/pdfy-x4ByD3mMjIdTMC0H/Sam%20Harris%20Lying%20(1).pdf)
@@ -122,3 +122,7 @@ Last updated: November 2025
 [^26]: Read Luke Burgis' essay in [Psyche](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire).
 
 [^27]: Read Shiri Spitz Siddiqi's piece on the well-intended perversion of science in Flint on [Free the Inquiry's Substack](https://heterodoxacademy.substack.com/p/the-well-intended-perversion-of-science).
+
+[^28]: Read Rishi Joshi's Substack article ["Why Be Courageous?"](https://desertphilosophy.substack.com/p/why-be-courageous), which includes this refreshing take: 
+> *Intellectual courage is thus like reverse sugar. Why do we enjoy sugary foods so much? The natural explanation is that sugar is calorie rich and it would have helped our survival in our ancestral setting, where calories were scarce. Now that calories are not scarce, though, we still enjoy sugar, leading to an evolutionary mismatch.*
+> *Intellectual courage is the opposite: while speaking our minds on tribally salient beliefs would have been extremely dangerous in the evolutionary setting, the material costs of doing so are much lower now. Of course, there is still the psychological cost, but that’s why the word ‘courage’ is fitting in the first place—if there is no potential cost, then there is no courage.*
