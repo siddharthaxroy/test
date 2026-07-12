@@ -25,8 +25,12 @@
 <!-- Twitter Card - Disabled to fix build issues -->
 <!-- {{/* {{ template "_internal/twitter_cards.html" . }} */}} -->
 
-<!-- OG data -->
-{{ template "_internal/opengraph.html" . }}
+<!-- OG data - Twitter removed from opengraph -->
+{{- if not (eq .Page.Type "post") }}
+  {{ template "_internal/opengraph.html" . }}
+{{- else }}
+  <!-- Using basic opengraph without Twitter integration -->
+{{- end }}
 
 <!-- RSS | JSON -->
 {{ range .AlternativeOutputFormats -}}
