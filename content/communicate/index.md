@@ -64,7 +64,7 @@ Peer-reviewed commentary featuring two case studies (Flint, MI and COVID-19), fo
 
 {{< tweet 1466568606066483214 >}}
 
-{{< tweet 1467565516072132610 >}}
+<!-- {{< tweet 1467565516072132610 >}} -->
 
 {{< figure src="/posts/ijheh-table.png" position="center" style="border-radius: 12px;" caption="Credit: Roy and Edwards, IJHEH, 2021" captionPosition="right" captionStyle="color: red;" >}}
 
